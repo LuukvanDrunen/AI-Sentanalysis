@@ -1,0 +1,2634 @@
+{
+    "data": [
+        {
+            "author_id": "155507136",
+            "lang": "en",
+            "id": "2045102376571326820",
+            "attachments": {
+                "media_keys": [
+                    "3_2045097922673397760",
+                    "3_2045097957930696704",
+                    "3_2045097957934940160"
+                ]
+            },
+            "note_tweet": {
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 96,
+                            "end": 99,
+                            "username": "UN",
+                            "id": "14159148"
+                        },
+                        {
+                            "start": 291,
+                            "end": 307,
+                            "username": "antonioguterres",
+                            "id": "811229675758505984"
+                        }
+                    ]
+                },
+                "text": "In a highly turbulent world, the role of multilateral organisations such as the United Nations (@UN) is of great value. The UN does important work in the areas of international peace, security and human rights, often under difficult circumstances.\n\nThis morning I welcomed Secretary-General @antonioguterres to the Ministry of General Affairs, where he sat in on the weekly cabinet meeting to discuss the UN and developments in the Middle East. We spoke about the situation in the Strait of Hormuz, which is having a major global impact. Further UN priorities include the recovery efforts in Gaza and the situation in the West Bank. To address these issues, it is setting up a new Horizon Fund. I informed the Secretary-General that the Netherlands will contribute €5 million to the fund."
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596157251587",
+                        "name": "Government/Education"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "781974597226729473",
+                        "name": "Non-profit - Government/Education"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10044311823",
+                        "name": "United Nations",
+                        "description": "Global conversation about the United Nations and all related efforts."
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "10044311823",
+                        "name": "United Nations",
+                        "description": "Global conversation about the United Nations and all related efforts."
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "10044311823",
+                        "name": "United Nations",
+                        "description": "Global conversation about the United Nations and all related efforts."
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "847878884917886977",
+                        "name": "Politics",
+                        "description": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1068583660914266113",
+                        "name": "Government institutions",
+                        "description": "Political Body"
+                    }
+                }
+            ],
+            "text": "In a highly turbulent world, the role of multilateral organisations such as the United Nations (@UN) is of great value. The UN does important work in the areas of international peace, security and human rights, often under difficult circumstances.\n\nThis morning I welcomed https://t.co/S4eOBAHuNz",
+            "edit_history_tweet_ids": [
+                "2045102376571326820"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 273,
+                        "end": 296,
+                        "url": "https://t.co/S4eOBAHuNz",
+                        "expanded_url": "https://x.com/MinPres/status/2045102376571326820/photo/1",
+                        "display_url": "pic.x.com/S4eOBAHuNz",
+                        "media_key": "3_2045097922673397760"
+                    },
+                    {
+                        "start": 273,
+                        "end": 296,
+                        "url": "https://t.co/S4eOBAHuNz",
+                        "expanded_url": "https://x.com/MinPres/status/2045102376571326820/photo/1",
+                        "display_url": "pic.x.com/S4eOBAHuNz",
+                        "media_key": "3_2045097957930696704"
+                    },
+                    {
+                        "start": 273,
+                        "end": 296,
+                        "url": "https://t.co/S4eOBAHuNz",
+                        "expanded_url": "https://x.com/MinPres/status/2045102376571326820/photo/1",
+                        "display_url": "pic.x.com/S4eOBAHuNz",
+                        "media_key": "3_2045097957934940160"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 96,
+                        "end": 99,
+                        "username": "UN",
+                        "id": "14159148"
+                    }
+                ]
+            },
+            "created_at": "2026-04-17T11:29:37.000Z",
+            "public_metrics": {
+                "retweet_count": 10,
+                "reply_count": 31,
+                "like_count": 62,
+                "quote_count": 4,
+                "bookmark_count": 2,
+                "impression_count": 5744
+            },
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "display_text_range": [
+                0,
+                272
+            ],
+            "conversation_id": "2045102376571326820"
+        },
+        {
+            "author_id": "155507136",
+            "lang": "nl",
+            "id": "2045095048849547540",
+            "attachments": {
+                "media_keys": [
+                    "3_2045094166930030592",
+                    "3_2045094222215491585",
+                    "3_2045094222194413568"
+                ]
+            },
+            "note_tweet": {
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 97,
+                            "end": 100,
+                            "username": "UN",
+                            "id": "14159148"
+                        },
+                        {
+                            "start": 296,
+                            "end": 312,
+                            "username": "antonioguterres",
+                            "id": "811229675758505984"
+                        }
+                    ]
+                },
+                "text": "In een enorm onrustige wereld, is de rol van multilaterale organisaties als de Verenigde Naties (@UN) van grote waarde. De VN doet belangrijk werk op het gebied van internationale vrede, veiligheid en mensenrechten, vaak onder moeilijke omstandigheden.\n\nVanochtend ontving ik secretaris-generaal @antonioguterres op het ministerie van Algemene Zaken en schoof hij aan bij de ministerraad om te spreken over de VN en ontwikkelingen in het Midden-Oosten. Zo spraken we over de situatie in de Straat van Hormuz, die wereldwijd grote impact heeft. Daarnaast is het herstel in Gaza en de situatie op de Westelijke Jordaanoever een prioriteit van de VN. Daarvoor zet het een nieuw ‘Horizon Fund’ op. Ik heb de SG gemeld dat Nederland daar €5 miljoen aan zal bijdragen."
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                    },
+                    "entity": {
+                        "id": "781974596157251587",
+                        "name": "Government/Education"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                    },
+                    "entity": {
+                        "id": "781974597226729473",
+                        "name": "Non-profit - Government/Education"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                    },
+                    "entity": {
+                        "id": "10044311823",
+                        "name": "United Nations",
+                        "description": "Global conversation about the United Nations and all related efforts."
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "10044311823",
+                        "name": "United Nations",
+                        "description": "Global conversation about the United Nations and all related efforts."
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "10044311823",
+                        "name": "United Nations",
+                        "description": "Global conversation about the United Nations and all related efforts."
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "847878884917886977",
+                        "name": "Politics",
+                        "description": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1068583660914266113",
+                        "name": "Government institutions",
+                        "description": "Political Body"
+                    }
+                }
+            ],
+            "text": "In een enorm onrustige wereld, is de rol van multilaterale organisaties als de Verenigde Naties (@UN) van grote waarde. De VN doet belangrijk werk op het gebied van internationale vrede, veiligheid en mensenrechten, vaak onder moeilijke omstandigheden.\n\nVanochtend ontving ik https://t.co/8Ca4X36c0B",
+            "edit_history_tweet_ids": [
+                "2045095048849547540"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 276,
+                        "end": 299,
+                        "url": "https://t.co/8Ca4X36c0B",
+                        "expanded_url": "https://x.com/MinPres/status/2045095048849547540/photo/1",
+                        "display_url": "pic.x.com/8Ca4X36c0B",
+                        "media_key": "3_2045094166930030592"
+                    },
+                    {
+                        "start": 276,
+                        "end": 299,
+                        "url": "https://t.co/8Ca4X36c0B",
+                        "expanded_url": "https://x.com/MinPres/status/2045095048849547540/photo/1",
+                        "display_url": "pic.x.com/8Ca4X36c0B",
+                        "media_key": "3_2045094222215491585"
+                    },
+                    {
+                        "start": 276,
+                        "end": 299,
+                        "url": "https://t.co/8Ca4X36c0B",
+                        "expanded_url": "https://x.com/MinPres/status/2045095048849547540/photo/1",
+                        "display_url": "pic.x.com/8Ca4X36c0B",
+                        "media_key": "3_2045094222194413568"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 97,
+                        "end": 100,
+                        "username": "UN",
+                        "id": "14159148"
+                    }
+                ]
+            },
+            "created_at": "2026-04-17T11:00:30.000Z",
+            "public_metrics": {
+                "retweet_count": 14,
+                "reply_count": 282,
+                "like_count": 106,
+                "quote_count": 29,
+                "bookmark_count": 6,
+                "impression_count": 14145
+            },
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "display_text_range": [
+                0,
+                275
+            ],
+            "conversation_id": "2045095048849547540"
+        },
+        {
+            "author_id": "155507136",
+            "lang": "en",
+            "id": "2044824252235350499",
+            "attachments": {
+                "media_keys": [
+                    "3_2044824244891099136",
+                    "3_2044824244849094656",
+                    "3_2044824244853374977"
+                ]
+            },
+            "note_tweet": {
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 69,
+                            "end": 81,
+                            "username": "ZelenskyyUa",
+                            "id": "1120633726478823425"
+                        }
+                    ]
+                },
+                "text": "Today, after the Four Freedoms Awards ceremony, I met with President @ZelenskyyUa of Ukraine. Naturally we discussed the current state of the war with Russia – a fight we must not lose sight of, even as unfolding developments in the Middle East demand our attention. Ukraine can count on us. That means we will use sanctions to keep up the pressure on Putin and try to force him to come to the negotiating table.\n\nWe will continue pressing for a just and lasting peace for Ukraine, however distant a prospect that may currently seem. After all, it’s clear that in the past few months Putin hasn’t taken a single step in the right direction. So we must also be realistic. And that requires all allies to do what is needed to support Ukraine in this fight."
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1498702169922420739",
+                        "name": "Volodymyr Zelensky"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "29",
+                        "name": "Events [Entity Service]",
+                        "description": "Real world events. "
+                    },
+                    "entity": {
+                        "id": "1665772587467653121",
+                        "name": "2024 US Presidential Election",
+                        "description": "2024 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1498702169922420739",
+                        "name": "Volodymyr Zelensky"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1484601166080081920",
+                        "name": "Russo-Ukrainian conflict"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "847878884917886977",
+                        "name": "Politics",
+                        "description": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1070032753834438656",
+                        "name": "Political figures",
+                        "description": "Politician"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1291447199595782144",
+                        "name": "United States politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1498702169922420739",
+                        "name": "Volodymyr Zelensky"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1665772587467653121",
+                        "name": "2024 US Presidential Election",
+                        "description": "2024 US Presidential Election"
+                    }
+                }
+            ],
+            "text": "Today, after the Four Freedoms Awards ceremony, I met with President @ZelenskyyUa of Ukraine. Naturally we discussed the current state of the war with Russia – a fight we must not lose sight of, even as unfolding developments in the Middle East demand our attention. Ukraine can https://t.co/NOFCP29pEk",
+            "edit_history_tweet_ids": [
+                "2044824252235350499"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 279,
+                        "end": 302,
+                        "url": "https://t.co/NOFCP29pEk",
+                        "expanded_url": "https://x.com/MinPres/status/2044824252235350499/photo/1",
+                        "display_url": "pic.x.com/NOFCP29pEk",
+                        "media_key": "3_2044824244891099136"
+                    },
+                    {
+                        "start": 279,
+                        "end": 302,
+                        "url": "https://t.co/NOFCP29pEk",
+                        "expanded_url": "https://x.com/MinPres/status/2044824252235350499/photo/1",
+                        "display_url": "pic.x.com/NOFCP29pEk",
+                        "media_key": "3_2044824244849094656"
+                    },
+                    {
+                        "start": 279,
+                        "end": 302,
+                        "url": "https://t.co/NOFCP29pEk",
+                        "expanded_url": "https://x.com/MinPres/status/2044824252235350499/photo/1",
+                        "display_url": "pic.x.com/NOFCP29pEk",
+                        "media_key": "3_2044824244853374977"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 69,
+                        "end": 81,
+                        "username": "ZelenskyyUa",
+                        "id": "1120633726478823425"
+                    }
+                ]
+            },
+            "created_at": "2026-04-16T17:04:27.000Z",
+            "public_metrics": {
+                "retweet_count": 49,
+                "reply_count": 70,
+                "like_count": 212,
+                "quote_count": 4,
+                "bookmark_count": 4,
+                "impression_count": 11901
+            },
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "display_text_range": [
+                0,
+                278
+            ],
+            "conversation_id": "2044824252235350499"
+        },
+        {
+            "author_id": "155507136",
+            "lang": "nl",
+            "id": "2044823997863363020",
+            "attachments": {
+                "media_keys": [
+                    "3_2044823986047963136",
+                    "3_2044823986199261184",
+                    "3_2044823986094112768"
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1498702169922420739",
+                        "name": "Volodymyr Zelensky"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "29",
+                        "name": "Events [Entity Service]",
+                        "description": "Real world events. "
+                    },
+                    "entity": {
+                        "id": "1665772587467653121",
+                        "name": "2024 US Presidential Election",
+                        "description": "2024 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1498702169922420739",
+                        "name": "Volodymyr Zelensky"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "847878884917886977",
+                        "name": "Politics",
+                        "description": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1070032753834438656",
+                        "name": "Political figures",
+                        "description": "Politician"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1291447199595782144",
+                        "name": "United States politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1498702169922420739",
+                        "name": "Volodymyr Zelensky"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1665772587467653121",
+                        "name": "2024 US Presidential Election",
+                        "description": "2024 US Presidential Election"
+                    }
+                }
+            ],
+            "text": "Na de Four Freedom Awards ceremonie vervolgde ik mijn gesprekken met president Zelensky. Uiteraard over de stand van zaken in de oorlog met Rusland. Een strijd die we niet uit het oog mogen verliezen. Ook niet nu de ontwikkelingen in het Midden-Oosten onze aandacht opeisen. https://t.co/jTENhVeKdw",
+            "edit_history_tweet_ids": [
+                "2044823997863363020"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 275,
+                        "end": 298,
+                        "url": "https://t.co/jTENhVeKdw",
+                        "expanded_url": "https://x.com/MinPres/status/2044823997863363020/photo/1",
+                        "display_url": "pic.x.com/jTENhVeKdw",
+                        "media_key": "3_2044823986047963136"
+                    },
+                    {
+                        "start": 275,
+                        "end": 298,
+                        "url": "https://t.co/jTENhVeKdw",
+                        "expanded_url": "https://x.com/MinPres/status/2044823997863363020/photo/1",
+                        "display_url": "pic.x.com/jTENhVeKdw",
+                        "media_key": "3_2044823986199261184"
+                    },
+                    {
+                        "start": 275,
+                        "end": 298,
+                        "url": "https://t.co/jTENhVeKdw",
+                        "expanded_url": "https://x.com/MinPres/status/2044823997863363020/photo/1",
+                        "display_url": "pic.x.com/jTENhVeKdw",
+                        "media_key": "3_2044823986094112768"
+                    }
+                ]
+            },
+            "created_at": "2026-04-16T17:03:26.000Z",
+            "public_metrics": {
+                "retweet_count": 27,
+                "reply_count": 128,
+                "like_count": 160,
+                "quote_count": 8,
+                "bookmark_count": 4,
+                "impression_count": 12482
+            },
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "display_text_range": [
+                0,
+                274
+            ],
+            "note_tweet": {
+                "text": "Na de Four Freedom Awards ceremonie vervolgde ik mijn gesprekken met president Zelensky. Uiteraard over de stand van zaken in de oorlog met Rusland. Een strijd die we niet uit het oog mogen verliezen. Ook niet nu de ontwikkelingen in het Midden-Oosten onze aandacht opeisen. Oekraïne kan op ons rekenen. Dat betekent dat we door middel van sancties de druk op Poetin hoog houden en hem proberen aan de onderhandelingstafel te dwingen.  \n\nWe blijven inzetten op een duurzame en rechtvaardige vrede voor Oekraïne, hoe ver weg die nu ook lijkt. Want we kunnen vaststellen dat Poetin de afgelopen maanden geen enkele stap in de goede richting heeft gezet. We moeten dus ook realistisch zijn. En dat vraagt van alle bondgenoten dat we doen wat nodig is om Oekraïne te steunen in de strijd."
+            },
+            "conversation_id": "2044823997863363020"
+        },
+        {
+            "author_id": "155507136",
+            "lang": "en",
+            "id": "2044814294013890727",
+            "attachments": {
+                "media_keys": [
+                    "3_2044814282521460736",
+                    "3_2044814282508914688",
+                    "3_2044814282521559040"
+                ]
+            },
+            "note_tweet": {
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 314,
+                            "end": 326,
+                            "username": "ZelenskyyUa",
+                            "id": "1120633726478823425"
+                        }
+                    ]
+                },
+                "text": "The Netherlands will continue to support Ukraine. In this regard we are making a firm commitment to collaborating with Ukraine’s defence industry. In part, this means the procurement of drones from Ukrainian companies, but it also entails the co-production of Ukrainian drones by Dutch companies. Today, President @ZelenskyyUa and I gave extra impetus to this deepening of our cooperation by signing a declaration of intent.\n\nOver the coming period we will invest €248 million in drone production in the Netherlands. And I’m glad to note that the first joint project for drone production was launched today, with the signing of a cooperation agreement by the companies VDL and Greentech-Harvest.\n\nWe are hereby strengthening the production and innovative capacities of Dutch industry, which is a crucial part of efforts to expand our European defence capabilities."
+            },
+            "text": "The Netherlands will continue to support Ukraine. In this regard we are making a firm commitment to collaborating with Ukraine’s defence industry. In part, this means the procurement of drones from Ukrainian companies, but it also entails the co-production of Ukrainian drones by https://t.co/Tbr0Okg8Pp",
+            "edit_history_tweet_ids": [
+                "2044814294013890727"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 280,
+                        "end": 303,
+                        "url": "https://t.co/Tbr0Okg8Pp",
+                        "expanded_url": "https://x.com/MinPres/status/2044814294013890727/photo/1",
+                        "display_url": "pic.x.com/Tbr0Okg8Pp",
+                        "media_key": "3_2044814282521460736"
+                    },
+                    {
+                        "start": 280,
+                        "end": 303,
+                        "url": "https://t.co/Tbr0Okg8Pp",
+                        "expanded_url": "https://x.com/MinPres/status/2044814294013890727/photo/1",
+                        "display_url": "pic.x.com/Tbr0Okg8Pp",
+                        "media_key": "3_2044814282508914688"
+                    },
+                    {
+                        "start": 280,
+                        "end": 303,
+                        "url": "https://t.co/Tbr0Okg8Pp",
+                        "expanded_url": "https://x.com/MinPres/status/2044814294013890727/photo/1",
+                        "display_url": "pic.x.com/Tbr0Okg8Pp",
+                        "media_key": "3_2044814282521559040"
+                    }
+                ]
+            },
+            "created_at": "2026-04-16T16:24:53.000Z",
+            "public_metrics": {
+                "retweet_count": 153,
+                "reply_count": 512,
+                "like_count": 737,
+                "quote_count": 37,
+                "bookmark_count": 15,
+                "impression_count": 32206
+            },
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "display_text_range": [
+                0,
+                279
+            ],
+            "conversation_id": "2044814294013890727"
+        },
+        {
+            "author_id": "155507136",
+            "lang": "nl",
+            "id": "2044813847354036569",
+            "attachments": {
+                "media_keys": [
+                    "3_2044813839175139328",
+                    "3_2044813839175168000",
+                    "3_2044813839175176192"
+                ]
+            },
+            "text": "Nederland blijft Oekraïne steunen. Daarbij zetten we vol in op samenwerking met de Oekraïense defensie-industrie. Onder meer door de aankoop van drones bij Oekraïense bedrijven, maar ook door de coproductie van Oekraïense drones door Nederlandse bedrijven. Om deze verdieping van https://t.co/n4rSSqOdY8",
+            "edit_history_tweet_ids": [
+                "2044813847354036569"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 280,
+                        "end": 303,
+                        "url": "https://t.co/n4rSSqOdY8",
+                        "expanded_url": "https://x.com/MinPres/status/2044813847354036569/photo/1",
+                        "display_url": "pic.x.com/n4rSSqOdY8",
+                        "media_key": "3_2044813839175139328"
+                    },
+                    {
+                        "start": 280,
+                        "end": 303,
+                        "url": "https://t.co/n4rSSqOdY8",
+                        "expanded_url": "https://x.com/MinPres/status/2044813847354036569/photo/1",
+                        "display_url": "pic.x.com/n4rSSqOdY8",
+                        "media_key": "3_2044813839175168000"
+                    },
+                    {
+                        "start": 280,
+                        "end": 303,
+                        "url": "https://t.co/n4rSSqOdY8",
+                        "expanded_url": "https://x.com/MinPres/status/2044813847354036569/photo/1",
+                        "display_url": "pic.x.com/n4rSSqOdY8",
+                        "media_key": "3_2044813839175176192"
+                    }
+                ]
+            },
+            "created_at": "2026-04-16T16:23:06.000Z",
+            "public_metrics": {
+                "retweet_count": 50,
+                "reply_count": 394,
+                "like_count": 323,
+                "quote_count": 18,
+                "bookmark_count": 7,
+                "impression_count": 19581
+            },
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "display_text_range": [
+                0,
+                279
+            ],
+            "note_tweet": {
+                "text": "Nederland blijft Oekraïne steunen. Daarbij zetten we vol in op samenwerking met de Oekraïense defensie-industrie. Onder meer door de aankoop van drones bij Oekraïense bedrijven, maar ook door de coproductie van Oekraïense drones door Nederlandse bedrijven. Om deze verdieping van onze samenwerking kracht bij te zetten ondertekenden president Zelensky en ik vandaag een intentieverklaring. \n\nDe komende tijd investeren we voor 248 miljoen euro in droneproductie in Nederland. En ik ben blij dat vandaag het eerste gezamenlijke project voor de productie van drones van start is gegaan met de ondertekening van een samenwerkingsovereenkomst door de bedrijven VDL en Greentech-Harvest.  \n\nHiermee versterken we tegelijkertijd de productiecapaciteit en het innovatievermogen van de Nederlandse industrie, een cruciaal onderdeel van de uitbreiding van onze Europese defensiekracht."
+            },
+            "conversation_id": "2044813847354036569"
+        },
+        {
+            "author_id": "155507136",
+            "lang": "nl",
+            "id": "2044761519586410776",
+            "attachments": {
+                "media_keys": [
+                    "3_2044761509042245633",
+                    "3_2044761508899426304",
+                    "3_2044761508870017024"
+                ]
+            },
+            "note_tweet": {
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 620,
+                            "end": 632,
+                            "username": "ZelenskyyUa",
+                            "id": "1120633726478823425"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "start": 763,
+                            "end": 786,
+                            "url": "https://t.co/sZ4h3BRbpT",
+                            "expanded_url": "https://www.rijksoverheid.nl/regering/bewindspersonen/rob-jetten/documenten/toespraken/2026/04/16/toespraak-mp-jetten-bij-uitreiking-international-four-freedoms-award",
+                            "display_url": "rijksoverheid.nl/regering/bewin…"
+                        }
+                    ]
+                },
+                "text": "Namens gewone mannen, vrouwen en kinderen, die van de ene op de andere dag een nieuwe werkelijkheid intuimelden waar ze niet voor kozen. \n\nNamens kinderen die in een schuilkelder naar school gaan. \n\nNamens vrouwen die hun gezin en het land draaiend houden door te werken in fabrieken.\n\nEn namens mannen die vanuit een baan met pak en stropdas, ineens in een camouflagepak hun grondgebied moeten verdedigen. Meter voor meter. \n\nEn die dat doen, omdat zij weten en voelen, dat iedere vierkante centimeter niet alleen uit Oekraïense aarde, maar ook uit Oekraïense waardigheid bestaat. Dat is wat zij verdedigen.\n\nPresident @ZelenskyyUa, deze award is voor Oekraïne. Voor jou als president. En voor alle mensen in Oekraïne.\n\nMijn hele toespraak is terug te lezen via https://t.co/sZ4h3BRbpT\n\nVandaag mocht ik samen met Elizabeth Roosevelt Johnston (de achterkleindochter van president Roosevelt) in Middelburg de Four Freedoms Award uitreiken aan de Oekraïense president Zelensky. \n\nHij neemt de prijs mede namens het Oekraïense volk in ontvangst als ‘erkenning voor de moedige strijd voor onze vrijheid en democratie onder uitzonderlijk zware omstandigheden’."
+            },
+            "text": "Namens gewone mannen, vrouwen en kinderen, die van de ene op de andere dag een nieuwe werkelijkheid intuimelden waar ze niet voor kozen. \n\nNamens kinderen die in een schuilkelder naar school gaan. \n\nNamens vrouwen die hun gezin en het land draaiend houden door te werken in https://t.co/SA3tHlcXnK",
+            "edit_history_tweet_ids": [
+                "2044761519586410776"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 274,
+                        "end": 297,
+                        "url": "https://t.co/SA3tHlcXnK",
+                        "expanded_url": "https://x.com/MinPres/status/2044761519586410776/photo/1",
+                        "display_url": "pic.x.com/SA3tHlcXnK",
+                        "media_key": "3_2044761509042245633"
+                    },
+                    {
+                        "start": 274,
+                        "end": 297,
+                        "url": "https://t.co/SA3tHlcXnK",
+                        "expanded_url": "https://x.com/MinPres/status/2044761519586410776/photo/1",
+                        "display_url": "pic.x.com/SA3tHlcXnK",
+                        "media_key": "3_2044761508899426304"
+                    },
+                    {
+                        "start": 274,
+                        "end": 297,
+                        "url": "https://t.co/SA3tHlcXnK",
+                        "expanded_url": "https://x.com/MinPres/status/2044761519586410776/photo/1",
+                        "display_url": "pic.x.com/SA3tHlcXnK",
+                        "media_key": "3_2044761508870017024"
+                    }
+                ]
+            },
+            "created_at": "2026-04-16T12:55:10.000Z",
+            "public_metrics": {
+                "retweet_count": 97,
+                "reply_count": 1024,
+                "like_count": 517,
+                "quote_count": 78,
+                "bookmark_count": 14,
+                "impression_count": 73569
+            },
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "display_text_range": [
+                0,
+                273
+            ],
+            "conversation_id": "2044761519586410776"
+        },
+        {
+            "author_id": "155507136",
+            "lang": "en",
+            "id": "2044761336949641330",
+            "attachments": {
+                "media_keys": [
+                    "3_2044761324505137152",
+                    "3_2044761324526227456",
+                    "3_2044761324677369856"
+                ]
+            },
+            "note_tweet": {
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 1025,
+                            "end": 1037,
+                            "username": "ZelenskyyUa",
+                            "id": "1120633726478823425"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "start": 741,
+                            "end": 764,
+                            "url": "https://t.co/dqkvcJPizm",
+                            "expanded_url": "https://www.government.nl/documents/speeches/2026/04/16/speech-by-pm-rob-jetten-at-international-four-freedoms-awards-ceremony",
+                            "display_url": "government.nl/documents/spee…"
+                        }
+                    ]
+                },
+                "text": "“On behalf of all the ordinary men, women and children who were thrust overnight into a new reality they did not choose.\n\nOn behalf of the children who now go to school in an air-raid shelter.\n\nOn behalf of the women who keep their families afloat and their country running by working in factories.\n\nOn behalf of the men who’ve had to swap a suit-and-tie for combat fatigues, and are fighting to defend their territory. Metre by metre.\n\nWho are doing so because they know and feel that every square centimetre is a piece not just of Ukraine’s soil, but of its dignity too. That is what they are defending.\n\nPresident Zelenskyy, Volodymyr: this award is for your country. For you as president. And for all the Ukrainian people.” \n\nClick here https://t.co/dqkvcJPizm to read my speech at the Four Freedoms Awards ceremony.\n\nToday in Middelburg it was my privilege to join Elizabeth Roosevelt Johnston (the great-granddaughter of President Franklin D. Roosevelt) in presenting the International Four Freedoms Award to President @ZelenskyyUa of Ukraine. \n\nHe accepted the award on behalf of the Ukrainian people as a ‘recognition of the courageous fight for our freedom and democracy under exceptionally difficult circumstances’."
+            },
+            "text": "“On behalf of all the ordinary men, women and children who were thrust overnight into a new reality they did not choose.\n\nOn behalf of the children who now go to school in an air-raid shelter.\n\nOn behalf of the women who keep their families afloat and their country running by https://t.co/B9P1PHqfG6",
+            "edit_history_tweet_ids": [
+                "2044761336949641330"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 277,
+                        "end": 300,
+                        "url": "https://t.co/B9P1PHqfG6",
+                        "expanded_url": "https://x.com/MinPres/status/2044761336949641330/photo/1",
+                        "display_url": "pic.x.com/B9P1PHqfG6",
+                        "media_key": "3_2044761324505137152"
+                    },
+                    {
+                        "start": 277,
+                        "end": 300,
+                        "url": "https://t.co/B9P1PHqfG6",
+                        "expanded_url": "https://x.com/MinPres/status/2044761336949641330/photo/1",
+                        "display_url": "pic.x.com/B9P1PHqfG6",
+                        "media_key": "3_2044761324526227456"
+                    },
+                    {
+                        "start": 277,
+                        "end": 300,
+                        "url": "https://t.co/B9P1PHqfG6",
+                        "expanded_url": "https://x.com/MinPres/status/2044761336949641330/photo/1",
+                        "display_url": "pic.x.com/B9P1PHqfG6",
+                        "media_key": "3_2044761324677369856"
+                    }
+                ]
+            },
+            "created_at": "2026-04-16T12:54:27.000Z",
+            "public_metrics": {
+                "retweet_count": 240,
+                "reply_count": 176,
+                "like_count": 816,
+                "quote_count": 15,
+                "bookmark_count": 20,
+                "impression_count": 22559
+            },
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "display_text_range": [
+                0,
+                276
+            ],
+            "conversation_id": "2044761336949641330"
+        },
+        {
+            "author_id": "155507136",
+            "lang": "nl",
+            "id": "2044480857713320111",
+            "attachments": {
+                "media_keys": [
+                    "13_2044480745461452802"
+                ]
+            },
+            "text": "De Nederlandse maakindustrie is een van de grootste bedrijfstakken in ons land. Door op een duurzame manier te produceren, te innoveren en samen met onderwijsinstellingen talent op te leiden, vormen dit soort bedrijven een belangrijke motor van onze economie.\n\nVandaag was ik te https://t.co/IHwuecdBJK",
+            "edit_history_tweet_ids": [
+                "2044480857713320111"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 279,
+                        "end": 302,
+                        "url": "https://t.co/IHwuecdBJK",
+                        "expanded_url": "https://x.com/MinPres/status/2044480857713320111/video/1",
+                        "display_url": "pic.x.com/IHwuecdBJK",
+                        "media_key": "13_2044480745461452802"
+                    }
+                ]
+            },
+            "created_at": "2026-04-15T18:19:55.000Z",
+            "public_metrics": {
+                "retweet_count": 49,
+                "reply_count": 449,
+                "like_count": 324,
+                "quote_count": 34,
+                "bookmark_count": 19,
+                "impression_count": 50794
+            },
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "display_text_range": [
+                0,
+                278
+            ],
+            "note_tweet": {
+                "text": "De Nederlandse maakindustrie is een van de grootste bedrijfstakken in ons land. Door op een duurzame manier te produceren, te innoveren en samen met onderwijsinstellingen talent op te leiden, vormen dit soort bedrijven een belangrijke motor van onze economie.\n\nVandaag was ik te gast bij Abuco en HGG, twee ondernemingen in de staalverwerkingsindustrie. Hoewel veel mensen deze bedrijven misschien niet direct zullen kennen, dragen zij in sterke mate bij aan onze welvaart. Tijdens het bezoek sprak ik met studenten en medewerkers van de bedrijven en kreeg zo een indrukwekkende inkijk in de ontwikkeling van de regionale maakindustrie naar hightech engineering en internationale machinebouw. \n\nNatuurlijk zijn er ook uitdagingen. Krapte op de arbeidsmarkt, internationale concurrentie en geopolitieke ontwikkelingen leggen druk op deze industrie. Dit inspirerende bezoek laat zien waarom het van belang is om voor deze industrie te ondersteunen. Zo bouwen we samen aan een toekomstbestendige Nederlandse maakindustrie."
+            },
+            "conversation_id": "2044480857713320111"
+        },
+        {
+            "author_id": "155507136",
+            "lang": "es",
+            "id": "2044378795717575149",
+            "attachments": {
+                "media_keys": [
+                    "3_2044378788599922688",
+                    "3_2044378788486635520"
+                ]
+            },
+            "note_tweet": {
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 22,
+                            "end": 36,
+                            "username": "MariaCorinaYA",
+                            "id": "102482331"
+                        }
+                    ]
+                },
+                "text": "Es un honor recibir a @MariaCorinaYA, ganadora del Premio Nobel de la Paz. Durante muchos años se ha dedicado pacíficamente por una Venezuela libre y democrática que merece respeto y aprecio.\n\nHablamos sobre la actualidad en Venezuela y la importancia del apoyo internacional permanente a la libertad y la democracia."
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1352676864007958528",
+                        "name": "Nobel Prize"
+                    }
+                }
+            ],
+            "text": "Es un honor recibir a @MariaCorinaYA, ganadora del Premio Nobel de la Paz. Durante muchos años se ha dedicado pacíficamente por una Venezuela libre y democrática que merece respeto y aprecio.\n\nHablamos sobre la actualidad en Venezuela y la importancia del apoyo internacional https://t.co/mEtB0guVVY",
+            "edit_history_tweet_ids": [
+                "2044378795717575149"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 276,
+                        "end": 299,
+                        "url": "https://t.co/mEtB0guVVY",
+                        "expanded_url": "https://x.com/MinPres/status/2044378795717575149/photo/1",
+                        "display_url": "pic.x.com/mEtB0guVVY",
+                        "media_key": "3_2044378788599922688"
+                    },
+                    {
+                        "start": 276,
+                        "end": 299,
+                        "url": "https://t.co/mEtB0guVVY",
+                        "expanded_url": "https://x.com/MinPres/status/2044378795717575149/photo/1",
+                        "display_url": "pic.x.com/mEtB0guVVY",
+                        "media_key": "3_2044378788486635520"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 22,
+                        "end": 36,
+                        "username": "MariaCorinaYA",
+                        "id": "102482331"
+                    }
+                ]
+            },
+            "created_at": "2026-04-15T11:34:22.000Z",
+            "public_metrics": {
+                "retweet_count": 678,
+                "reply_count": 136,
+                "like_count": 2121,
+                "quote_count": 24,
+                "bookmark_count": 28,
+                "impression_count": 101552
+            },
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "display_text_range": [
+                0,
+                275
+            ],
+            "conversation_id": "2044378795717575149"
+        },
+        {
+            "author_id": "155507136",
+            "lang": "nl",
+            "id": "2044377485677142426",
+            "attachments": {
+                "media_keys": [
+                    "3_2044377477603086336",
+                    "3_2044377477825617920"
+                ]
+            },
+            "note_tweet": {
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 10,
+                            "end": 24,
+                            "username": "MariaCorinaYA",
+                            "id": "102482331"
+                        }
+                    ]
+                },
+                "text": "Eervol om @MariaCorinaYA te ontvangen, de winnares voor de Nobelprijs voor de Vrede. Haar jarenlange vreedzame inzet voor een vrij en democratisch Venezuela verdient respect en waardering. \n\nWe hebben gesproken over de ontwikkelingen in Venezuela en het belang van blijvende internationale steun voor vrijheid en democratie."
+            },
+            "text": "Eervol om @MariaCorinaYA te ontvangen, de winnares voor de Nobelprijs voor de Vrede. Haar jarenlange vreedzame inzet voor een vrij en democratisch Venezuela verdient respect en waardering. \n\nWe hebben gesproken over de ontwikkelingen in Venezuela en het belang van blijvende https://t.co/ueFFRhHSTT",
+            "edit_history_tweet_ids": [
+                "2044377485677142426"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 275,
+                        "end": 298,
+                        "url": "https://t.co/ueFFRhHSTT",
+                        "expanded_url": "https://x.com/MinPres/status/2044377485677142426/photo/1",
+                        "display_url": "pic.x.com/ueFFRhHSTT",
+                        "media_key": "3_2044377477603086336"
+                    },
+                    {
+                        "start": 275,
+                        "end": 298,
+                        "url": "https://t.co/ueFFRhHSTT",
+                        "expanded_url": "https://x.com/MinPres/status/2044377485677142426/photo/1",
+                        "display_url": "pic.x.com/ueFFRhHSTT",
+                        "media_key": "3_2044377477825617920"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 10,
+                        "end": 24,
+                        "username": "MariaCorinaYA",
+                        "id": "102482331"
+                    }
+                ]
+            },
+            "created_at": "2026-04-15T11:29:09.000Z",
+            "public_metrics": {
+                "retweet_count": 1050,
+                "reply_count": 475,
+                "like_count": 3164,
+                "quote_count": 77,
+                "bookmark_count": 55,
+                "impression_count": 188259
+            },
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "display_text_range": [
+                0,
+                274
+            ],
+            "conversation_id": "2044377485677142426"
+        },
+        {
+            "author_id": "155507136",
+            "lang": "en",
+            "id": "2044141257685917892",
+            "text": "Together with international partners, the Netherlands calls for the inclusion of Lebanon in the regional de-escalation efforts and welcome the engagement of Israel and Libanon toward a lasting political solution. https://t.co/gzJtEPbwDN",
+            "edit_history_tweet_ids": [
+                "2044141257685917892"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 213,
+                        "end": 236,
+                        "url": "https://t.co/gzJtEPbwDN",
+                        "expanded_url": "https://twitter.com/ministerbz/status/2044139940435357979",
+                        "display_url": "x.com/ministerbz/sta…"
+                    }
+                ]
+            },
+            "created_at": "2026-04-14T19:50:28.000Z",
+            "public_metrics": {
+                "retweet_count": 29,
+                "reply_count": 103,
+                "like_count": 172,
+                "quote_count": 5,
+                "bookmark_count": 7,
+                "impression_count": 39249
+            },
+            "possibly_sensitive": false,
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "2044139940435357979"
+                }
+            ],
+            "reply_settings": "everyone",
+            "display_text_range": [
+                0,
+                212
+            ],
+            "conversation_id": "2044141257685917892"
+        },
+        {
+            "author_id": "155507136",
+            "lang": "en",
+            "id": "2044122818892214651",
+            "attachments": {
+                "media_keys": [
+                    "3_2044122807538462720",
+                    "3_2044122807416561664",
+                    "3_2044122807416598528",
+                    "3_2044122807420751872"
+                ]
+            },
+            "note_tweet": {
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 208,
+                            "end": 221,
+                            "username": "Keir_Starmer",
+                            "id": "2425571623"
+                        }
+                    ]
+                },
+                "text": "🇳🇱🇬🇧 In these times of geopolitical turbulence, it’s reassuring to have a partner and a friend in the United Kingdom, our good North Sea Neighbour. This was reaffirmed today during my visit to Prime Minister @Keir_Starmer in London. \n \nNaturally we discussed the fragile situation in and around Iran. I expressed my appreciation for the UK’s initiative to contribute, with the Netherlands and other allies, to an open Strait of Hormuz. The closure of the Strait is having a big economic impact worldwide. At the same time, we are not losing sight of the war in Ukraine. Ukraine can continue to count on us.\n \nToday Prime Minister Starmer and I also took part in a roundtable discussion with energy companies from our two countries, focusing on the current energy crisis that is having a major impact on households and businesses. We must also remain committed to finding long-term solutions, to keep energy affordable and stay on track for a climate-neutral future."
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1070735166069334017",
+                        "name": "Keir Starmer",
+                        "description": "British politician and lawyer"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1070735166069334017",
+                        "name": "Keir Starmer",
+                        "description": "British politician and lawyer"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "847878884917886977",
+                        "name": "Politics",
+                        "description": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1070032753834438656",
+                        "name": "Political figures",
+                        "description": "Politician"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1070735166069334017",
+                        "name": "Keir Starmer",
+                        "description": "British politician and lawyer"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "156",
+                        "name": "Cities",
+                        "description": "Cities around the world"
+                    },
+                    "entity": {
+                        "id": "855412191050121217",
+                        "name": "London",
+                        "description": "london"
+                    }
+                }
+            ],
+            "text": "🇳🇱🇬🇧 In these times of geopolitical turbulence, it’s reassuring to have a partner and a friend in the United Kingdom, our good North Sea Neighbour. This was reaffirmed today during my visit to Prime Minister @Keir_Starmer in London. \n \nNaturally we discussed the fragile situation https://t.co/hORF2hbddO",
+            "edit_history_tweet_ids": [
+                "2044122818892214651"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 281,
+                        "end": 304,
+                        "url": "https://t.co/hORF2hbddO",
+                        "expanded_url": "https://x.com/MinPres/status/2044122818892214651/photo/1",
+                        "display_url": "pic.x.com/hORF2hbddO",
+                        "media_key": "3_2044122807538462720"
+                    },
+                    {
+                        "start": 281,
+                        "end": 304,
+                        "url": "https://t.co/hORF2hbddO",
+                        "expanded_url": "https://x.com/MinPres/status/2044122818892214651/photo/1",
+                        "display_url": "pic.x.com/hORF2hbddO",
+                        "media_key": "3_2044122807416561664"
+                    },
+                    {
+                        "start": 281,
+                        "end": 304,
+                        "url": "https://t.co/hORF2hbddO",
+                        "expanded_url": "https://x.com/MinPres/status/2044122818892214651/photo/1",
+                        "display_url": "pic.x.com/hORF2hbddO",
+                        "media_key": "3_2044122807416598528"
+                    },
+                    {
+                        "start": 281,
+                        "end": 304,
+                        "url": "https://t.co/hORF2hbddO",
+                        "expanded_url": "https://x.com/MinPres/status/2044122818892214651/photo/1",
+                        "display_url": "pic.x.com/hORF2hbddO",
+                        "media_key": "3_2044122807420751872"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 208,
+                        "end": 221,
+                        "username": "Keir_Starmer",
+                        "id": "2425571623"
+                    }
+                ]
+            },
+            "created_at": "2026-04-14T18:37:12.000Z",
+            "public_metrics": {
+                "retweet_count": 277,
+                "reply_count": 203,
+                "like_count": 2034,
+                "quote_count": 16,
+                "bookmark_count": 52,
+                "impression_count": 93976
+            },
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "display_text_range": [
+                0,
+                280
+            ],
+            "conversation_id": "2044122818892214651"
+        },
+        {
+            "author_id": "155507136",
+            "lang": "nl",
+            "id": "2044122534124101857",
+            "attachments": {
+                "media_keys": [
+                    "3_2044122502969077761",
+                    "3_2044122502821986304",
+                    "3_2044122502834642944",
+                    "3_2044122502826221569"
+                ]
+            },
+            "note_tweet": {
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 226,
+                            "end": 239,
+                            "username": "Keir_Starmer",
+                            "id": "2425571623"
+                        }
+                    ]
+                },
+                "text": "🇳🇱🇬🇧 In deze tijden van geopolitieke turbulentie geeft het vertrouwen dat wij in het Verenigd Koninkrijk een partner en vriend hebben – onze goede North Sea Neighbour. Zo bleek ook vandaag weer tijdens mijn bezoek aan premier @Keir_Starmer in Londen.\n \nVanzelfsprekend hebben we gesproken over de broze situatie in en rond Iran. Ik heb mijn waardering uitgesproken voor het initiatief van het VK om samen met Nederland en andere bondgenoten bij te dragen aan een open Straat van Hormuz. Afsluiting van de zeestraat heeft wereldwijd grote economische impact. Daarnaast verliezen we de oorlog in Oekraïne niet uit het oog en kan het land op ons blijven rekenen.\n \nPremier Starmer en ik sloten vandaag ook aan bij een rondetafelgesprek tussen energiebedrijven uit onze beide landen, met als focus de huidige energiecrisis die grote impact heeft op huishoudens en bedrijven. Ondertussen moeten we blijven inzetten op oplossingen voor de lange termijn, om energie betaalbaar te houden en toe te werken naar een klimaatneutrale toekomst."
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "1070735166069334017",
+                        "name": "Keir Starmer",
+                        "description": "British politician and lawyer"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "1070735166069334017",
+                        "name": "Keir Starmer",
+                        "description": "British politician and lawyer"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "847878884917886977",
+                        "name": "Politics",
+                        "description": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1070032753834438656",
+                        "name": "Political figures",
+                        "description": "Politician"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1070735166069334017",
+                        "name": "Keir Starmer",
+                        "description": "British politician and lawyer"
+                    }
+                }
+            ],
+            "text": "🇳🇱🇬🇧 In deze tijden van geopolitieke turbulentie geeft het vertrouwen dat wij in het Verenigd Koninkrijk een partner en vriend hebben – onze goede North Sea Neighbour. Zo bleek ook vandaag weer tijdens mijn bezoek aan premier @Keir_Starmer in Londen.\n \nVanzelfsprekend hebben we https://t.co/VV3XF0FiKP",
+            "edit_history_tweet_ids": [
+                "2044122534124101857"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 279,
+                        "end": 302,
+                        "url": "https://t.co/VV3XF0FiKP",
+                        "expanded_url": "https://x.com/MinPres/status/2044122534124101857/photo/1",
+                        "display_url": "pic.x.com/VV3XF0FiKP",
+                        "media_key": "3_2044122502969077761"
+                    },
+                    {
+                        "start": 279,
+                        "end": 302,
+                        "url": "https://t.co/VV3XF0FiKP",
+                        "expanded_url": "https://x.com/MinPres/status/2044122534124101857/photo/1",
+                        "display_url": "pic.x.com/VV3XF0FiKP",
+                        "media_key": "3_2044122502821986304"
+                    },
+                    {
+                        "start": 279,
+                        "end": 302,
+                        "url": "https://t.co/VV3XF0FiKP",
+                        "expanded_url": "https://x.com/MinPres/status/2044122534124101857/photo/1",
+                        "display_url": "pic.x.com/VV3XF0FiKP",
+                        "media_key": "3_2044122502834642944"
+                    },
+                    {
+                        "start": 279,
+                        "end": 302,
+                        "url": "https://t.co/VV3XF0FiKP",
+                        "expanded_url": "https://x.com/MinPres/status/2044122534124101857/photo/1",
+                        "display_url": "pic.x.com/VV3XF0FiKP",
+                        "media_key": "3_2044122502826221569"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 226,
+                        "end": 239,
+                        "username": "Keir_Starmer",
+                        "id": "2425571623"
+                    }
+                ]
+            },
+            "created_at": "2026-04-14T18:36:04.000Z",
+            "public_metrics": {
+                "retweet_count": 57,
+                "reply_count": 494,
+                "like_count": 463,
+                "quote_count": 29,
+                "bookmark_count": 11,
+                "impression_count": 45139
+            },
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "display_text_range": [
+                0,
+                278
+            ],
+            "conversation_id": "2044122534124101857"
+        },
+        {
+            "author_id": "155507136",
+            "lang": "en",
+            "id": "2043901552881025042",
+            "attachments": {
+                "media_keys": [
+                    "3_2043901257069240321",
+                    "3_2043901257056751616"
+                ]
+            },
+            "note_tweet": {
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 54,
+                            "end": 69,
+                            "username": "koninklijkhuis",
+                            "id": "156926956"
+                        }
+                    ]
+                },
+                "text": "Together with King Willem-Alexander and Queen Máxima (@koninklijkhuis), I visited President Donald Trump and First Lady Melania Trump at the White House this evening.\n\nOur visit focused on the special and deeply rooted bond between the United States and the Netherlands. We talked about our strong trade relations and our security cooperation, including within NATO.\n\nOf course we also discussed the recent developments in and around Iran. It is important that we now work towards a sustainable solution and prevent the situation from escalating further. Russia’s continuing aggression in Ukraine was also a key topic of discussion.\n\n🇳🇱🇺🇸"
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "45th US President, Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "29",
+                        "name": "Events [Entity Service]",
+                        "description": "Real world events. "
+                    },
+                    "entity": {
+                        "id": "1665772587467653121",
+                        "name": "2024 US Presidential Election",
+                        "description": "2024 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "45th US President, Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "45th US President, Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "847878884917886977",
+                        "name": "Politics",
+                        "description": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1070032753834438656",
+                        "name": "Political figures",
+                        "description": "Politician"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1291447199595782144",
+                        "name": "United States politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1665772587467653121",
+                        "name": "2024 US Presidential Election",
+                        "description": "2024 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "866713693324574720",
+                        "name": "Melania Trump",
+                        "description": "Former US First Lady Melania Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "871795678447456256",
+                        "name": "The White House",
+                        "description": "Conversation from and about the White House, both as a destination and as political voice"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "847878884917886977",
+                        "name": "Politics",
+                        "description": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "866713693324574720",
+                        "name": "Melania Trump",
+                        "description": "Former US First Lady Melania Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "871795678447456256",
+                        "name": "The White House",
+                        "description": "Conversation from and about the White House, both as a destination and as political voice"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1068583660914266113",
+                        "name": "Government institutions",
+                        "description": "Political Body"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1070032753834438656",
+                        "name": "Political figures",
+                        "description": "Politician"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "29",
+                        "name": "Events [Entity Service]",
+                        "description": "Real world events. "
+                    },
+                    "entity": {
+                        "id": "1811085126010281984",
+                        "name": "2024 Republican National Convention",
+                        "description": "The Republican National Convention is about to convene in Milwaukee to nominate President Donald J. Trump! Tune in live on X starting July 15th at 6pm CT to watch LIVE as we unite for a stronger America!"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "29",
+                        "name": "Events [Entity Service]",
+                        "description": "Real world events. "
+                    },
+                    "entity": {
+                        "id": "1836137739353292800",
+                        "name": "2024 US Election",
+                        "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n"
+                    }
+                }
+            ],
+            "text": "Together with King Willem-Alexander and Queen Máxima (@koninklijkhuis), I visited President Donald Trump and First Lady Melania Trump at the White House this evening.\n\nOur visit focused on the special and deeply rooted bond between the United States and the Netherlands. We talked https://t.co/4c8bDwVG1u",
+            "edit_history_tweet_ids": [
+                "2043901273024422291",
+                "2043901552881025042"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 281,
+                        "end": 304,
+                        "url": "https://t.co/4c8bDwVG1u",
+                        "expanded_url": "https://x.com/MinPres/status/2043901552881025042/photo/1",
+                        "display_url": "pic.x.com/4c8bDwVG1u",
+                        "media_key": "3_2043901257069240321"
+                    },
+                    {
+                        "start": 281,
+                        "end": 304,
+                        "url": "https://t.co/4c8bDwVG1u",
+                        "expanded_url": "https://x.com/MinPres/status/2043901552881025042/photo/1",
+                        "display_url": "pic.x.com/4c8bDwVG1u",
+                        "media_key": "3_2043901257056751616"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 54,
+                        "end": 69,
+                        "username": "koninklijkhuis",
+                        "id": "156926956"
+                    }
+                ]
+            },
+            "created_at": "2026-04-14T03:57:58.000Z",
+            "public_metrics": {
+                "retweet_count": 102,
+                "reply_count": 240,
+                "like_count": 789,
+                "quote_count": 22,
+                "bookmark_count": 47,
+                "impression_count": 78382
+            },
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "display_text_range": [
+                0,
+                280
+            ],
+            "conversation_id": "2043901552881025042"
+        },
+        {
+            "author_id": "155507136",
+            "lang": "nl",
+            "id": "2043901095081103374",
+            "attachments": {
+                "media_keys": [
+                    "3_2043901072842903552",
+                    "3_2043901072842850304"
+                ]
+            },
+            "note_tweet": {
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 54,
+                            "end": 69,
+                            "username": "koninklijkhuis",
+                            "id": "156926956"
+                        },
+                        {
+                            "start": 101,
+                            "end": 117,
+                            "username": "realDonaldTrump",
+                            "id": "25073877"
+                        }
+                    ]
+                },
+                "text": "Samen met Koning Willem-Alexander en Koningin Máxima (@koninklijkhuis) bezocht ik vanavond president @realDonaldTrump en First Lady Melania Trump in het Witte Huis.\n \nOns bezoek stond in het teken van de speciale en diepgewortelde banden tussen de Verenigde Staten en Nederland. We spraken over onze sterke handelsrelatie en onze samenwerking op gebied van veiligheid, onder meer binnen het NAVO-bondgenootschap.\n \nVanzelfsprekend hebben wij uitgebreid stilgestaan bij de recente ontwikkelingen in en rond Iran. Het is zaak dat er nu wordt gewerkt aan een duurzame oplossing en nieuwe escalatie wordt voorkomen. Ook de aanhoudende Russische agressie in Oekraïne was een belangrijk onderwerp van gesprek.\n \n🇳🇱🇺🇸"
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "45th US President, Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "29",
+                        "name": "Events [Entity Service]",
+                        "description": "Real world events. "
+                    },
+                    "entity": {
+                        "id": "1665772587467653121",
+                        "name": "2024 US Presidential Election",
+                        "description": "2024 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "45th US President, Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "799022225751871488",
+                        "name": "Donald Trump",
+                        "description": "45th US President, Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "847878884917886977",
+                        "name": "Politics",
+                        "description": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1070032753834438656",
+                        "name": "Political figures",
+                        "description": "Politician"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1291447199595782144",
+                        "name": "United States politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1665772587467653121",
+                        "name": "2024 US Presidential Election",
+                        "description": "2024 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                    },
+                    "entity": {
+                        "id": "866713693324574720",
+                        "name": "Melania Trump",
+                        "description": "Former US First Lady Melania Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "847878884917886977",
+                        "name": "Politics",
+                        "description": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "866713693324574720",
+                        "name": "Melania Trump",
+                        "description": "Former US First Lady Melania Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1070032753834438656",
+                        "name": "Political figures",
+                        "description": "Politician"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "29",
+                        "name": "Events [Entity Service]",
+                        "description": "Real world events. "
+                    },
+                    "entity": {
+                        "id": "1836137739353292800",
+                        "name": "2024 US Election",
+                        "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n"
+                    }
+                }
+            ],
+            "text": "Samen met Koning Willem-Alexander en Koningin Máxima (@koninklijkhuis) bezocht ik vanavond president @realDonaldTrump en First Lady Melania Trump in het Witte Huis.\n \nOns bezoek stond in het teken van de speciale en diepgewortelde banden tussen de Verenigde Staten en Nederland. https://t.co/7kGvvcdMTT",
+            "edit_history_tweet_ids": [
+                "2043901095081103374"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 279,
+                        "end": 302,
+                        "url": "https://t.co/7kGvvcdMTT",
+                        "expanded_url": "https://x.com/MinPres/status/2043901095081103374/photo/1",
+                        "display_url": "pic.x.com/7kGvvcdMTT",
+                        "media_key": "3_2043901072842903552"
+                    },
+                    {
+                        "start": 279,
+                        "end": 302,
+                        "url": "https://t.co/7kGvvcdMTT",
+                        "expanded_url": "https://x.com/MinPres/status/2043901095081103374/photo/1",
+                        "display_url": "pic.x.com/7kGvvcdMTT",
+                        "media_key": "3_2043901072842850304"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 54,
+                        "end": 69,
+                        "username": "koninklijkhuis",
+                        "id": "156926956"
+                    },
+                    {
+                        "start": 101,
+                        "end": 117,
+                        "username": "realDonaldTrump",
+                        "id": "25073877"
+                    }
+                ]
+            },
+            "created_at": "2026-04-14T03:56:09.000Z",
+            "public_metrics": {
+                "retweet_count": 68,
+                "reply_count": 653,
+                "like_count": 620,
+                "quote_count": 37,
+                "bookmark_count": 39,
+                "impression_count": 98186
+            },
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "display_text_range": [
+                0,
+                278
+            ],
+            "conversation_id": "2043901095081103374"
+        },
+        {
+            "author_id": "155507136",
+            "lang": "en",
+            "id": "2043812391964557394",
+            "attachments": {
+                "media_keys": [
+                    "3_2043812376097492992",
+                    "3_2043812376084942848",
+                    "3_2043812376441696259",
+                    "3_2043812376093364224"
+                ]
+            },
+            "text": "🇳🇱🇺🇸 On Capitol Hill I met with senators from a bipartisan working group on transatlantic relations. In these times of great international tension, a strong US-European relationship is vital, even if we do not agree on everything.\n\nIt was good to speak with the senators about our https://t.co/VpgHFkdEYR",
+            "edit_history_tweet_ids": [
+                "2043812391964557394"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 281,
+                        "end": 304,
+                        "url": "https://t.co/VpgHFkdEYR",
+                        "expanded_url": "https://x.com/MinPres/status/2043812391964557394/photo/1",
+                        "display_url": "pic.x.com/VpgHFkdEYR",
+                        "media_key": "3_2043812376097492992"
+                    },
+                    {
+                        "start": 281,
+                        "end": 304,
+                        "url": "https://t.co/VpgHFkdEYR",
+                        "expanded_url": "https://x.com/MinPres/status/2043812391964557394/photo/1",
+                        "display_url": "pic.x.com/VpgHFkdEYR",
+                        "media_key": "3_2043812376084942848"
+                    },
+                    {
+                        "start": 281,
+                        "end": 304,
+                        "url": "https://t.co/VpgHFkdEYR",
+                        "expanded_url": "https://x.com/MinPres/status/2043812391964557394/photo/1",
+                        "display_url": "pic.x.com/VpgHFkdEYR",
+                        "media_key": "3_2043812376441696259"
+                    },
+                    {
+                        "start": 281,
+                        "end": 304,
+                        "url": "https://t.co/VpgHFkdEYR",
+                        "expanded_url": "https://x.com/MinPres/status/2043812391964557394/photo/1",
+                        "display_url": "pic.x.com/VpgHFkdEYR",
+                        "media_key": "3_2043812376093364224"
+                    }
+                ]
+            },
+            "created_at": "2026-04-13T22:03:41.000Z",
+            "public_metrics": {
+                "retweet_count": 37,
+                "reply_count": 51,
+                "like_count": 277,
+                "quote_count": 4,
+                "bookmark_count": 12,
+                "impression_count": 34164
+            },
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "display_text_range": [
+                0,
+                280
+            ],
+            "note_tweet": {
+                "text": "🇳🇱🇺🇸 On Capitol Hill I met with senators from a bipartisan working group on transatlantic relations. In these times of great international tension, a strong US-European relationship is vital, even if we do not agree on everything.\n\nIt was good to speak with the senators about our partnership, cooperation with NATO, trade, and the wars in the Middle East and Ukraine."
+            },
+            "conversation_id": "2043812391964557394"
+        },
+        {
+            "author_id": "155507136",
+            "lang": "nl",
+            "id": "2043801282192801985",
+            "attachments": {
+                "media_keys": [
+                    "3_2043801210767990784",
+                    "3_2043801210726080512",
+                    "3_2043801210864730112",
+                    "3_2043801210763812864"
+                ]
+            },
+            "text": "🇳🇱🇺🇸 Op Capitol Hill sprak ik met Democratische en Republikeinse Senatoren die samen de werkgroep voor trans-Atlantische betrekkingen vormen. In deze tijd met veel internationale spanningen is een sterke Amerikaans-Europese relatie van groot belang, ook als we het niet overal https://t.co/sFd9afYFWs",
+            "edit_history_tweet_ids": [
+                "2043801282192801985"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 277,
+                        "end": 300,
+                        "url": "https://t.co/sFd9afYFWs",
+                        "expanded_url": "https://x.com/MinPres/status/2043801282192801985/photo/1",
+                        "display_url": "pic.x.com/sFd9afYFWs",
+                        "media_key": "3_2043801210767990784"
+                    },
+                    {
+                        "start": 277,
+                        "end": 300,
+                        "url": "https://t.co/sFd9afYFWs",
+                        "expanded_url": "https://x.com/MinPres/status/2043801282192801985/photo/1",
+                        "display_url": "pic.x.com/sFd9afYFWs",
+                        "media_key": "3_2043801210726080512"
+                    },
+                    {
+                        "start": 277,
+                        "end": 300,
+                        "url": "https://t.co/sFd9afYFWs",
+                        "expanded_url": "https://x.com/MinPres/status/2043801282192801985/photo/1",
+                        "display_url": "pic.x.com/sFd9afYFWs",
+                        "media_key": "3_2043801210864730112"
+                    },
+                    {
+                        "start": 277,
+                        "end": 300,
+                        "url": "https://t.co/sFd9afYFWs",
+                        "expanded_url": "https://x.com/MinPres/status/2043801282192801985/photo/1",
+                        "display_url": "pic.x.com/sFd9afYFWs",
+                        "media_key": "3_2043801210763812864"
+                    }
+                ]
+            },
+            "created_at": "2026-04-13T21:19:32.000Z",
+            "public_metrics": {
+                "retweet_count": 38,
+                "reply_count": 138,
+                "like_count": 335,
+                "quote_count": 14,
+                "bookmark_count": 10,
+                "impression_count": 44861
+            },
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "display_text_range": [
+                0,
+                276
+            ],
+            "note_tweet": {
+                "text": "🇳🇱🇺🇸 Op Capitol Hill sprak ik met Democratische en Republikeinse Senatoren die samen de werkgroep voor trans-Atlantische betrekkingen vormen. In deze tijd met veel internationale spanningen is een sterke Amerikaans-Europese relatie van groot belang, ook als we het niet overal over eens zijn.\n \nGoed om met de Senatoren te spreken over ons partnerschap, samenwerking binnen de NAVO, handel en de oorlogen in het Midden-Oosten en Oekraïne."
+            },
+            "conversation_id": "2043801282192801985"
+        },
+        {
+            "author_id": "155507136",
+            "lang": "en",
+            "id": "2043731456917139716",
+            "attachments": {
+                "media_keys": [
+                    "3_2043731448604114944",
+                    "3_2043731448587259904",
+                    "3_2043731448964792320",
+                    "3_2043731448620843008"
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                    },
+                    "entity": {
+                        "id": "864925500627484672",
+                        "name": "Family and life stages",
+                        "description": "Family and Life Stages"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                    },
+                    "entity": {
+                        "id": "847546079042093056",
+                        "name": "Veterans",
+                        "description": "Veterans"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "88",
+                        "name": "Political Body",
+                        "description": "A section of a government, like The Supreme Court"
+                    },
+                    "entity": {
+                        "id": "871795678447456256",
+                        "name": "The White House",
+                        "description": "Conversation from and about the White House, both as a destination and as political voice"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "847878884917886977",
+                        "name": "Politics",
+                        "description": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "871795678447456256",
+                        "name": "The White House",
+                        "description": "Conversation from and about the White House, both as a destination and as political voice"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                    },
+                    "entity": {
+                        "id": "1068583660914266113",
+                        "name": "Government institutions",
+                        "description": "Political Body"
+                    }
+                }
+            ],
+            "text": "Ahead of this evening’s visit to the White House, I laid a wreath at the Tomb of the Unknown Soldier and visited the graves of four Dutch marines at Arlington National Cemetery. More than 400,000 American veterans and their families are buried at this impressive military https://t.co/VJleaWXbiR",
+            "edit_history_tweet_ids": [
+                "2043731456917139716"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "start": 272,
+                        "end": 295,
+                        "url": "https://t.co/VJleaWXbiR",
+                        "expanded_url": "https://x.com/MinPres/status/2043731456917139716/photo/1",
+                        "display_url": "pic.x.com/VJleaWXbiR",
+                        "media_key": "3_2043731448604114944"
+                    },
+                    {
+                        "start": 272,
+                        "end": 295,
+                        "url": "https://t.co/VJleaWXbiR",
+                        "expanded_url": "https://x.com/MinPres/status/2043731456917139716/photo/1",
+                        "display_url": "pic.x.com/VJleaWXbiR",
+                        "media_key": "3_2043731448587259904"
+                    },
+                    {
+                        "start": 272,
+                        "end": 295,
+                        "url": "https://t.co/VJleaWXbiR",
+                        "expanded_url": "https://x.com/MinPres/status/2043731456917139716/photo/1",
+                        "display_url": "pic.x.com/VJleaWXbiR",
+                        "media_key": "3_2043731448964792320"
+                    },
+                    {
+                        "start": 272,
+                        "end": 295,
+                        "url": "https://t.co/VJleaWXbiR",
+                        "expanded_url": "https://x.com/MinPres/status/2043731456917139716/photo/1",
+                        "display_url": "pic.x.com/VJleaWXbiR",
+                        "media_key": "3_2043731448620843008"
+                    }
+                ]
+            },
+            "created_at": "2026-04-13T16:42:04.000Z",
+            "public_metrics": {
+                "retweet_count": 40,
+                "reply_count": 71,
+                "like_count": 346,
+                "quote_count": 3,
+                "bookmark_count": 17,
+                "impression_count": 26403
+            },
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "display_text_range": [
+                0,
+                271
+            ],
+            "note_tweet": {
+                "text": "Ahead of this evening’s visit to the White House, I laid a wreath at the Tomb of the Unknown Soldier and visited the graves of four Dutch marines at Arlington National Cemetery. More than 400,000 American veterans and their families are buried at this impressive military cemetery.\n\nThey include soldiers who gave their lives to liberate Europe during the Second World War. The grave of George C. Marshall is also here. He was the man behind the Marshall Plan, the recovery programme that supported Europe’s reconstruction after the war.\n\nThis is just one example of how crucial our ties with the US are for our prosperity and security. For both the Netherlands and Europe.\n\n🇳🇱🇺🇸"
+            },
+            "conversation_id": "2043731456917139716"
+        }
+    ],
+    "errors": null,
+    "includes": {
+        "media": [
+            {
+                "media_key": "3_2045097922673397760",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGGluavWUAACH6_.jpg"
+            },
+            {
+                "media_key": "3_2045097957930696704",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGGlweFWAAAs8G-.jpg"
+            },
+            {
+                "media_key": "3_2045097957934940160",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGGlweGWwAAze_H.jpg"
+            },
+            {
+                "media_key": "3_2045094166930030592",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGGiTzgWgAA48j0.jpg"
+            },
+            {
+                "media_key": "3_2045094222215491585",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGGiXBdbsAE2msH.jpg"
+            },
+            {
+                "media_key": "3_2045094222194413568",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGGiXBYaEAAMPrK.jpg"
+            },
+            {
+                "media_key": "3_2044824244891099136",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGCs0RjXIAAXiRE.jpg"
+            },
+            {
+                "media_key": "3_2044824244849094656",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGCs0RZWMAAh6vs.jpg"
+            },
+            {
+                "media_key": "3_2044824244853374977",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGCs0RaXgAEvVW8.jpg"
+            },
+            {
+                "media_key": "3_2044823986047963136",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGCslNSWUAAYqNv.jpg"
+            },
+            {
+                "media_key": "3_2044823986199261184",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGCslN2a8AAcGwj.jpg"
+            },
+            {
+                "media_key": "3_2044823986094112768",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGCslNdWgAA5OJS.jpg"
+            },
+            {
+                "media_key": "3_2044814282521460736",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGCjwY1WQAAmAVV.jpg"
+            },
+            {
+                "media_key": "3_2044814282508914688",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGCjwYyW0AAE8h5.jpg"
+            },
+            {
+                "media_key": "3_2044814282521559040",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGCjwY1XwAAY43B.jpg"
+            },
+            {
+                "media_key": "3_2044813839175139328",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGCjWlPWQAAKSy5.jpg"
+            },
+            {
+                "media_key": "3_2044813839175168000",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGCjWlPWsAAhfmq.jpg"
+            },
+            {
+                "media_key": "3_2044813839175176192",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGCjWlPW0AAzcNE.jpg"
+            },
+            {
+                "media_key": "3_2044761509042245633",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGBzwkTa0AEXylw.jpg"
+            },
+            {
+                "media_key": "3_2044761508899426304",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGBzwjxXkAADQA4.jpg"
+            },
+            {
+                "media_key": "3_2044761508870017024",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGBzwjqW0AAWGxC.jpg"
+            },
+            {
+                "media_key": "3_2044761324505137152",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGBzl02WAAA2Nki.jpg"
+            },
+            {
+                "media_key": "3_2044761324526227456",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGBzl07X0AA05cT.jpg"
+            },
+            {
+                "media_key": "3_2044761324677369856",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HGBzl1faEAAmw2-.jpg"
+            },
+            {
+                "media_key": "13_2044480745461452802",
+                "type": "video"
+            },
+            {
+                "media_key": "3_2044378788599922688",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF8XrTjXgAArSgb.jpg"
+            },
+            {
+                "media_key": "3_2044378788486635520",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF8XrTIW4AAfZyv.jpg"
+            },
+            {
+                "media_key": "3_2044377477603086336",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF8We_tXUAAqnnX.jpg"
+            },
+            {
+                "media_key": "3_2044377477825617920",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF8WfAia4AAnoB2.jpg"
+            },
+            {
+                "media_key": "3_2044122807538462720",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF4u3PyasAAte8m.jpg"
+            },
+            {
+                "media_key": "3_2044122807416561664",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF4u3PVWoAAgLxW.jpg"
+            },
+            {
+                "media_key": "3_2044122807416598528",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF4u3PVXMAAjiw6.jpg"
+            },
+            {
+                "media_key": "3_2044122807420751872",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF4u3PWWkAAG9Sa.jpg"
+            },
+            {
+                "media_key": "3_2044122502969077761",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF4ulhLasAEQcis.jpg"
+            },
+            {
+                "media_key": "3_2044122502821986304",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF4ulgoWQAAEDot.jpg"
+            },
+            {
+                "media_key": "3_2044122502834642944",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF4ulgrXYAAvcbX.jpg"
+            },
+            {
+                "media_key": "3_2044122502826221569",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF4ulgpW4AEVS5C.jpg"
+            },
+            {
+                "media_key": "3_2043901257069240321",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF1lXT-WIAE3Bny.jpg"
+            },
+            {
+                "media_key": "3_2043901257056751616",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF1lXT7XkAAJvW7.jpg"
+            },
+            {
+                "media_key": "3_2043901072842903552",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF1lMlrXUAAHHDW.jpg"
+            },
+            {
+                "media_key": "3_2043901072842850304",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF1lMlrWgAAUaKO.jpg"
+            },
+            {
+                "media_key": "3_2043812376097492992",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF0UhwjWkAAr5Ga.jpg"
+            },
+            {
+                "media_key": "3_2043812376084942848",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF0UhwgXEAA8j5d.jpg"
+            },
+            {
+                "media_key": "3_2043812376441696259",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF0Uhx1asAMPIOe.jpg"
+            },
+            {
+                "media_key": "3_2043812376093364224",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF0UhwiXkAAchEW.jpg"
+            },
+            {
+                "media_key": "3_2043801210767990784",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF0KX2dW4AA8Id6.jpg"
+            },
+            {
+                "media_key": "3_2043801210726080512",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF0KX2TXYAAC5Kc.jpg"
+            },
+            {
+                "media_key": "3_2043801210864730112",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF0KX20bAAA7ARi.jpg"
+            },
+            {
+                "media_key": "3_2043801210763812864",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HF0KX2cXIAA7_8A.jpg"
+            },
+            {
+                "media_key": "3_2043731448604114944",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HFzK7KJXwAAcqqC.jpg"
+            },
+            {
+                "media_key": "3_2043731448587259904",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HFzK7KFWkAAalSF.jpg"
+            },
+            {
+                "media_key": "3_2043731448964792320",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HFzK7LfXQAAHa0O.jpg"
+            },
+            {
+                "media_key": "3_2043731448620843008",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HFzK7KNXAAAJMsm.jpg"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "2045102376571326820",
+        "next_token": "7140dibdnow9c7btwoxhooobqhkxzv0rm1ipwb6smk2t2",
+        "oldest_id": "2043731456917139716",
+        "previous_token": null,
+        "result_count": 19
+    }
+}
