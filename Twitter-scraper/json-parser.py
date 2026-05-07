@@ -6,7 +6,6 @@ import copy
 
 parser = argparse.ArgumentParser(description="JSON Parser")
 parser.add_argument("--inputfile", type=str, required=True)
-# parser.add_argument("--save", type=bool, required=True)
 save = True
 parser.add_argument("--textonly", type=bool)
 parser.add_argument('--lang', type=bool)
@@ -29,15 +28,6 @@ def parse(file, save, text, lang):
                 index_to_remove.append(data['data'].index(i))
         for i in sorted(index_to_remove, reverse=True):
             del data['data'][i]
-        # for i in range(len(data['data'])):
-        #     if data['data'][i]["lang"] != 'nl':
-        #         non_dutch.append(copy.deepcopy(data['data'][i]))
-        #         # data['data'][i] = ''
-        #         del data['data'][i]
-            # for x in i:
-            #     if x['lang'] != 'nl':
-            #         non_dutch.append(copy.deepcopy(i))
-            #         del i[x]
     if text:
         for i in non_dutch:
             for x in list(i):

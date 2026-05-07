@@ -1,7 +1,9 @@
 import json
 import csv
-csv_filename = 'gold_label.csv'
-with open('100_tweets_text_only.json') as f:
+csv_filename = 'human_gold_label.csv'
+text_only_file = '100_tweets_text_only.json'
+
+with open(text_only_file) as f:
     data = json.load(f)
 
 final_dict = {}

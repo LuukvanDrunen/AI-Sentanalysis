@@ -3,9 +3,10 @@ import json
 import csv
 import re
 
+text_only_file = '100_tweets_text_only.json'
 
 csv_filename = 'ai_labeled.csv'
-with open('100_tweets_text_only.json') as f:
+with open(text_only_file) as f:
     data = json.load(f)
 
 model = AutoModelForSequenceClassification.from_pretrained("sytnaxerror/robbert-L-dbrd-imdb-clapDataset")
@@ -14,9 +15,6 @@ pipe = pipeline("text-classification", model=model, tokenizer=tokenizer)
 
 labeled_data = pipe(data)
 final_dict = {}
-
-# for i in range(len(data)):
-#     final_dict[data[i]] = labeled_data[i]['label']
 
 for i in range(len(data)):
     final_dict[data[i]] = int(re.search(r'\d+', labeled_data[i]['label']).group())
