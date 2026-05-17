@@ -6,73 +6,73 @@ import copy
 
 parser = argparse.ArgumentParser(description="JSON Parser")
 parser.add_argument("--inputfile", type=str, required=True)
-save = True
 parser.add_argument("--textonly", type=bool)
 parser.add_argument('--lang', type=bool)
 args = parser.parse_args()
 
-def parse(file, save, text, lang):
+fields_to_keep = ['text', 'media_metadata', 'author_id', 'public_metrics', 'entities', 'lang', 'conversation_id', 'id']
+
+def parse(file, text, lang):
     non_dutch = []
     index_to_remove = []
     save_file = str(file).replace('.json', '-parsed.json')
     count = len([name for name in os.listdir('.') if os.path.isfile(name)])
     with open(file) as f:
-        data = json.load(f)
-    for i in data['data']:
+        input_data = json.load(f)
+    for i in input_data['data']: #Make sure that if note_tweet field is present that this value is saved under the text key
         if 'note_tweet' in i:
             i['text'] = i['note_tweet']['text']
     if lang:
-        for i in data['data']:
+        for i in input_data['data']:
             if i['lang'] != 'nl':
-                non_dutch.append(copy.deepcopy(i))
-                index_to_remove.append(data['data'].index(i))
+                non_dutch.append(copy.deepcopy(i)) #Copy every non-dutch Post
+                index_to_remove.append(input_data['data'].index(i)) #Save index of non-dutch Posts that need to be removed
         for i in sorted(index_to_remove, reverse=True):
-            del data['data'][i]
+            del input_data['data'][i]
     if text:
-        for i in non_dutch:
-            for x in list(i):
-                if x == 'text':
+        for dictionary in non_dutch: #Only keep the text field of all the non-Dutch Posts that we might need later
+            for key in list(dictionary):
+                if key == 'text':
                     continue
                 else: 
-                    del i[x]
-        for u in list(data):
-            if u == 'data':
+                    del dictionary[key]
+        for key in list(input_data): #Remove every non-data field
+            if key == 'data' or key == 'includes':
                 continue
             else:
-                data.pop(u)
-        for i in list(data['data']):
-            for x in list(i):
-                if x == 'text':
+                input_data.pop(key)
+        for dictionary in input_data['data']: #Only keep the text field and remove every other field
+            for key in list(dictionary):
+                if key == 'text':
                     continue
                 else:
-                    del i[x]
-            i['text'] = re.sub(r'(?is)https://.+', '', i['text'])
-    else:
-        for i in list(data['data']):
-            for x in list(i):
-                if x == 'text' or x == 'media_metadata' or x == 'author_id' or x == 'public_metrics' or x == 'entities' or x == 'lang' or x == 'conversation_id' or x == 'id':
+                    del dictionary[key]
+            dictionary['text'] = re.sub(r'(?is)https://.+', '', dictionary['text']) #remove the Post URL from the text field
+    else: #If we don't want to parse only on text
+        for dictionary in input_data['data']:
+            for key in list(dictionary):
+                if key in fields_to_keep:
                     continue
                 else:
-                    del i[x]
-            i['text'] = re.sub(r'(?is)https://.+', '', i['text'])
-    if save:
-        if lang:
-            if text:
-                lang_file = str(file).replace('.json', '-parsed-non-dutch-text-only.json')
-                with open(lang_file, 'w') as f:
-                    json.dump(non_dutch, f, ensure_ascii=False)
-            else:
-                lang_file = str(file).replace('.json', '-parsed-non-dutch.json')
-                with open(lang_file, 'w') as f:
-                    json.dump(non_dutch, f, ensure_ascii=False)
+                    del dictionary[key]
+            dictionary['text'] = re.sub(r'(?is)https://.+', '', dictionary['text']) #remove the Post URL from the text field
+    if lang:
         if text:
-            save_file = str(file).replace('.json', '-parsed-text-only.json')
-        try:
-            with open(save_file, "x") as f:
-                json.dump(data, f, ensure_ascii=False)
-        except FileExistsError:
-            with open(str(save_file).replace('.json', f'-{str(count)}.json'), "x") as f:
-                json.dump(data, f, ensure_ascii=False)
+            lang_and_text_only_file = str(file).replace('.json', '-parsed-non-dutch-text-only.json')
+            with open(lang_and_text_only_file, 'w') as f:
+                json.dump(non_dutch, f, ensure_ascii=False)
+        else:
+            lang_file = str(file).replace('.json', '-parsed-non-dutch.json')
+            with open(lang_file, 'w') as f:
+                json.dump(non_dutch, f, ensure_ascii=False)
+    if text:
+        save_file = str(file).replace('.json', '-parsed-text-only.json')
+    try:
+        with open(save_file, "x") as f:
+            json.dump(input_data, f, ensure_ascii=False)
+    except FileExistsError:
+        with open(str(save_file).replace('.json', f'-{str(count)}.json'), "x") as f:
+            json.dump(input_data, f, ensure_ascii=False)
 
 if __name__ == '__main__':
-    parse(args.inputfile, save, args.textonly, args.lang)
+    parse(args.inputfile, args.textonly, args.lang)
