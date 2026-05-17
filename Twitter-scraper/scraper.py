@@ -2,8 +2,8 @@ from xdk import Client
 import json
 import os
 from dotenv import load_dotenv
-load_dotenv()
 import argparse
+load_dotenv()
 fields_to_include = ["article",
   "attachments",
   "author_id",
