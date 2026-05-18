@@ -29,13 +29,13 @@ def parse(file, text, lang):
                 index_to_remove.append(input_data['data'].index(i)) #Save index of non-dutch Posts that need to be removed
         for i in sorted(index_to_remove, reverse=True):
             del input_data['data'][i]
-    if text:
         for dictionary in non_dutch: #Only keep the text field of all the non-Dutch Posts that we might need later
             for key in list(dictionary):
                 if key == 'text':
                     continue
-                else: 
+                else:
                     del dictionary[key]
+    if text:
         for key in list(input_data): #Remove every non-data field
             if key == 'data' or key == 'includes':
                 continue
