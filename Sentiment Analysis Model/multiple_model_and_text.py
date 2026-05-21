@@ -16,7 +16,8 @@ if __name__ == '__main__':
 
 csv_filename = f"{file.split('/')[-1].split('.')[0]}-multiple_text_performance.csv"
 
-models = ['sytnaxerror/robbert-large-with-dbrd-plus-imdb-mac', 'sytnaxerror/robbert-large-with-toxi-text', 'sytnaxerror/robbert-L-dbrd-imdb-insurance', 'sytnaxerror/robbert-L-dbrd-imdb-clapDataset']
+# models = ['sytnaxerror/robbert-large-with-dbrd-plus-imdb-mac', 'sytnaxerror/robbert-large-with-toxi-text', 'sytnaxerror/robbert-L-dbrd-imdb-insurance', 'sytnaxerror/robbert-L-dbrd-imdb-clapDataset']
+models = ['sytnaxerror/robbert-L-dbrd-imdb-clapDataset', 'sytnaxerror/robbert-L-dbrd', 'sytnaxerror/robbert-L-dbrd-imdb', 'sytnaxerror/robbert-L-dbrd-imdb-clap']
 
 with open(file) as f:
     data = json.load(f)

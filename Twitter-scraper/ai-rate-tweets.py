@@ -9,8 +9,8 @@ csv_filename = 'ai_labeled.csv'
 with open(text_only_file) as f:
     data = json.load(f)
 
-model = AutoModelForSequenceClassification.from_pretrained("sytnaxerror/robbert-L-dbrd-imdb-clapDataset")
-tokenizer = AutoTokenizer.from_pretrained("sytnaxerror/robbert-L-dbrd-imdb-clapDataset")
+model = AutoModelForSequenceClassification.from_pretrained("sytnaxerror/robbert-L-dbrd-imdb")
+tokenizer = AutoTokenizer.from_pretrained("sytnaxerror/robbert-L-dbrd-imdb")
 pipe = pipeline("text-classification", model=model, tokenizer=tokenizer)
 
 labeled_data = pipe(data)
