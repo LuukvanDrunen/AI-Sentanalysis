@@ -19,16 +19,16 @@ def parse(file, text, lang):
     count = len([name for name in os.listdir('.') if os.path.isfile(name)])
     with open(file) as f:
         input_data = json.load(f)
-    for i in input_data['data']: #Make sure that if note_tweet field is present that this value is saved under the text key
+    for i in input_data: #Make sure that if note_tweet field is present that this value is saved under the text key
         if 'note_tweet' in i:
             i['text'] = i['note_tweet']['text']
     if lang:
-        for i in input_data['data']:
+        for i in input_data:
             if i['lang'] != 'nl':
                 non_dutch.append(copy.deepcopy(i)) #Copy every non-dutch Post
-                index_to_remove.append(input_data['data'].index(i)) #Save index of non-dutch Posts that need to be removed
+                index_to_remove.append(input_data.index(i)) #Save index of non-dutch Posts that need to be removed
         for i in sorted(index_to_remove, reverse=True):
-            del input_data['data'][i]
+            del input_data[i]
         for dictionary in non_dutch: #Only keep the text field of all the non-Dutch Posts that we might need later
             for key in list(dictionary):
                 if key == 'text':
@@ -36,12 +36,12 @@ def parse(file, text, lang):
                 else:
                     del dictionary[key]
     if text:
-        for key in list(input_data): #Remove every non-data field
-            if key == 'data' or key == 'includes':
-                continue
-            else:
-                input_data.pop(key)
-        for dictionary in input_data['data']: #Only keep the text field and remove every other field
+        # for key in list(input_data): #Remove every non-data field
+        #     if key == 'data' or key == 'includes':
+        #         continue
+        #     else:
+        #         input_data.pop(key)
+        for dictionary in input_data: #Only keep the text field and remove every other field
             for key in list(dictionary):
                 if key == 'text':
                     continue
@@ -49,7 +49,7 @@ def parse(file, text, lang):
                     del dictionary[key]
             dictionary['text'] = re.sub(r'(?is)https://.+', '', dictionary['text']) #remove the Post URL from the text field
     else: #If we don't want to parse only on text
-        for dictionary in input_data['data']:
+        for dictionary in input_data:
             for key in list(dictionary):
                 if key in fields_to_keep:
                     continue

@@ -52,6 +52,6 @@ def scrape(id, date):
 
 
 if __name__ == "__main__":
-    scrape(1715728574643122658, '2023-10-21T13:55:43.000Z')
+    scrape(1715728574643122658, '2018-07-11T19:16:43.000Z')
 # with open("search_all_success.json", "w") as outfile:
 #     json.dump(all_posts, outfile, indent=4, ensure_ascii=False)
