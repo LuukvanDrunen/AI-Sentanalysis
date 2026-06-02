@@ -3,7 +3,8 @@ import json
 import csv
 import re
 
-text_only_file = '../Results/Geert Wilders/Final-Wilders-Results.json'
+# text_only_file = '../Results/Geert Wilders/Final-Wilders-Results.json'
+text_only_file = '/home/luukvandrunen/OneDrive/Universiteit Utrecht/AI-Sentanalysis/Results/Geert Wilders/Final-Wilders-Results.json'
 
 csv_filename = 'ai_labeled.csv'
 with open(text_only_file) as f:
