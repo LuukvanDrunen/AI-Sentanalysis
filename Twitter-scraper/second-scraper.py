@@ -19,12 +19,12 @@ fields_to_include = ["article",
                      "text"]
 # Search with automatic pagination
 count = len([name for name in os.listdir('.') if os.path.isfile(name)])
-save_file = 'serach_all.json'
+save_file = 'jimmydijk-01-05.json'
 all_posts = []
 def scrape(id, date):
     try:
         for page in client.posts.search_all(
-            query='from:geertwilderspvv',
+            query='from:jimmydijk -is:retweet',
             max_results=100,  # Per page
             tweet_fields=fields_to_include,  # Optional expansions
             expansions=['attachments.media_keys'],
@@ -52,6 +52,6 @@ def scrape(id, date):
 
 
 if __name__ == "__main__":
-    scrape(1715728574643122658, '2018-07-11T19:16:43.000Z')
+    scrape(1715728574643122658, '2026-06-01T00:00:00.000Z')
 # with open("search_all_success.json", "w") as outfile:
 #     json.dump(all_posts, outfile, indent=4, ensure_ascii=False)
