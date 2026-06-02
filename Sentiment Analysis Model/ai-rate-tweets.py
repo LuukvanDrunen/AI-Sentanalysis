@@ -3,14 +3,14 @@ import json
 import csv
 import re
 
-text_only_file = '100_tweets_text_only.json'
+text_only_file = '../Results/Geert Wilders/Final-Wilders-Results.json'
 
 csv_filename = 'ai_labeled.csv'
 with open(text_only_file) as f:
     data = json.load(f)
 
-model = AutoModelForSequenceClassification.from_pretrained("sytnaxerror/robbert-L-dbrd-imdb")
-tokenizer = AutoTokenizer.from_pretrained("sytnaxerror/robbert-L-dbrd-imdb")
+model = AutoModelForSequenceClassification.from_pretrained("sytnaxerror/robbert-L-dbrd-imdb-clap")
+tokenizer = AutoTokenizer.from_pretrained("sytnaxerror/robbert-L-dbrd-imdb-clap")
 pipe = pipeline("text-classification", model=model, tokenizer=tokenizer)
 
 labeled_data = pipe(data)
