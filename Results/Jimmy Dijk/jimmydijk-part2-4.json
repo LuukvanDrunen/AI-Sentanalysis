@@ -1,2984 +1,2724 @@
 [
-    {
-        "id": "808438200184307712",
-        "entities": {
-            "hashtags": [
-                {
-                    "start": 8,
-                    "end": 22,
-                    "tag": "studiovoetbal"
-                },
-                {
-                    "start": 117,
-                    "end": 129,
-                    "tag": "manomanoman"
-                }
-            ]
-        },
-        "created_at": "2016-12-12T22:27:41.000Z",
-        "conversation_id": "808438200184307712",
-        "edit_history_tweet_ids": [
-            "808438200184307712"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Kijk ik #studiovoetbal terug, beginnen ze daar ook al te kletsen over \"prestatie innovatie manager\" &amp; \"omdenken\" #manomanoman"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 140,
-                    "end": 163,
-                    "url": "https://t.co/DJa2pGeBP4",
-                    "expanded_url": "https://x.com/jimmydijk/status/807895201029177344/photo/1",
-                    "display_url": "pic.x.com/DJa2pGeBP4",
-                    "media_key": "3_807895186793791488"
-                }
-            ]
-        },
-        "id": "807895201029177344",
-        "created_at": "2016-12-11T10:30:00.000Z",
-        "conversation_id": "807895201029177344",
-        "edit_history_tweet_ids": [
-            "807895201029177344"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_807895186793791488"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "Cultuurfilosoof Thijs Lijster stelt bij SP-kaderscholingsweekend terecht dat value-free politics minstens zo erg is als fact free politics. https://t.co/DJa2pGeBP4"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 140,
-                    "end": 163,
-                    "url": "https://t.co/mZG07qxsw5",
-                    "expanded_url": "https://x.com/jimmydijk/status/807188654133223424/photo/1",
-                    "display_url": "pic.x.com/mZG07qxsw5",
-                    "media_key": "3_807188629089042433"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 38,
-                    "end": 48,
-                    "username": "Nieuwsuur",
-                    "id": "93474576"
-                },
-                {
-                    "start": 91,
-                    "end": 103,
-                    "username": "NLzorgfonds",
-                    "id": "724502970411393024"
-                }
-            ]
-        },
-        "id": "807188654133223424",
-        "created_at": "2016-12-09T11:42:26.000Z",
-        "conversation_id": "807188654133223424",
-        "edit_history_tweet_ids": [
-            "807188654133223424"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_807188629089042433"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "Menzis-directeur Wenselaar klaagde in @Nieuwsuur over kritiek op zorgstelsel. Vandaag bood @NLzorgfonds hem daarvoor krokodillentranen aan. https://t.co/mZG07qxsw5"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 140,
-                    "end": 163,
-                    "url": "https://t.co/wdjO7ag50h",
-                    "expanded_url": "https://x.com/jimmydijk/status/806561358506557447/photo/1",
-                    "display_url": "pic.x.com/wdjO7ag50h",
-                    "media_key": "3_806561344732463110"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 101,
-                    "end": 115,
-                    "username": "ROODGroningen",
-                    "id": "566197687"
-                }
-            ]
-        },
-        "id": "806561358506557447",
-        "created_at": "2016-12-07T18:09:47.000Z",
-        "conversation_id": "806561358506557447",
-        "edit_history_tweet_ids": [
-            "806561358506557447"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_806561344732463110"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "Schoonmakers basisscholen #050 voerden weer actie. Te hoge werkdruk en daardoor geen schone scholen. @ROODGroningen steunde de schoonmakers https://t.co/wdjO7ag50h"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 113,
-                    "end": 136,
-                    "url": "https://t.co/H4k1D6dd7P",
-                    "expanded_url": "http://nu.nl/economie/4361588/nederland-maakt-nog-altijd-geheime-belastingafspraken-met-multinationals.html",
-                    "display_url": "nu.nl/economie/43615…"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 101,
-                    "end": 112,
-                    "tag": "pakdemacht"
-                }
-            ]
-        },
-        "id": "806429563064614913",
-        "created_at": "2016-12-07T09:26:05.000Z",
-        "conversation_id": "806429563064614913",
-        "edit_history_tweet_ids": [
-            "806429563064614913"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Nederland belastingparadijs: 236 belastingdeals en 17.088.134 Nederlanders die wel belasting betalen #pakdemacht https://t.co/H4k1D6dd7P"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 113,
-                    "end": 136,
-                    "url": "https://t.co/TlwhOmwAJI",
-                    "expanded_url": "http://www.human.nl/schuldig/over-schuldig.html",
-                    "display_url": "human.nl/schuldig/over-…"
-                }
-            ]
-        },
-        "id": "806286571167252480",
-        "created_at": "2016-12-06T23:57:53.000Z",
-        "conversation_id": "806286571167252480",
-        "edit_history_tweet_ids": [
-            "806286571167252480"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "\"Ik denk wel dat we tegen de tijdsgeest in moeten van het heilige geloof van eigen kracht en activerend beleid.\" https://t.co/TlwhOmwAJI"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 138,
-                    "end": 161,
-                    "url": "https://t.co/jsIZXqL2AM",
-                    "expanded_url": "https://x.com/mattiasgl/status/805818463658930176",
-                    "display_url": "x.com/mattiasgl/stat…"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 126,
-                    "end": 137,
-                    "tag": "lijktmezat"
-                }
-            ]
-        },
-        "id": "805843424029057024",
-        "created_at": "2016-12-05T18:36:58.000Z",
-        "conversation_id": "805843424029057024",
-        "edit_history_tweet_ids": [
-            "805843424029057024"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Zo, die verlichting komt er dus. Gaat gemeente zelf effe checken bij omwonenden? Jongeren hebben het nu zelf al 3 keer gedaan #lijktmezat https://t.co/jsIZXqL2AM"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 145,
-                    "end": 168,
-                    "url": "https://t.co/nCSeT2FHHW",
-                    "expanded_url": "https://x.com/roodgroningen/status/804609087770075136",
-                    "display_url": "x.com/roodgroningen/…"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 95,
-                    "end": 109,
-                    "username": "gem_groningen",
-                    "id": "184772986"
-                },
-                {
-                    "start": 116,
-                    "end": 126,
-                    "username": "MattiasGL",
-                    "id": "20335832"
-                }
-            ]
-        },
-        "id": "804618933055668224",
-        "created_at": "2016-12-02T09:31:17.000Z",
-        "conversation_id": "804618933055668224",
-        "edit_history_tweet_ids": [
-            "804618933055668224"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Jongeren uit Beijum willen verlichting van hun voetbalveldje en buurtbewoners steunen hen. Dus @gem_groningen &amp; @MattiasGL regel het gewoon. https://t.co/nCSeT2FHHW"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 59,
-                    "end": 82,
-                    "url": "https://t.co/14qELC3S8Z",
-                    "expanded_url": "https://x.com/rtlz/status/803967980451164161",
-                    "display_url": "x.com/rtlz/status/80…"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 5,
-                    "end": 16,
-                    "username": "hansdegeus",
-                    "id": "211164765"
-                }
-            ]
-        },
-        "id": "804108847761735682",
-        "created_at": "2016-11-30T23:44:23.000Z",
-        "conversation_id": "804108847761735682",
-        "edit_history_tweet_ids": [
-            "804108847761735682"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Wauw @hansdegeus slaat de spijker echt vol op z'n kop zeg! https://t.co/14qELC3S8Z"
-    },
-    {
-        "id": "804045443319660544",
-        "created_at": "2016-11-30T19:32:26.000Z",
-        "conversation_id": "804045443319660544",
-        "edit_history_tweet_ids": [
-            "804045443319660544"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "SP'er Bob de Greef constateert dat belang van stoplichtloze fietspaden door D66 boven wijkbewoners, verkeersveiligheid &amp; groen wordt gesteld"
-    },
-    {
-        "id": "804034871874224128",
-        "entities": {
-            "hashtags": [
-                {
-                    "start": 132,
-                    "end": 140,
-                    "tag": "raad050"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 53,
-                    "end": 61,
-                    "username": "Pvda050",
-                    "id": "1937488916"
-                }
-            ]
-        },
-        "created_at": "2016-11-30T18:50:26.000Z",
-        "conversation_id": "804034871874224128",
-        "edit_history_tweet_ids": [
-            "804034871874224128"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Man o man, @GroenLinksStad wil meer \"omdenken\" &amp; @Pvda050 wil meer \"netwerkdenken\". Over voorrang van fietsers op kruisingen... #raad050"
-    },
-    {
-        "id": "803876644977049600",
-        "entities": {
-            "hashtags": [
-                {
-                    "start": 106,
-                    "end": 119,
-                    "tag": "zondagsboete"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 15,
-                    "username": "jurjenhoekstra",
-                    "id": "178427972"
-                },
-                {
-                    "start": 16,
-                    "end": 27,
-                    "username": "bbenjamins",
-                    "id": "1956340083852005376"
-                }
-            ]
-        },
-        "created_at": "2016-11-30T08:21:42.000Z",
-        "conversation_id": "803738810785763328",
-        "edit_history_tweet_ids": [
-            "803876644977049600"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "@jurjenhoekstra @bbenjamins Zondagsopenstelling P'poel verbieden zolang er verplichtingen worden opgelegd #zondagsboete"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 136,
-                    "end": 159,
-                    "url": "https://t.co/kjNgmYEfkX",
-                    "expanded_url": "https://x.com/bbenjamins/status/803741914235289600",
-                    "display_url": "x.com/bbenjamins/sta…"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 115,
-                    "end": 135,
-                    "tag": "daargaanwijnietover"
-                }
-            ]
-        },
-        "id": "803742524103860224",
-        "created_at": "2016-11-29T23:28:45.000Z",
-        "conversation_id": "803742524103860224",
-        "edit_history_tweet_ids": [
-            "803742524103860224"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Ik was aan het luisteren... Veel woorden, weinig daden. Is probleem opgelost? NEE. Maar D66 zal vast zeggen: Sorry #daargaanwijnietover https://t.co/kjNgmYEfkX"
-    },
-    {
-        "id": "803741153019334657",
-        "created_at": "2016-11-29T23:23:18.000Z",
-        "conversation_id": "803738810785763328",
-        "edit_history_tweet_ids": [
-            "803741153019334657"
-        ],
-        "lang": "nl",
-        "entities": {
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 11,
-                    "username": "bbenjamins",
-                    "id": "1956340083852005376"
-                }
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@bbenjamins Helemaal wel juist. Jullie verkiezen vrijheid van openstelling enkelen ten koste van verplichting van open moeten anderen."
-    },
-    {
-        "id": "803739621641383937",
-        "created_at": "2016-11-29T23:17:13.000Z",
-        "conversation_id": "803738810785763328",
-        "edit_history_tweet_ids": [
-            "803739621641383937"
-        ],
-        "lang": "nl",
-        "entities": {
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 11,
-                    "username": "bbenjamins",
-                    "id": "1956340083852005376"
-                }
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@bbenjamins Wat een flauwekul. D66 staat boetes toe en kijkt hoe ondernemers in Paddepoel verplicht zondags open moeten. Duik niet zo joh!"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 113,
-                    "end": 136,
-                    "url": "https://t.co/u6zMzTaA9q",
-                    "expanded_url": "https://x.com/bbenjamins/status/803735185149857796",
-                    "display_url": "x.com/bbenjamins/sta…"
-                }
-            ]
-        },
-        "id": "803737441505054720",
-        "created_at": "2016-11-29T23:08:33.000Z",
-        "conversation_id": "803737441505054720",
-        "edit_history_tweet_ids": [
-            "803737441505054720"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Uitspreken en vervolgens niet handelen. D66 zal het wel weer te druk met zichzelf en eigen college hebben gehad. https://t.co/u6zMzTaA9q"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 140,
-                    "end": 163,
-                    "url": "https://t.co/oDGB34sykn",
-                    "expanded_url": "https://x.com/nieuwsuur/status/803346574961098762",
-                    "display_url": "x.com/nieuwsuur/stat…"
-                }
-            ]
-        },
-        "id": "803371840001478657",
-        "created_at": "2016-11-28T22:55:47.000Z",
-        "conversation_id": "803371840001478657",
-        "edit_history_tweet_ids": [
-            "803371840001478657"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Een econoom die zegt dat het \"in de mode is\" om marktwerking in kwaad daglicht te stellen. Is er een markt waar hij een argument kan kopen? https://t.co/oDGB34sykn"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 111,
-                    "end": 134,
-                    "url": "https://t.co/bzv7eli6sa",
-                    "expanded_url": "http://nos.nl/nieuwsuur/artikel/2145503-te-makkelijk-om-zorgverzekeraar-als-boeman-weg-te-zetten.html",
-                    "display_url": "nos.nl/nieuwsuur/arti…"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 103,
-                    "end": 110,
-                    "tag": "hetlef"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 9,
-                    "end": 16,
-                    "username": "Menzis",
-                    "id": "15290649"
-                }
-            ]
-        },
-        "id": "803342310981464065",
-        "created_at": "2016-11-28T20:58:26.000Z",
-        "conversation_id": "803342310981464065",
-        "edit_history_tweet_ids": [
-            "803342310981464065"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "\"Topman\" @Menzis Ruben Wenselaar strijkt zelf €334.000 p/j op en beticht critici van kortetermijnvisie #hetlef https://t.co/bzv7eli6sa"
-    },
-    {
-        "id": "801507308203376640",
-        "created_at": "2016-11-23T19:26:48.000Z",
-        "conversation_id": "801491538077503488",
-        "edit_history_tweet_ids": [
-            "801507308203376640"
-        ],
-        "lang": "nl",
-        "entities": {
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 12,
-                    "username": "sassefras88",
-                    "id": "219700036"
-                },
-                {
-                    "start": 13,
-                    "end": 25,
-                    "username": "spgroningen",
-                    "id": "28145810"
-                }
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@sassefras88 @spgroningen Wees realistisch, eis het onmogelijke 😉"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 100,
-                    "end": 123,
-                    "url": "https://t.co/6pQzy1u0mr",
-                    "expanded_url": "https://x.com/jimmydijk/status/801503407114747905/photo/1",
-                    "display_url": "pic.x.com/6pQzy1u0mr",
-                    "media_key": "3_801503398436732933"
-                },
-                {
-                    "start": 100,
-                    "end": 123,
-                    "url": "https://t.co/6pQzy1u0mr",
-                    "expanded_url": "https://x.com/jimmydijk/status/801503407114747905/photo/1",
-                    "display_url": "pic.x.com/6pQzy1u0mr",
-                    "media_key": "3_801503398445154305"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 12,
-                    "username": "sassefras88",
-                    "id": "219700036"
-                },
-                {
-                    "start": 13,
-                    "end": 25,
-                    "username": "spgroningen",
-                    "id": "28145810"
-                }
-            ]
-        },
-        "id": "801503407114747905",
-        "created_at": "2016-11-23T19:11:18.000Z",
-        "conversation_id": "801491538077503488",
-        "edit_history_tweet_ids": [
-            "801503407114747905"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_801503398436732933",
-                "3_801503398445154305"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@sassefras88 @spgroningen Leve de vooruitgang! Maar misschien in dit geval iets te hoog gegrepen... https://t.co/6pQzy1u0mr"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 117,
-                    "end": 140,
-                    "url": "https://t.co/qvonUj88zk",
-                    "expanded_url": "http://www.rtvnoord.nl/nieuws/170606/Stadsbestuur-Eigen-bijdrages-gaan-we-alsnog-innen",
-                    "display_url": "rtvnoord.nl/nieuws/170606/…"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 77,
-                    "end": 89,
-                    "tag": "veelzeggend"
-                },
-                {
-                    "start": 90,
-                    "end": 98,
-                    "tag": "raad050"
-                },
-                {
-                    "start": 99,
-                    "end": 116,
-                    "tag": "watnou2gezichten"
-                }
-            ]
-        },
-        "id": "801483633282482177",
-        "created_at": "2016-11-23T17:52:43.000Z",
-        "conversation_id": "801483633282482177",
-        "edit_history_tweet_ids": [
-            "801483633282482177"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "\"De overige partijen namen niet de moeite iets over het onderwerp te zeggen\" #veelzeggend #raad050 #watnou2gezichten https://t.co/qvonUj88zk"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 125,
-                    "end": 148,
-                    "url": "https://t.co/NDLZK5dUpW",
-                    "expanded_url": "https://groningen.sp.nl/nieuws/2016/11/sp-cu-zie-af-van-innen-eigen-bijdragen-2015",
-                    "display_url": "groningen.sp.nl/nieuws/2016/11…"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 120,
-                    "end": 124,
-                    "tag": "WMO"
-                }
-            ]
-        },
-        "id": "799910143966277633",
-        "created_at": "2016-11-19T09:40:14.000Z",
-        "conversation_id": "799910143966277633",
-        "edit_history_tweet_ids": [
-            "799910143966277633"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Voorkom onrust &amp; onzekerheid door af te zien van alsnog innen eigen bijdragen 2015 (begeleiding &amp; dagbesteding) #WMO https://t.co/NDLZK5dUpW"
-    },
-    {
-        "id": "799282739258146817",
-        "created_at": "2016-11-17T16:07:09.000Z",
-        "conversation_id": "799001545916325888",
-        "edit_history_tweet_ids": [
-            "799282739258146817"
-        ],
-        "lang": "nl",
-        "entities": {
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 16,
-                    "username": "Psychologiseren",
-                    "id": "2312139504"
-                },
-                {
-                    "start": 17,
-                    "end": 33,
-                    "username": "DaanBrandenbarg",
-                    "id": "123883437"
-                }
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@Psychologiseren @DaanBrandenbarg Dat klopt, maar je kunt wel de voorwaarden hiervoor scheppen en deze zo goed als mogelijke maken."
-    },
-    {
-        "id": "798980324520665088",
-        "entities": {
-            "hashtags": [
-                {
-                    "start": 132,
-                    "end": 140,
-                    "tag": "raad050"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 6,
-                    "end": 22,
-                    "username": "DaanBrandenbarg",
-                    "id": "123883437"
-                }
-            ]
-        },
-        "created_at": "2016-11-16T20:05:28.000Z",
-        "conversation_id": "798980324520665088",
-        "edit_history_tweet_ids": [
-            "798980324520665088"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "SP'er @DaanBrandenbarg stelt dat college cultuur meer ziet als middel voor citymarketing ipv verheffing en verrijking van het leven #raad050"
-    },
-    {
-        "id": "798924240200339458",
-        "entities": {
-            "hashtags": [
-                {
-                    "start": 135,
-                    "end": 143,
-                    "tag": "raad050"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 5,
-                    "end": 19,
-                    "username": "PvdDGroningen",
-                    "id": "131148304"
-                }
-            ]
-        },
-        "created_at": "2016-11-16T16:22:36.000Z",
-        "conversation_id": "798924240200339458",
-        "edit_history_tweet_ids": [
-            "798924240200339458"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Gek, @PvdDGroningen kiest niet voor inperken vercommercialisering ten behoeve van openbare ruimte, duurzaamheid &amp; historische stad #raad050"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 137,
-                    "end": 160,
-                    "url": "https://t.co/e9kTMOpEH7",
-                    "expanded_url": "https://x.com/oogtv/status/798243198640472064",
-                    "display_url": "x.com/oogtv/status/7…"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 93,
-                    "end": 107,
-                    "username": "ROODGroningen",
-                    "id": "566197687"
-                }
-            ]
-        },
-        "id": "798640149642915840",
-        "created_at": "2016-11-15T21:33:44.000Z",
-        "conversation_id": "798640149642915840",
-        "edit_history_tweet_ids": [
-            "798640149642915840"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "\"Mattias wat LED je?\" Jongeren uit Beijum voeren actie voor verlichting van hun voetbalveld. @ROODGroningen ondersteunt hen daarbij #050 https://t.co/e9kTMOpEH7"
-    },
-    {
-        "id": "797135376670408704",
-        "created_at": "2016-11-11T17:54:18.000Z",
-        "conversation_id": "797086806445608960",
-        "edit_history_tweet_ids": [
-            "797135376670408704"
-        ],
-        "lang": "nl",
-        "entities": {
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 13,
-                    "username": "frederikmeis",
-                    "id": "1045920822341382144"
-                },
-                {
-                    "start": 14,
-                    "end": 22,
-                    "username": "dvhn_nl",
-                    "id": "18549902"
-                },
-                {
-                    "start": 23,
-                    "end": 35,
-                    "username": "spgroningen",
-                    "id": "28145810"
-                },
-                {
-                    "start": 36,
-                    "end": 47,
-                    "username": "letsgro050",
-                    "id": "1371819698"
-                }
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@frederikmeis @dvhn_nl @spgroningen @letsgro050 Jij mag alles"
-    },
-    {
-        "id": "797135293673598977",
-        "created_at": "2016-11-11T17:53:58.000Z",
-        "conversation_id": "797133875256422400",
-        "edit_history_tweet_ids": [
-            "797135293673598977"
-        ],
-        "lang": "nl",
-        "entities": {
-            "mentions": [
-                {
-                    "start": 16,
-                    "end": 24,
-                    "username": "dvhn_nl",
-                    "id": "18549902"
-                }
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@SanderClaassen @dvhn_nl Deze goedbedoelde initiatieven vergroten de kloof eerder dan dat dit het verkleint"
-    },
-    {
-        "id": "797122987468144641",
-        "entities": {
-            "hashtags": [
-                {
-                    "start": 130,
-                    "end": 138,
-                    "tag": "raad050"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 11,
-                    "username": "bbenjamins",
-                    "id": "1956340083852005376"
-                },
-                {
-                    "start": 12,
-                    "end": 20,
-                    "username": "dvhn_nl",
-                    "id": "18549902"
-                }
-            ]
-        },
-        "created_at": "2016-11-11T17:05:04.000Z",
-        "conversation_id": "797121474654048256",
-        "edit_history_tweet_ids": [
-            "797122987468144641"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "@bbenjamins @dvhn_nl Klopt, inclusief Stadjers die NIET op Let's Gro of bij een \"open raad\" hun ideeën in 1 minuut moeten pitchen #raad050"
-    },
-    {
-        "id": "796379647701319681",
-        "entities": {
-            "hashtags": [
-                {
-                    "start": 128,
-                    "end": 136,
-                    "tag": "raad050"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 115,
-                    "end": 127,
-                    "username": "spgroningen",
-                    "id": "28145810"
-                }
-            ]
-        },
-        "created_at": "2016-11-09T15:51:18.000Z",
-        "conversation_id": "796379647701319681",
-        "edit_history_tweet_ids": [
-            "796379647701319681"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "\"Juist nu extra geld te besteden is, moet dit naar de mensen die afgelopen jaren de zwaarste klappen hebben gehad\" @spgroningen #raad050"
-    },
-    {
-        "id": "796121434879852544",
-        "created_at": "2016-11-08T22:45:15.000Z",
-        "conversation_id": "796117675021832192",
-        "edit_history_tweet_ids": [
-            "796121434879852544"
-        ],
-        "lang": "nl",
-        "entities": {
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 13,
-                    "username": "Capt1caveman",
-                    "id": "1717634402522374144"
-                }
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@Capt1caveman Aan de H.L.Wicherstraat wel (geen voorstander vab). Maar in Meerstad niet."
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 139,
-                    "end": 162,
-                    "url": "https://t.co/c1EAoz1X6A",
-                    "expanded_url": "https://x.com/dvhn_nl/status/796021738144464896",
-                    "display_url": "x.com/dvhn_nl/status…"
-                }
-            ]
-        },
-        "id": "796117675021832192",
-        "created_at": "2016-11-08T22:30:19.000Z",
-        "conversation_id": "796117675021832192",
-        "edit_history_tweet_ids": [
-            "796117675021832192"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Er is in #050 een tekort aan sociale huurwoningen. Bovendien moet Meerstad een gemengde woonwijk worden. Daar pleiten de SP &amp; CU voor. https://t.co/c1EAoz1X6A"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 133,
-                    "end": 156,
-                    "url": "https://t.co/Vyxhq8oVgo",
-                    "expanded_url": "https://x.com/jimmydijk/status/794645673006211072/photo/1",
-                    "display_url": "pic.x.com/Vyxhq8oVgo",
-                    "media_key": "3_794645658774990848"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 19,
-                    "end": 31,
-                    "username": "NLzorgfonds",
-                    "id": "724502970411393024"
-                }
-            ]
-        },
-        "id": "794645673006211072",
-        "created_at": "2016-11-04T21:01:06.000Z",
-        "conversation_id": "794645673006211072",
-        "edit_history_tweet_ids": [
-            "794645673006211072"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_794645658774990848"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "Mooie opkomst voor @NLzorgfonds in buurthuis de Componist in Assen. Bezoekers willen beweging groter maken en verandering afdwingen. https://t.co/Vyxhq8oVgo"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 106,
-                    "end": 129,
-                    "url": "https://t.co/DFW6nRbSR9",
-                    "expanded_url": "http://www.kijk.nl/video/n6NQPZENwXfO",
-                    "display_url": "kijk.nl/video/n6NQPZEN…"
-                }
-            ]
-        },
-        "id": "793413495811366917",
-        "created_at": "2016-11-01T11:24:52.000Z",
-        "conversation_id": "793413495811366917",
-        "edit_history_tweet_ids": [
-            "793413495811366917"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Ongelooflijk dat VVE, die winkeliers zondagsopenstelling oplegt, niet wil reageren omdat het zondag is... https://t.co/DFW6nRbSR9"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 139,
-                    "end": 162,
-                    "url": "https://t.co/RvZ5MF1CfQ",
-                    "expanded_url": "https://x.com/jimmydijk/status/792860348042870784/photo/1",
-                    "display_url": "pic.x.com/RvZ5MF1CfQ",
-                    "media_key": "3_792860332939218944"
-                },
-                {
-                    "start": 139,
-                    "end": 162,
-                    "url": "https://t.co/RvZ5MF1CfQ",
-                    "expanded_url": "https://x.com/jimmydijk/status/792860348042870784/photo/1",
-                    "display_url": "pic.x.com/RvZ5MF1CfQ",
-                    "media_key": "3_792860332922380292"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 3,
-                    "end": 17,
-                    "username": "univgroningen",
-                    "id": "33535466"
-                },
-                {
-                    "start": 88,
-                    "end": 104,
-                    "username": "DaanBrandenbarg",
-                    "id": "123883437"
-                }
-            ]
-        },
-        "id": "792860348042870784",
-        "created_at": "2016-10-30T22:46:52.000Z",
-        "conversation_id": "792860348042870784",
-        "edit_history_tweet_ids": [
-            "792860348042870784"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_792860332939218944",
-                "3_792860332922380292"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "De @univgroningen wil bij exces ontgroening bijdrage studentenvereniging stoppen. SP'er @DaanBrandenbarg pleitte hier terecht ook al voor. https://t.co/RvZ5MF1CfQ"
-    },
-    {
-        "id": "792764388054798336",
-        "created_at": "2016-10-30T16:25:33.000Z",
-        "conversation_id": "792688308690247680",
-        "edit_history_tweet_ids": [
-            "792764388054798336"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "@tvanzoelen Klopt en de CU ook hoor. En wat niet kan, dat kan niet..."
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 115,
-                    "end": 138,
-                    "url": "https://t.co/pYzDNIrTBL",
-                    "expanded_url": "https://www.nrc.nl/nieuws/2016/10/28/vrije-markt-eindigt-in-de-ondergang-5032183-a1529012",
-                    "display_url": "nrc.nl/nieuws/2016/10…"
-                }
-            ]
-        },
-        "id": "792758611554476033",
-        "created_at": "2016-10-30T16:02:36.000Z",
-        "conversation_id": "792758611554476033",
-        "edit_history_tweet_ids": [
-            "792758611554476033"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "\"...al snel ontwikkelt zich een kleine elite die meer profiteert dan de rest en die ook politieke macht verwerft.\" https://t.co/pYzDNIrTBL"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 143,
-                    "end": 166,
-                    "url": "https://t.co/sMUCPVCTqL",
-                    "expanded_url": "https://x.com/rtvnoord/status/792683500281458688",
-                    "display_url": "x.com/rtvnoord/statu…"
-                }
-            ]
-        },
-        "id": "792688308690247680",
-        "created_at": "2016-10-30T11:23:14.000Z",
-        "conversation_id": "792688308690247680",
-        "edit_history_tweet_ids": [
-            "792688308690247680"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "CDA,SP&amp;St.P nemen het wél op voor ondernemers die zondags niet verplicht open willen en kunnen. Stadsbestuur #050 duikt en grijpt niet in. https://t.co/sMUCPVCTqL"
-    },
-    {
-        "id": "792651571310067712",
-        "created_at": "2016-10-30T08:57:16.000Z",
-        "conversation_id": "792646428510355457",
-        "edit_history_tweet_ids": [
-            "792651571310067712"
-        ],
-        "lang": "nl",
-        "entities": {
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 13,
-                    "username": "frederikmeis",
-                    "id": "1045920822341382144"
-                }
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@frederikmeis Succes ermee..."
-    },
-    {
-        "id": "792650984933777408",
-        "created_at": "2016-10-30T08:54:56.000Z",
-        "conversation_id": "792646428510355457",
-        "edit_history_tweet_ids": [
-            "792650984933777408"
-        ],
-        "lang": "nl",
-        "entities": {
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 13,
-                    "username": "frederikmeis",
-                    "id": "1045920822341382144"
-                }
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@frederikmeis Ik merk het! Alleen denk ik door dit soort \"ideeën\" dat jij aan een andere revolutie zit te denken dan ik ;)"
-    },
-    {
-        "id": "792648724749094913",
-        "created_at": "2016-10-30T08:45:57.000Z",
-        "conversation_id": "792646428510355457",
-        "edit_history_tweet_ids": [
-            "792648724749094913"
-        ],
-        "lang": "nl",
-        "entities": {
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 13,
-                    "username": "frederikmeis",
-                    "id": "1045920822341382144"
-                }
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@frederikmeis sterk..."
-    },
-    {
-        "id": "791738856693436416",
-        "created_at": "2016-10-27T20:30:27.000Z",
-        "conversation_id": "791726135088406529",
-        "edit_history_tweet_ids": [
-            "791738856693436416"
-        ],
-        "lang": "nl",
-        "entities": {
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 10,
-                    "username": "cwbbakker",
-                    "id": "391956146"
-                },
-                {
-                    "start": 11,
-                    "end": 24,
-                    "username": "MertensFloor",
-                    "id": "2912360007"
-                },
-                {
-                    "start": 56,
-                    "end": 72,
-                    "username": "MechteldvanDuin",
-                    "id": "1311180012"
-                }
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@cwbbakker @MertensFloor en natuurlijk via ons raadslid @MechteldvanDuin"
-    },
-    {
-        "id": "791738547070009344",
-        "created_at": "2016-10-27T20:29:14.000Z",
-        "conversation_id": "791726135088406529",
-        "edit_history_tweet_ids": [
-            "791738547070009344"
-        ],
-        "lang": "nl",
-        "entities": {
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 10,
-                    "username": "cwbbakker",
-                    "id": "391956146"
-                },
-                {
-                    "start": 116,
-                    "end": 129,
-                    "username": "MertensFloor",
-                    "id": "2912360007"
-                }
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@cwbbakker Chris, je kunt ook altijd lokaal huisjesmelkers nomineren via roodgroningen@sp.nl of contact opnemen met @MertensFloor"
-    },
-    {
-        "id": "791399623374082048",
-        "entities": {
-            "hashtags": [
-                {
-                    "start": 22,
-                    "end": 30,
-                    "tag": "raad050"
-                }
-            ]
-        },
-        "created_at": "2016-10-26T22:02:28.000Z",
-        "conversation_id": "791399623374082048",
-        "edit_history_tweet_ids": [
-            "791399623374082048"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "D66&amp;VVD hadden in #raad050 over verplichte zondagsopenstelling, zorgverzekering minima &amp; soc huursector de PvdA&amp;GL weer volledig in de tang"
-    },
-    {
-        "id": "791307720511066112",
-        "entities": {
-            "hashtags": [
-                {
-                    "start": 130,
-                    "end": 138,
-                    "tag": "raad050"
-                }
-            ]
-        },
-        "created_at": "2016-10-26T15:57:17.000Z",
-        "conversation_id": "791307720511066112",
-        "edit_history_tweet_ids": [
-            "791307720511066112"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "PvdA wacht liever nog een jaartje met extra kortingen op collectieve zorgverzekering van Menzis en laat 10.000 minima in de steek #raad050"
-    },
-    {
-        "id": "791304627794894848",
-        "entities": {
-            "hashtags": [
-                {
-                    "start": 126,
-                    "end": 134,
-                    "tag": "raad050"
-                }
-            ]
-        },
-        "created_at": "2016-10-26T15:44:59.000Z",
-        "conversation_id": "791304627794894848",
-        "edit_history_tweet_ids": [
-            "791304627794894848"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "In nov 2015 kaartte SP aan dat er betere regeling moet komen voor zorgverzekering voor minima. Nu is er nog niets geregeld... #raad050"
-    },
-    {
-        "id": "791299409308950528",
-        "created_at": "2016-10-26T15:24:15.000Z",
-        "conversation_id": "791297214329057280",
-        "edit_history_tweet_ids": [
-            "791299409308950528"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "@SanderClaassen Die \"vrije\" ondernemers oplegt om zondags open te zijn. Zo niet =&gt; dan boete. Een democratie respecteert ook minderheden."
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 78,
-                    "end": 101,
-                    "url": "https://t.co/WZcViDdmhd",
-                    "expanded_url": "https://x.com/jimmydijk/status/791297214329057280",
-                    "display_url": "x.com/jimmydijk/stat…"
-                }
-            ]
-        },
-        "id": "791298050761297921",
-        "created_at": "2016-10-26T15:18:51.000Z",
-        "conversation_id": "791298050761297921",
-        "edit_history_tweet_ids": [
-            "791298050761297921"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Sorry, GroenLinks #050 duikt ook onder het mom van: \"Hier gaan wij niet over\" https://t.co/WZcViDdmhd"
-    },
-    {
-        "id": "791297214329057280",
-        "entities": {
-            "hashtags": [
-                {
-                    "start": 136,
-                    "end": 144,
-                    "tag": "raad050"
-                }
-            ]
-        },
-        "created_at": "2016-10-26T15:15:32.000Z",
-        "conversation_id": "791297214329057280",
-        "edit_history_tweet_ids": [
-            "791297214329057280"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "PvdA &amp; D66 nemen nul verantwoordelijkheid voor gevolgen van hun beleid en laten toe dat ondernemers op zondag verplicht open moeten #raad050"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 138,
-                    "end": 161,
-                    "url": "https://t.co/tHgGDNCUx9",
-                    "expanded_url": "https://x.com/jimmydijk/status/790940054533332992/photo/1",
-                    "display_url": "pic.x.com/tHgGDNCUx9",
-                    "media_key": "3_790940029329825792"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 87,
-                    "end": 95,
-                    "tag": "raad050"
-                },
-                {
-                    "start": 96,
-                    "end": 110,
-                    "tag": "begroting2017"
-                }
-            ]
-        },
-        "id": "790940054533332992",
-        "created_at": "2016-10-25T15:36:18.000Z",
-        "conversation_id": "790940054533332992",
-        "edit_history_tweet_ids": [
-            "790940054533332992"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_790940029329825792"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "\"Ook zien we dat burgers een steeds prominentere rol gaan spelen in de samenleving...\" #raad050 #begroting2017 (Burgers zijn samenleving) https://t.co/tHgGDNCUx9"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 139,
-                    "end": 162,
-                    "url": "https://t.co/snINdcJBeg",
-                    "expanded_url": "https://x.com/jimmydijk/status/790680213197824000/photo/1",
-                    "display_url": "pic.x.com/snINdcJBeg",
-                    "media_key": "3_790680204033351680"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 79,
-                    "end": 91,
-                    "username": "NLzorgfonds",
-                    "id": "724502970411393024"
-                }
-            ]
-        },
-        "id": "790680213197824000",
-        "created_at": "2016-10-24T22:23:47.000Z",
-        "conversation_id": "790680213197824000",
-        "edit_history_tweet_ids": [
-            "790680213197824000"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_790680204033351680"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "Goed dat naast 195.000 mensen ook steeds meer partijen de principes achter het @NLzorgfonds zonder eigen risico steunen. Sluit je ook aan! https://t.co/snINdcJBeg"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 139,
-                    "end": 162,
-                    "url": "https://t.co/hV5e5KfyM1",
-                    "expanded_url": "https://x.com/jimmydijk/status/789741285292797952/photo/1",
-                    "display_url": "pic.x.com/hV5e5KfyM1",
-                    "media_key": "3_789741260194062336"
-                }
-            ]
-        },
-        "id": "789741285292797952",
-        "created_at": "2016-10-22T08:12:49.000Z",
-        "conversation_id": "789741285292797952",
-        "edit_history_tweet_ids": [
-            "789741285292797952"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_789741260194062336"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "\"Ik woon hier, omdat ik nergens anders een huis kon krijgen\" Situatie van Hanneke Moed toont tekort sociale huurwoningen haarfijn aan #050 https://t.co/hV5e5KfyM1"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 73,
-                    "end": 96,
-                    "url": "https://t.co/YUfNFCqT5L",
-                    "expanded_url": "https://x.com/jimmydijk/status/788418364221841409/photo/1",
-                    "display_url": "pic.x.com/YUfNFCqT5L",
-                    "media_key": "3_788418355657117696"
-                }
-            ]
-        },
-        "id": "788418364221841409",
-        "created_at": "2016-10-18T16:36:00.000Z",
-        "conversation_id": "788418364221841409",
-        "edit_history_tweet_ids": [
-            "788418364221841409"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_788418355657117696"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "Goed nieuws! Hulde aan de omwonenden die deze strijd hebben gevoerd #050 https://t.co/YUfNFCqT5L"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 133,
-                    "end": 156,
-                    "url": "https://t.co/GPFdUaMIFF",
-                    "expanded_url": "https://x.com/jimmydijk/status/787936862472179712/photo/1",
-                    "display_url": "pic.x.com/GPFdUaMIFF",
-                    "media_key": "3_787936841802604544"
-                },
-                {
-                    "start": 133,
-                    "end": 156,
-                    "url": "https://t.co/GPFdUaMIFF",
-                    "expanded_url": "https://x.com/jimmydijk/status/787936862472179712/photo/1",
-                    "display_url": "pic.x.com/GPFdUaMIFF",
-                    "media_key": "3_787936841806782464"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 121,
-                    "end": 132,
-                    "tag": "huurteduur"
-                }
-            ]
-        },
-        "id": "787936862472179712",
-        "created_at": "2016-10-17T08:42:41.000Z",
-        "conversation_id": "787936862472179712",
-        "edit_history_tweet_ids": [
-            "787936862472179712"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_787936841802604544",
-                "3_787936841806782464"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "Mocht men in 050 scheefwonen een probleem vinden, dan is dit vooral een probleem voor huurders die teveel moeten betalen #huurteduur https://t.co/GPFdUaMIFF"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 31,
-                    "end": 54,
-                    "url": "https://t.co/QnthPYZlZ9",
-                    "expanded_url": "https://x.com/jimmydijk/status/787921532119113728/photo/1",
-                    "display_url": "pic.x.com/QnthPYZlZ9",
-                    "media_key": "3_787921523491373056"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 13,
-                    "username": "frederikmeis",
-                    "id": "1045920822341382144"
-                },
-                {
-                    "start": 14,
-                    "end": 30,
-                    "username": "driekusvierkant",
-                    "id": "1274364961"
-                }
-            ]
-        },
-        "id": "787921532119113728",
-        "created_at": "2016-10-17T07:41:46.000Z",
-        "conversation_id": "787896591428513792",
-        "edit_history_tweet_ids": [
-            "787921532119113728"
-        ],
-        "lang": "qme",
-        "attachments": {
-            "media_keys": [
-                "3_787921523491373056"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@frederikmeis @driekusvierkant https://t.co/QnthPYZlZ9"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 137,
-                    "end": 160,
-                    "url": "https://t.co/O4hDXljVz5",
-                    "expanded_url": "https://x.com/jimmydijk/status/787043423215845376/photo/1",
-                    "display_url": "pic.x.com/O4hDXljVz5",
-                    "media_key": "3_787043395944472576"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 70,
-                    "end": 81,
-                    "username": "LVogelpoel",
-                    "id": "719783124"
-                },
-                {
-                    "start": 110,
-                    "end": 122,
-                    "username": "NLzorgfonds",
-                    "id": "724502970411393024"
-                }
-            ]
-        },
-        "id": "787043423215845376",
-        "created_at": "2016-10-14T21:32:29.000Z",
-        "conversation_id": "787043423215845376",
-        "edit_history_tweet_ids": [
-            "787043423215845376"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_787043395944472576"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "\"Beter goede 1e hulp op tijd dan uitstekende zorg te laat\" aldus arts @LVogelpoel op drukbezochte bijeenkomst @NLzorgfonds in Enkhuizen. https://t.co/O4hDXljVz5"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 108,
-                    "end": 131,
-                    "url": "https://t.co/b2JoszTOwR",
-                    "expanded_url": "https://x.com/jimmydijk/status/786996935609683968/photo/1",
-                    "display_url": "pic.x.com/b2JoszTOwR",
-                    "media_key": "3_786996917498683392"
-                },
-                {
-                    "start": 108,
-                    "end": 131,
-                    "url": "https://t.co/b2JoszTOwR",
-                    "expanded_url": "https://x.com/jimmydijk/status/786996935609683968/photo/1",
-                    "display_url": "pic.x.com/b2JoszTOwR",
-                    "media_key": "3_786996917498683393"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 95,
-                    "end": 107,
-                    "username": "NLzorgfonds",
-                    "id": "724502970411393024"
-                }
-            ]
-        },
-        "id": "786996935609683968",
-        "created_at": "2016-10-14T18:27:45.000Z",
-        "conversation_id": "786996935609683968",
-        "edit_history_tweet_ids": [
-            "786996935609683968"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_786996917498683392",
-                "3_786996917498683393"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "Goedenavond Enkhuizen! Meer dan 100 bezoekers vanavond op 22ste regionale bijeenkomst voor het @NLzorgfonds https://t.co/b2JoszTOwR"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 25,
-                    "end": 48,
-                    "url": "https://t.co/BeFlwjMZ0e",
-                    "expanded_url": "https://www.nrc.nl/nieuws/2016/10/09/spers-trekken-hun-afdracht-volledig-af-4666206-a1525661",
-                    "display_url": "nrc.nl/nieuws/2016/10…"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 12,
-                    "username": "jolanda1253",
-                    "id": "3987873695"
-                }
-            ]
-        },
-        "id": "786674379472179200",
-        "created_at": "2016-10-13T21:06:02.000Z",
-        "conversation_id": "786669430180814848",
-        "edit_history_tweet_ids": [
-            "786674379472179200"
-        ],
-        "lang": "en",
-        "author_id": "231772399",
-        "text": "@jolanda1253 Fact check: https://t.co/BeFlwjMZ0e"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 135,
-                    "end": 158,
-                    "url": "https://t.co/MAwnckFNCr",
-                    "expanded_url": "https://x.com/jimmydijk/status/786666844518281217/photo/1",
-                    "display_url": "pic.x.com/MAwnckFNCr",
-                    "media_key": "3_786666833353072640"
-                },
-                {
-                    "start": 135,
-                    "end": 158,
-                    "url": "https://t.co/MAwnckFNCr",
-                    "expanded_url": "https://x.com/jimmydijk/status/786666844518281217/photo/1",
-                    "display_url": "pic.x.com/MAwnckFNCr",
-                    "media_key": "3_786666833348857856"
-                },
-                {
-                    "start": 135,
-                    "end": 158,
-                    "url": "https://t.co/MAwnckFNCr",
-                    "expanded_url": "https://x.com/jimmydijk/status/786666844518281217/photo/1",
-                    "display_url": "pic.x.com/MAwnckFNCr",
-                    "media_key": "3_786666833336274945"
-                },
-                {
-                    "start": 135,
-                    "end": 158,
-                    "url": "https://t.co/MAwnckFNCr",
-                    "expanded_url": "https://x.com/jimmydijk/status/786666844518281217/photo/1",
-                    "display_url": "pic.x.com/MAwnckFNCr",
-                    "media_key": "3_786666833357275137"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 123,
-                    "end": 134,
-                    "tag": "unstopable"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 69,
-                    "end": 81,
-                    "username": "NLzorgfonds",
-                    "id": "724502970411393024"
-                }
-            ]
-        },
-        "id": "786666844518281217",
-        "created_at": "2016-10-13T20:36:05.000Z",
-        "conversation_id": "786666844518281217",
-        "edit_history_tweet_ids": [
-            "786666844518281217"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_786666833353072640",
-                "3_786666833348857856",
-                "3_786666833336274945",
-                "3_786666833357275137"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "Als 21ste stad bezochten we vandaag Gouda met de regionale tour voor @NLzorgfonds Wederom bomvolle zaal vol sympathisanten #unstopable https://t.co/MAwnckFNCr"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 113,
-                    "end": 136,
-                    "url": "https://t.co/hYHZjl3r7C",
-                    "expanded_url": "https://youtu.be/McDWxqHbwQY",
-                    "display_url": "youtu.be/McDWxqHbwQY"
-                }
-            ]
-        },
-        "id": "786300626309378049",
-        "created_at": "2016-10-12T20:20:52.000Z",
-        "conversation_id": "786300626309378049",
-        "edit_history_tweet_ids": [
-            "786300626309378049"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Goed nieuws! Flat van huisjesmelker in tuin bewoners moet worden afgebroken. Gefeliciteerd met deze overwinning! https://t.co/hYHZjl3r7C"
-    },
-    {
-        "id": "786291351960817664",
-        "entities": {
-            "hashtags": [
-                {
-                    "start": 66,
-                    "end": 77,
-                    "tag": "onvrijheid"
-                },
-                {
-                    "start": 122,
-                    "end": 130,
-                    "tag": "raad050"
-                }
-            ]
-        },
-        "created_at": "2016-10-12T19:44:01.000Z",
-        "conversation_id": "786291351960817664",
-        "edit_history_tweet_ids": [
-            "786291351960817664"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "College staat toe dat ondernemers verplicht op zondag open moeten #onvrijheid College danst naar pijpen van grote jongens #raad050"
-    },
-    {
-        "id": "786282106259443712",
-        "entities": {
-            "hashtags": [
-                {
-                    "start": 135,
-                    "end": 143,
-                    "tag": "raad050"
-                }
-            ]
-        },
-        "created_at": "2016-10-12T19:07:17.000Z",
-        "conversation_id": "786282106259443712",
-        "edit_history_tweet_ids": [
-            "786282106259443712"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "College komt voor 2e jaar met slap verhaal zorgverzekering minima. Brief te laat, loze keuzevrijheid &amp; geen cent extra voor minima #raad050"
-    },
-    {
-        "id": "785964962263040004",
-        "entities": {
-            "hashtags": [
-                {
-                    "start": 128,
-                    "end": 144,
-                    "tag": "boeteopziekzijn"
-                }
-            ]
-        },
-        "created_at": "2016-10-11T22:07:04.000Z",
-        "conversation_id": "785964962263040004",
-        "edit_history_tweet_ids": [
-            "785964962263040004"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Marktwerking creëert verspilling in zorg (winsten,bureaucratie&amp;reclame) en kosten zijn van samenleving naar individu gegaan #boeteopziekzijn"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 144,
-                    "end": 167,
-                    "url": "https://t.co/xRJNrCrOe3",
-                    "expanded_url": "https://x.com/jimmydijk/status/785962711830102016/photo/1",
-                    "display_url": "pic.x.com/xRJNrCrOe3",
-                    "media_key": "3_785962703126945792"
-                },
-                {
-                    "start": 144,
-                    "end": 167,
-                    "url": "https://t.co/xRJNrCrOe3",
-                    "expanded_url": "https://x.com/jimmydijk/status/785962711830102016/photo/1",
-                    "display_url": "pic.x.com/xRJNrCrOe3",
-                    "media_key": "3_785962703114338304"
-                },
-                {
-                    "start": 144,
-                    "end": 167,
-                    "url": "https://t.co/xRJNrCrOe3",
-                    "expanded_url": "https://x.com/jimmydijk/status/785962711830102016/photo/1",
-                    "display_url": "pic.x.com/xRJNrCrOe3",
-                    "media_key": "3_785962703110234112"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 81,
-                    "end": 88,
-                    "tag": "kolder"
-                },
-                {
-                    "start": 138,
-                    "end": 143,
-                    "tag": "Pauw"
-                }
-            ]
-        },
-        "id": "785962711830102016",
-        "created_at": "2016-10-11T21:58:07.000Z",
-        "conversation_id": "785962711830102016",
-        "edit_history_tweet_ids": [
-            "785962711830102016"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_785962703126945792",
-                "3_785962703114338304",
-                "3_785962703110234112"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "Schippers: \"Verzekeraars maken geen winst, dat gaat terug naar premiekortingen.\" #kolder Winsten, premies &amp; reserves zijn gestegen... #Pauw https://t.co/xRJNrCrOe3"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 41,
-                    "end": 64,
-                    "url": "https://t.co/wiCqWSFEHI",
-                    "expanded_url": "http://www.nationaalzorgfonds.nl",
-                    "display_url": "nationaalzorgfonds.nl",
-                    "status": 200,
-                    "title": "Nationaal Zorgfonds",
-                    "description": "In Nederland moet je kunnen rekenen op de zorg die je nodig hebt. Zo simpel is het. Maar er staat een boete van € 385,- op ziek zijn: het eigen risico. Het nieuwe kabinet van D66, CDA en VVD wil dit zelfs verhogen naar 520 euro. Dit vergroot de ongelijkheid. Steeds meer mensen kunnen niet meer de zorg betalen die nodig is. De zorg is veel te bureaucratisch. En aan de marketing van zorgverzekeraars en het jaarlijkse overstapcircus worden miljarden verspild. De kwaliteit gaat omlaag, de kosten omhoog. Dat",
-                    "unwound_url": "https://www.nationaalzorgfonds.nl/"
-                },
-                {
-                    "start": 65,
-                    "end": 88,
-                    "url": "https://t.co/EqNqisRPkb",
-                    "expanded_url": "https://x.com/jimmydijk/status/785957802602795008/photo/1",
-                    "display_url": "pic.x.com/EqNqisRPkb",
-                    "media_key": "3_785957793115299840"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 35,
-                    "end": 40,
-                    "tag": "Pauw"
-                }
-            ]
-        },
-        "id": "785957802602795008",
-        "created_at": "2016-10-11T21:38:37.000Z",
-        "conversation_id": "785957802602795008",
-        "edit_history_tweet_ids": [
-            "785957802602795008"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_785957793115299840"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "Slecht verhaal van Edith Schippers #Pauw https://t.co/wiCqWSFEHI https://t.co/EqNqisRPkb"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 144,
-                    "end": 167,
-                    "url": "https://t.co/c5BiHGPKk7",
-                    "expanded_url": "https://x.com/jimmydijk/status/785600716689772549/photo/1",
-                    "display_url": "pic.x.com/c5BiHGPKk7",
-                    "media_key": "3_785600707793653760"
-                },
-                {
-                    "start": 144,
-                    "end": 167,
-                    "url": "https://t.co/c5BiHGPKk7",
-                    "expanded_url": "https://x.com/jimmydijk/status/785600716689772549/photo/1",
-                    "display_url": "pic.x.com/c5BiHGPKk7",
-                    "media_key": "3_785600707789488128"
-                }
-            ]
-        },
-        "id": "785600716689772549",
-        "created_at": "2016-10-10T21:59:41.000Z",
-        "conversation_id": "785600716689772549",
-        "edit_history_tweet_ids": [
-            "785600716689772549"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_785600707793653760",
-                "3_785600707789488128"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "McKinsey &amp; AIAS toonden aan dat (lage)inkomens afgelopen jaren flink zijn achtergebleven. De SP wil hogere lonen en een tot 10% hogere AOW. https://t.co/c5BiHGPKk7"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 141,
-                    "end": 164,
-                    "url": "https://t.co/Rca9yoOI6p",
-                    "expanded_url": "https://x.com/jimmydijk/status/784158929962016768/photo/1",
-                    "display_url": "pic.x.com/Rca9yoOI6p",
-                    "media_key": "3_784158922831720448"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 7,
-                    "end": 13,
-                    "username": "trouw",
-                    "id": "3103511"
-                },
-                {
-                    "start": 25,
-                    "end": 37,
-                    "username": "NLzorgfonds",
-                    "id": "724502970411393024"
-                }
-            ]
-        },
-        "id": "784158929962016768",
-        "created_at": "2016-10-06T22:30:32.000Z",
-        "conversation_id": "784158929962016768",
-        "edit_history_tweet_ids": [
-            "784158929962016768"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_784158922831720448"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "90% vd @trouw lezers wil @NLzorgfonds, 90% vd politici willen dat (nog) niet. We gaan hen overtuigen met een volksbeweging. Sluit je nu aan! https://t.co/Rca9yoOI6p"
-    },
-    {
-        "id": "783768481900658688",
-        "entities": {
-            "hashtags": [
-                {
-                    "start": 119,
-                    "end": 129,
-                    "tag": "hetzelfde"
-                },
-                {
-                    "start": 130,
-                    "end": 138,
-                    "tag": "raad050"
-                }
-            ]
-        },
-        "created_at": "2016-10-05T20:39:02.000Z",
-        "conversation_id": "783768481900658688",
-        "edit_history_tweet_ids": [
-            "783768481900658688"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Over bewoners betrekken bij bouwplannen: SP wil uitwerking, PvdA stappenplan, D66 wil programma maatschappelijke eisen #hetzelfde #raad050"
-    },
-    {
-        "id": "783731273898524672",
-        "entities": {
-            "hashtags": [
-                {
-                    "start": 132,
-                    "end": 140,
-                    "tag": "raad050"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 10,
-                    "end": 26,
-                    "username": "roelandvdschaaf",
-                    "id": "317691601"
-                }
-            ]
-        },
-        "created_at": "2016-10-05T18:11:11.000Z",
-        "conversation_id": "783731273898524672",
-        "edit_history_tweet_ids": [
-            "783731273898524672"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Wethouder @roelandvdschaaf over SP-initiatief Meldpunt Ongewenst Verhuurgedrag \"Het meldpunt werkt en levert nuttige informatie op\" #raad050"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 114,
-                    "end": 137,
-                    "url": "https://t.co/65CXTAnZ6y",
-                    "expanded_url": "https://www.oogtv.nl/2016/10/odensehuis-viert-feest-na-toezegging-geld/",
-                    "display_url": "oogtv.nl/2016/10/odense…"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 29,
-                    "end": 44,
-                    "username": "Odensehuisgron",
-                    "id": "1886317340"
-                }
-            ]
-        },
-        "id": "782932525131988992",
-        "created_at": "2016-10-03T13:17:14.000Z",
-        "conversation_id": "782932525131988992",
-        "edit_history_tweet_ids": [
-            "782932525131988992"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Gefeliciteerd, vrijwilligers @Odensehuisgron Jullie belangeloze inzet is inspirerend. Maak er een mooi feest van!\nhttps://t.co/65CXTAnZ6y"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 115,
-                    "end": 138,
-                    "url": "https://t.co/FEMUY01k59",
-                    "expanded_url": "https://www.skipr.nl/actueel/id10689-pvda-neemt-afscheid-van-marktwerking.html",
-                    "display_url": "skipr.nl/actueel/id1068…"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 105,
-                    "end": 110,
-                    "username": "PvdA",
-                    "id": "7343682"
-                }
-            ]
-        },
-        "id": "781982993250385920",
-        "created_at": "2016-09-30T22:24:08.000Z",
-        "conversation_id": "781982993250385920",
-        "edit_history_tweet_ids": [
-            "781982993250385920"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "In 2012 stelde PvdA: stop concurrentie in zorg en tussen verzekeraars want dat bespaart €3mld. Wat stelt @PvdA nu? https://t.co/FEMUY01k59"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 134,
-                    "end": 157,
-                    "url": "https://t.co/M7chqmeQMw",
-                    "expanded_url": "https://x.com/jimmydijk/status/781922687568515072/photo/1",
-                    "display_url": "pic.x.com/M7chqmeQMw",
-                    "media_key": "3_781922674549358592"
-                },
-                {
-                    "start": 134,
-                    "end": 157,
-                    "url": "https://t.co/M7chqmeQMw",
-                    "expanded_url": "https://x.com/jimmydijk/status/781922687568515072/photo/1",
-                    "display_url": "pic.x.com/M7chqmeQMw",
-                    "media_key": "3_781922674570358785"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 71,
-                    "end": 81,
-                    "username": "AllanVafi",
-                    "id": "2225296674"
-                },
-                {
-                    "start": 110,
-                    "end": 122,
-                    "username": "NLzorgfonds",
-                    "id": "724502970411393024"
-                }
-            ]
-        },
-        "id": "781922687568515072",
-        "created_at": "2016-09-30T18:24:30.000Z",
-        "conversation_id": "781922687568515072",
-        "edit_history_tweet_ids": [
-            "781922687568515072"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_781922674549358592",
-                "3_781922674570358785"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "\"Zorg is sector voor het hart. Niet voor de rekenmachine\" zegt chirurg @AllanVafi op druk bezochte avond over @NLzorgfonds in Almelo. https://t.co/M7chqmeQMw"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 97,
-                    "end": 120,
-                    "url": "https://t.co/Ef5cTTeL9Y",
-                    "expanded_url": "https://x.com/jimmydijk/status/781610475729645569/photo/1",
-                    "display_url": "pic.x.com/Ef5cTTeL9Y",
-                    "media_key": "3_781610468293107712"
-                },
-                {
-                    "start": 97,
-                    "end": 120,
-                    "url": "https://t.co/Ef5cTTeL9Y",
-                    "expanded_url": "https://x.com/jimmydijk/status/781610475729645569/photo/1",
-                    "display_url": "pic.x.com/Ef5cTTeL9Y",
-                    "media_key": "3_781610468297338880"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 21,
-                    "end": 31,
-                    "username": "telegraaf",
-                    "id": "2902821"
-                }
-            ]
-        },
-        "id": "781610475729645569",
-        "created_at": "2016-09-29T21:43:53.000Z",
-        "conversation_id": "781610475729645569",
-        "edit_history_tweet_ids": [
-            "781610475729645569"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_781610468293107712",
-                "3_781610468297338880"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "Taaadaaa! Ook lezers @telegraaf (87%) trappen niet meer in gegoochel van VVD-minister Schippers. https://t.co/Ef5cTTeL9Y"
-    },
-    {
-        "id": "781231213046435840",
-        "created_at": "2016-09-28T20:36:50.000Z",
-        "conversation_id": "781182378538663936",
-        "edit_history_tweet_ids": [
-            "781231213046435840"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "@georgevangent Nee, daarom subsidieerde we organisatie die mensen met afstand tot arbeidsmarkt aan nuttig werk hielp."
-    },
-    {
-        "id": "781185457950523392",
-        "entities": {
-            "hashtags": [
-                {
-                    "start": 122,
-                    "end": 130,
-                    "tag": "raad050"
-                }
-            ]
-        },
-        "created_at": "2016-09-28T17:35:01.000Z",
-        "conversation_id": "781185457950523392",
-        "edit_history_tweet_ids": [
-            "781185457950523392"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "CDA, SP, PvdA, CU &amp; VVD dwingen bij renovatie Stadhuis geen overbodige poespas af. Bescheiden omgaan met publiek geld #raad050"
-    },
-    {
-        "id": "781182378538663936",
-        "entities": {
-            "hashtags": [
-                {
-                    "start": 132,
-                    "end": 140,
-                    "tag": "raad050"
-                }
-            ]
-        },
-        "created_at": "2016-09-28T17:22:47.000Z",
-        "conversation_id": "781182378538663936",
-        "edit_history_tweet_ids": [
-            "781182378538663936"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Weer iets in de uitverkoop! PvdA vermarkt onder leiding van D66 het beheer fietsenstallingen. Onzekerheid voor kwetsbare werknemers #raad050"
-    },
-    {
-        "id": "781181897149911040",
-        "entities": {
-            "hashtags": [
-                {
-                    "start": 132,
-                    "end": 140,
-                    "tag": "raad050"
-                }
-            ]
-        },
-        "created_at": "2016-09-28T17:20:52.000Z",
-        "conversation_id": "781181897149911040",
-        "edit_history_tweet_ids": [
-            "781181897149911040"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Wat nou 'economisme'? GroenLinks vermarkt onder leiding van D66 het beheer fietsenstallingen. Onzekerheid voor kwetsbare werknemers #raad050"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 125,
-                    "end": 148,
-                    "url": "https://t.co/odXkm0139H",
-                    "expanded_url": "https://x.com/roelandvdschaaf/status/780755664339632128",
-                    "display_url": "x.com/roelandvdschaa…"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 116,
-                    "end": 124,
-                    "tag": "raad050"
-                }
-            ]
-        },
-        "id": "780842744889638912",
-        "created_at": "2016-09-27T18:53:12.000Z",
-        "conversation_id": "780842744889638912",
-        "edit_history_tweet_ids": [
-            "780842744889638912"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Juist daarom zijn de bedenksels van deze raden, staten en kamers vaak vanuit dat perspectief ingegeven en ontworpen #raad050 https://t.co/odXkm0139H"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 143,
-                    "end": 166,
-                    "url": "https://t.co/LhlDJlvrgd",
-                    "expanded_url": "https://x.com/bbnieuws/status/780353470092025858",
-                    "display_url": "x.com/bbnieuws/statu…"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 134,
-                    "end": 142,
-                    "tag": "raad050"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 28,
-                    "end": 39,
-                    "username": "letsgro050",
-                    "id": "1371819698"
-                },
-                {
-                    "start": 46,
-                    "end": 61,
-                    "username": "G1000Groningen",
-                    "id": "2795371864"
-                }
-            ]
-        },
-        "id": "780678445466521601",
-        "created_at": "2016-09-27T08:00:20.000Z",
-        "conversation_id": "780678445466521601",
-        "edit_history_tweet_ids": [
-            "780678445466521601"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Lijkt ook geval te zijn bij @letsgro050 &amp; @G1000Groningen Maar ook bij vormen van \"burgerparticipatie\" waar stadsbestuur mee komt #raad050 https://t.co/LhlDJlvrgd"
-    },
-    {
-        "id": "780674899555807232",
-        "created_at": "2016-09-27T07:46:14.000Z",
-        "conversation_id": "780521010286194721",
-        "edit_history_tweet_ids": [
-            "780674899555807232"
-        ],
-        "lang": "nl",
-        "entities": {
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 15,
-                    "username": "timvanlieshout",
-                    "id": "14220681"
-                }
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@timvanlieshout Zorgkosten zijn van gezamenlijk (op basis van solidariteit) naar individueel verplaats. Dat is verplaatsing van zorgkosten."
-    },
-    {
-        "id": "780674313485713408",
-        "created_at": "2016-09-27T07:43:55.000Z",
-        "conversation_id": "780521010286194721",
-        "edit_history_tweet_ids": [
-            "780674313485713408"
-        ],
-        "lang": "nl",
-        "entities": {
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 15,
-                    "username": "timvanlieshout",
-                    "id": "14220681"
-                }
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@timvanlieshout Neem er nou maar een NZF zonder eigen risico in op. Jullie zijn welkom om bij de maatschappelijk coalitie aan te sluiten."
-    },
-    {
-        "id": "780673057761427457",
-        "created_at": "2016-09-27T07:38:55.000Z",
-        "conversation_id": "780521010286194721",
-        "edit_history_tweet_ids": [
-            "780673057761427457"
-        ],
-        "lang": "nl",
-        "entities": {
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 15,
-                    "username": "timvanlieshout",
-                    "id": "14220681"
-                }
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@timvanlieshout @hans_koevoe En Samsom moet zich schamen... Als soc.dem. zou hij dit moeten steunen (net als zijn leden)."
-    },
-    {
-        "id": "780671358091001856",
-        "created_at": "2016-09-27T07:32:10.000Z",
-        "conversation_id": "780521010286194721",
-        "edit_history_tweet_ids": [
-            "780671358091001856"
-        ],
-        "lang": "nl",
-        "entities": {
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 15,
-                    "username": "timvanlieshout",
-                    "id": "14220681"
-                },
-                {
-                    "start": 16,
-                    "end": 29,
-                    "username": "hans_koevoet",
-                    "id": "281218106"
-                },
-                {
-                    "start": 45,
-                    "end": 57,
-                    "username": "NLzorgfonds",
-                    "id": "724502970411393024"
-                }
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@timvanlieshout @hans_koevoet @C_Groenendijk @NLzorgfonds Reclame, marketing, klantenbinding e.d. Bij elkaar 0,5 miljard euro per jaar."
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 127,
-                    "end": 150,
-                    "url": "https://t.co/zcGE80korl",
-                    "expanded_url": "https://x.com/nat_ombudsman/status/780625769173094401",
-                    "display_url": "x.com/nat_ombudsman/…"
-                }
-            ]
-        },
-        "id": "780651982726070272",
-        "created_at": "2016-09-27T06:15:11.000Z",
-        "conversation_id": "780651982726070272",
-        "edit_history_tweet_ids": [
-            "780651982726070272"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "Na de Belastingdienst komen betalingsachterstanden het meest voor bij de zorgpremie en andere zorgkosten (bij 300.000 mensen). https://t.co/zcGE80korl"
-    },
-    {
-        "id": "780543300222713856",
-        "entities": {
-            "hashtags": [
-                {
-                    "start": 127,
-                    "end": 138,
-                    "tag": "dikverhaal"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 13,
-                    "username": "hans_koevoet",
-                    "id": "281218106"
-                },
-                {
-                    "start": 29,
-                    "end": 41,
-                    "username": "NLzorgfonds",
-                    "id": "724502970411393024"
-                }
-            ]
-        },
-        "created_at": "2016-09-26T23:03:19.000Z",
-        "conversation_id": "780521010286194721",
-        "edit_history_tweet_ids": [
-            "780543300222713856"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "@hans_koevoet @C_Groenendijk @NLzorgfonds 1e balk: 1mrd winst p.j. + 0,5mrd reclames p.j. 2e balk: cijfers CPB. 3e balk: idem. #dikverhaal"
-    },
-    {
-        "id": "780530702832066561",
-        "created_at": "2016-09-26T22:13:15.000Z",
-        "conversation_id": "780521010286194721",
-        "edit_history_tweet_ids": [
-            "780530702832066561"
-        ],
-        "lang": "nl",
-        "entities": {
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 9,
-                    "username": "GerBaron",
-                    "id": "17898705"
-                }
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@GerBaron Het is bureaucratie door registratie- verantwoording- en administratiedruk van commerciële partijen. Anders dan schaalvergroting."
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 113,
-                    "end": 136,
-                    "url": "https://t.co/FImyGQIoqe",
-                    "expanded_url": "https://x.com/jimmydijk/status/780528538793414657/photo/1",
-                    "display_url": "pic.x.com/FImyGQIoqe",
-                    "media_key": "3_780528525589811206"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 9,
-                    "username": "GerBaron",
-                    "id": "17898705"
-                }
-            ]
-        },
-        "id": "780528538793414657",
-        "created_at": "2016-09-26T22:04:39.000Z",
-        "conversation_id": "780521010286194721",
-        "edit_history_tweet_ids": [
-            "780528538793414657"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_780528525589811206"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@GerBaron Van 4 grote en 12 middelgrote verzekeraars naar één Nationaal ZorgFonds scheelt erg veel bureaucratie. https://t.co/FImyGQIoqe"
-    },
-    {
-        "id": "780524185760169984",
-        "created_at": "2016-09-26T21:47:21.000Z",
-        "conversation_id": "780521010286194721",
-        "edit_history_tweet_ids": [
-            "780524185760169984"
-        ],
-        "lang": "nl",
-        "entities": {
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 9,
-                    "username": "GerBaron",
-                    "id": "17898705"
-                }
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@GerBaron Check de 3 blauwe balken. Door het afschaffen van de verzekeraars bespaar je het geld waarmee je het eigen risico kan afschaffen."
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 141,
-                    "end": 164,
-                    "url": "https://t.co/RrQ1BsIZs9",
-                    "expanded_url": "https://x.com/jimmydijk/status/780521010286194721/photo/1",
-                    "display_url": "pic.x.com/RrQ1BsIZs9",
-                    "media_key": "3_780521002379993088"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 135,
-                    "end": 140,
-                    "tag": "Pauw"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 76,
-                    "end": 88,
-                    "username": "NLzorgfonds",
-                    "id": "724502970411393024"
-                }
-            ]
-        },
-        "id": "780521010286194721",
-        "created_at": "2016-09-26T21:34:44.000Z",
-        "conversation_id": "780521010286194721",
-        "edit_history_tweet_ids": [
-            "780521010286194721"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_780521002379993088"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "Zeg Samsom, er zijn meer opties dan premie- of belastingverhoging. Invoeren @NLzorgfonds en afschaffen eigen risico gaan perfect samen #Pauw https://t.co/RrQ1BsIZs9"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 140,
-                    "end": 163,
-                    "url": "https://t.co/wkq89srXBp",
-                    "expanded_url": "https://x.com/jimmydijk/status/779435969900605440/photo/1",
-                    "display_url": "pic.x.com/wkq89srXBp",
-                    "media_key": "3_779435960257970176"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 38,
-                    "end": 50,
-                    "username": "NLzorgfonds",
-                    "id": "724502970411393024"
-                }
-            ]
-        },
-        "id": "779435969900605440",
-        "created_at": "2016-09-23T21:43:11.000Z",
-        "conversation_id": "779435969900605440",
-        "edit_history_tweet_ids": [
-            "779435969900605440"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_779435960257970176"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "Vanavond volle zaal in Apeldoorn voor @NLzorgfonds Komende week in Veenendaal,Vlaardingen,Veghel,Dordrecht,Meppel,Schagen,Almere&amp;Almelo https://t.co/wkq89srXBp"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 117,
-                    "end": 140,
-                    "url": "https://t.co/iS3NE5dQ8i",
-                    "expanded_url": "http://nos.nl/video/2133424-roemer-trots-het-kabinet-moet-zich-schamen.html",
-                    "display_url": "nos.nl/video/2133424-…"
-                }
-            ]
-        },
-        "id": "778366666774306816",
-        "created_at": "2016-09-20T22:54:09.000Z",
-        "conversation_id": "778366666774306816",
-        "edit_history_tweet_ids": [
-            "778366666774306816"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "\"Ze moeten zich schamen voor het harde bezuinigingsbeleid v/d afgelopen jaren en de schade die ze hebben aangericht\" https://t.co/iS3NE5dQ8i"
-    },
-    {
-        "id": "777828245634973696",
-        "entities": {
-            "hashtags": [
-                {
-                    "start": 58,
-                    "end": 70,
-                    "tag": "EigenRisico"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 15,
-                    "username": "GerardtenBrink",
-                    "id": "630880019"
-                }
-            ]
-        },
-        "created_at": "2016-09-19T11:14:39.000Z",
-        "conversation_id": "777816788558028800",
-        "edit_history_tweet_ids": [
-            "777828245634973696"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "@GerardtenBrink Maar ben erg benieuwd naar hoe jullie het #EigenRisico gaan afschaffen en zorgvermijding gaan voorkomen?"
-    },
-    {
-        "id": "777827925303459840",
-        "created_at": "2016-09-19T11:13:23.000Z",
-        "conversation_id": "777816788558028800",
-        "edit_history_tweet_ids": [
-            "777827925303459840"
-        ],
-        "lang": "nl",
-        "entities": {
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 15,
-                    "username": "GerardtenBrink",
-                    "id": "630880019"
-                }
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@GerardtenBrink Zijn de cijfers van het CPB"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 16,
-                    "end": 39,
-                    "url": "https://t.co/xZFxFyutHj",
-                    "expanded_url": "https://nationaalzorgfonds.nl/sites/nationaalzorgfonds.nl/files/Rapport-NZF-web.pdf",
-                    "display_url": "nationaalzorgfonds.nl/sites/nationaa…"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 15,
-                    "username": "GerardtenBrink",
-                    "id": "630880019"
-                }
-            ]
-        },
-        "id": "777826438598787073",
-        "created_at": "2016-09-19T11:07:28.000Z",
-        "conversation_id": "777816788558028800",
-        "edit_history_tweet_ids": [
-            "777826438598787073"
-        ],
-        "lang": "qme",
-        "author_id": "231772399",
-        "text": "@GerardtenBrink https://t.co/xZFxFyutHj"
-    },
-    {
-        "id": "777820230064214016",
-        "created_at": "2016-09-19T10:42:48.000Z",
-        "conversation_id": "777816788558028800",
-        "edit_history_tweet_ids": [
-            "777820230064214016"
-        ],
-        "lang": "nl",
-        "entities": {
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 15,
-                    "username": "GerardtenBrink",
-                    "id": "630880019"
-                }
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@GerardtenBrink Dit hebben we door CPB laten doorrekenen."
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 119,
-                    "end": 142,
-                    "url": "https://t.co/EtgX4YN43u",
-                    "expanded_url": "https://x.com/jimmydijk/status/777819131643097088/photo/1",
-                    "display_url": "pic.x.com/EtgX4YN43u",
-                    "media_key": "3_777819124210737152"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 33,
-                    "end": 45,
-                    "tag": "EigenRisico"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 15,
-                    "username": "GerardtenBrink",
-                    "id": "630880019"
-                },
-                {
-                    "start": 62,
-                    "end": 74,
-                    "username": "NLzorgfonds",
-                    "id": "724502970411393024"
-                }
-            ]
-        },
-        "id": "777819131643097088",
-        "created_at": "2016-09-19T10:38:26.000Z",
-        "conversation_id": "777816788558028800",
-        "edit_history_tweet_ids": [
-            "777819131643097088"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_777819124210737152"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@GerardtenBrink Kijk, afschaffen #EigenRisico &amp; invoering @NLzorgfonds gaan perfect samen. Is slechts één optie... https://t.co/EtgX4YN43u"
-    },
-    {
-        "id": "777815558465224704",
-        "entities": {
-            "hashtags": [
-                {
-                    "start": 68,
-                    "end": 72,
-                    "tag": "VVD"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 15,
-                    "username": "GerardtenBrink",
-                    "id": "630880019"
-                }
-            ]
-        },
-        "created_at": "2016-09-19T10:24:14.000Z",
-        "conversation_id": "777814946709114880",
-        "edit_history_tweet_ids": [
-            "777815558465224704"
-        ],
-        "lang": "nl",
-        "author_id": "231772399",
-        "text": "@GerardtenBrink Hoeft niet, is afhankelijk hoe je het wilt betalen. #VVD geeft premieverhoging als enige opties... Kan op andere manieren."
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 95,
-                    "end": 118,
-                    "url": "https://t.co/Voq24XJeAG",
-                    "expanded_url": "https://x.com/jimmydijk/status/777812324480614400/photo/1",
-                    "display_url": "pic.x.com/Voq24XJeAG",
-                    "media_key": "3_777809783353139200"
-                }
-            ],
-            "hashtags": [
-                {
-                    "start": 74,
-                    "end": 81,
-                    "tag": "Roemer"
-                },
-                {
-                    "start": 82,
-                    "end": 94,
-                    "tag": "EigenRisico"
-                }
-            ]
-        },
-        "id": "777812324480614400",
-        "created_at": "2016-09-19T10:11:23.000Z",
-        "conversation_id": "777812324480614400",
-        "edit_history_tweet_ids": [
-            "777812324480614400"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_777809783353139200"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "Laten we alle mooie woorden waarmaken, zet nu de zaag in het eigen risico #Roemer #EigenRisico https://t.co/Voq24XJeAG"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 112,
-                    "end": 135,
-                    "url": "https://t.co/JE8USNrGM2",
-                    "expanded_url": "https://x.com/jimmydijk/status/776536376397488132/photo/1",
-                    "display_url": "pic.x.com/JE8USNrGM2",
-                    "media_key": "3_776536364464701440"
-                },
-                {
-                    "start": 112,
-                    "end": 135,
-                    "url": "https://t.co/JE8USNrGM2",
-                    "expanded_url": "https://x.com/jimmydijk/status/776536376397488132/photo/1",
-                    "display_url": "pic.x.com/JE8USNrGM2",
-                    "media_key": "3_776536364477214721"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 19,
-                    "end": 31,
-                    "username": "NLzorgfonds",
-                    "id": "724502970411393024"
-                }
-            ]
-        },
-        "id": "776536376397488132",
-        "created_at": "2016-09-15T21:41:14.000Z",
-        "conversation_id": "776536376397488132",
-        "edit_history_tweet_ids": [
-            "776536376397488132"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_776536364464701440",
-                "3_776536364477214721"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "Zwollenaren willen @NLzorgfonds Beweging groeit met 138.000 sympathisanten en 55.000 campagnevoerders. Doe mee! https://t.co/JE8USNrGM2"
-    },
-    {
-        "entities": {
-            "urls": [
-                {
-                    "start": 114,
-                    "end": 137,
-                    "url": "https://t.co/PzjkKMySv8",
-                    "expanded_url": "https://x.com/jimmydijk/status/776419398328385536/photo/1",
-                    "display_url": "pic.x.com/PzjkKMySv8",
-                    "media_key": "3_776419388287254528"
-                }
-            ],
-            "mentions": [
-                {
-                    "start": 0,
-                    "end": 16,
-                    "username": "driekusvierkant",
-                    "id": "1274364961"
-                }
-            ]
-        },
-        "id": "776419398328385536",
-        "created_at": "2016-09-15T13:56:24.000Z",
-        "conversation_id": "776304227543113730",
-        "edit_history_tweet_ids": [
-            "776419398328385536"
-        ],
-        "lang": "nl",
-        "attachments": {
-            "media_keys": [
-                "3_776419388287254528"
-            ]
-        },
-        "author_id": "231772399",
-        "text": "@driekusvierkant Wederom erg subjectief. Ook (semi-)publieke sector zorgt voor banen en stimuleert economie. Dus: https://t.co/PzjkKMySv8"
-    }
+  {
+    "id": "808438200184307712",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 8,
+          "end": 22,
+          "tag": "studiovoetbal"
+        },
+        {
+          "start": 117,
+          "end": 129,
+          "tag": "manomanoman"
+        }
+      ]
+    },
+    "created_at": "2016-12-12T22:27:41.000Z",
+    "conversation_id": "808438200184307712",
+    "edit_history_tweet_ids": ["808438200184307712"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Kijk ik #studiovoetbal terug, beginnen ze daar ook al te kletsen over \"prestatie innovatie manager\" &amp; \"omdenken\" #manomanoman"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 140,
+          "end": 163,
+          "url": "https://t.co/DJa2pGeBP4",
+          "expanded_url": "https://x.com/jimmydijk/status/807895201029177344/photo/1",
+          "display_url": "pic.x.com/DJa2pGeBP4",
+          "media_key": "3_807895186793791488"
+        }
+      ]
+    },
+    "id": "807895201029177344",
+    "created_at": "2016-12-11T10:30:00.000Z",
+    "conversation_id": "807895201029177344",
+    "edit_history_tweet_ids": ["807895201029177344"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_807895186793791488"]
+    },
+    "author_id": "231772399",
+    "text": "Cultuurfilosoof Thijs Lijster stelt bij SP-kaderscholingsweekend terecht dat value-free politics minstens zo erg is als fact free politics. https://t.co/DJa2pGeBP4"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 140,
+          "end": 163,
+          "url": "https://t.co/mZG07qxsw5",
+          "expanded_url": "https://x.com/jimmydijk/status/807188654133223424/photo/1",
+          "display_url": "pic.x.com/mZG07qxsw5",
+          "media_key": "3_807188629089042433"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 38,
+          "end": 48,
+          "username": "Nieuwsuur",
+          "id": "93474576"
+        },
+        {
+          "start": 91,
+          "end": 103,
+          "username": "NLzorgfonds",
+          "id": "724502970411393024"
+        }
+      ]
+    },
+    "id": "807188654133223424",
+    "created_at": "2016-12-09T11:42:26.000Z",
+    "conversation_id": "807188654133223424",
+    "edit_history_tweet_ids": ["807188654133223424"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_807188629089042433"]
+    },
+    "author_id": "231772399",
+    "text": "Menzis-directeur Wenselaar klaagde in @Nieuwsuur over kritiek op zorgstelsel. Vandaag bood @NLzorgfonds hem daarvoor krokodillentranen aan. https://t.co/mZG07qxsw5"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 140,
+          "end": 163,
+          "url": "https://t.co/wdjO7ag50h",
+          "expanded_url": "https://x.com/jimmydijk/status/806561358506557447/photo/1",
+          "display_url": "pic.x.com/wdjO7ag50h",
+          "media_key": "3_806561344732463110"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 101,
+          "end": 115,
+          "username": "ROODGroningen",
+          "id": "566197687"
+        }
+      ]
+    },
+    "id": "806561358506557447",
+    "created_at": "2016-12-07T18:09:47.000Z",
+    "conversation_id": "806561358506557447",
+    "edit_history_tweet_ids": ["806561358506557447"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_806561344732463110"]
+    },
+    "author_id": "231772399",
+    "text": "Schoonmakers basisscholen #050 voerden weer actie. Te hoge werkdruk en daardoor geen schone scholen. @ROODGroningen steunde de schoonmakers https://t.co/wdjO7ag50h"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 113,
+          "end": 136,
+          "url": "https://t.co/H4k1D6dd7P",
+          "expanded_url": "http://nu.nl/economie/4361588/nederland-maakt-nog-altijd-geheime-belastingafspraken-met-multinationals.html",
+          "display_url": "nu.nl/economie/43615…"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 101,
+          "end": 112,
+          "tag": "pakdemacht"
+        }
+      ]
+    },
+    "id": "806429563064614913",
+    "created_at": "2016-12-07T09:26:05.000Z",
+    "conversation_id": "806429563064614913",
+    "edit_history_tweet_ids": ["806429563064614913"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Nederland belastingparadijs: 236 belastingdeals en 17.088.134 Nederlanders die wel belasting betalen #pakdemacht https://t.co/H4k1D6dd7P"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 113,
+          "end": 136,
+          "url": "https://t.co/TlwhOmwAJI",
+          "expanded_url": "http://www.human.nl/schuldig/over-schuldig.html",
+          "display_url": "human.nl/schuldig/over-…"
+        }
+      ]
+    },
+    "id": "806286571167252480",
+    "created_at": "2016-12-06T23:57:53.000Z",
+    "conversation_id": "806286571167252480",
+    "edit_history_tweet_ids": ["806286571167252480"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "\"Ik denk wel dat we tegen de tijdsgeest in moeten van het heilige geloof van eigen kracht en activerend beleid.\" https://t.co/TlwhOmwAJI"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 138,
+          "end": 161,
+          "url": "https://t.co/jsIZXqL2AM",
+          "expanded_url": "https://x.com/mattiasgl/status/805818463658930176",
+          "display_url": "x.com/mattiasgl/stat…"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 126,
+          "end": 137,
+          "tag": "lijktmezat"
+        }
+      ]
+    },
+    "id": "805843424029057024",
+    "created_at": "2016-12-05T18:36:58.000Z",
+    "conversation_id": "805843424029057024",
+    "edit_history_tweet_ids": ["805843424029057024"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Zo, die verlichting komt er dus. Gaat gemeente zelf effe checken bij omwonenden? Jongeren hebben het nu zelf al 3 keer gedaan #lijktmezat https://t.co/jsIZXqL2AM"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 145,
+          "end": 168,
+          "url": "https://t.co/nCSeT2FHHW",
+          "expanded_url": "https://x.com/roodgroningen/status/804609087770075136",
+          "display_url": "x.com/roodgroningen/…"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 95,
+          "end": 109,
+          "username": "gem_groningen",
+          "id": "184772986"
+        },
+        {
+          "start": 116,
+          "end": 126,
+          "username": "MattiasGL",
+          "id": "20335832"
+        }
+      ]
+    },
+    "id": "804618933055668224",
+    "created_at": "2016-12-02T09:31:17.000Z",
+    "conversation_id": "804618933055668224",
+    "edit_history_tweet_ids": ["804618933055668224"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Jongeren uit Beijum willen verlichting van hun voetbalveldje en buurtbewoners steunen hen. Dus @gem_groningen &amp; @MattiasGL regel het gewoon. https://t.co/nCSeT2FHHW"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 59,
+          "end": 82,
+          "url": "https://t.co/14qELC3S8Z",
+          "expanded_url": "https://x.com/rtlz/status/803967980451164161",
+          "display_url": "x.com/rtlz/status/80…"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 5,
+          "end": 16,
+          "username": "hansdegeus",
+          "id": "211164765"
+        }
+      ]
+    },
+    "id": "804108847761735682",
+    "created_at": "2016-11-30T23:44:23.000Z",
+    "conversation_id": "804108847761735682",
+    "edit_history_tweet_ids": ["804108847761735682"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Wauw @hansdegeus slaat de spijker echt vol op z'n kop zeg! https://t.co/14qELC3S8Z"
+  },
+  {
+    "id": "804045443319660544",
+    "created_at": "2016-11-30T19:32:26.000Z",
+    "conversation_id": "804045443319660544",
+    "edit_history_tweet_ids": ["804045443319660544"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "SP'er Bob de Greef constateert dat belang van stoplichtloze fietspaden door D66 boven wijkbewoners, verkeersveiligheid &amp; groen wordt gesteld"
+  },
+  {
+    "id": "804034871874224128",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 132,
+          "end": 140,
+          "tag": "raad050"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 53,
+          "end": 61,
+          "username": "Pvda050",
+          "id": "1937488916"
+        }
+      ]
+    },
+    "created_at": "2016-11-30T18:50:26.000Z",
+    "conversation_id": "804034871874224128",
+    "edit_history_tweet_ids": ["804034871874224128"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Man o man, @GroenLinksStad wil meer \"omdenken\" &amp; @Pvda050 wil meer \"netwerkdenken\". Over voorrang van fietsers op kruisingen... #raad050"
+  },
+  {
+    "id": "803876644977049600",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 106,
+          "end": 119,
+          "tag": "zondagsboete"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "jurjenhoekstra",
+          "id": "178427972"
+        },
+        {
+          "start": 16,
+          "end": 27,
+          "username": "bbenjamins",
+          "id": "1956340083852005376"
+        }
+      ]
+    },
+    "created_at": "2016-11-30T08:21:42.000Z",
+    "conversation_id": "803738810785763328",
+    "edit_history_tweet_ids": ["803876644977049600"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "@jurjenhoekstra @bbenjamins Zondagsopenstelling P'poel verbieden zolang er verplichtingen worden opgelegd #zondagsboete"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 136,
+          "end": 159,
+          "url": "https://t.co/kjNgmYEfkX",
+          "expanded_url": "https://x.com/bbenjamins/status/803741914235289600",
+          "display_url": "x.com/bbenjamins/sta…"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 115,
+          "end": 135,
+          "tag": "daargaanwijnietover"
+        }
+      ]
+    },
+    "id": "803742524103860224",
+    "created_at": "2016-11-29T23:28:45.000Z",
+    "conversation_id": "803742524103860224",
+    "edit_history_tweet_ids": ["803742524103860224"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Ik was aan het luisteren... Veel woorden, weinig daden. Is probleem opgelost? NEE. Maar D66 zal vast zeggen: Sorry #daargaanwijnietover https://t.co/kjNgmYEfkX"
+  },
+  {
+    "id": "803741153019334657",
+    "created_at": "2016-11-29T23:23:18.000Z",
+    "conversation_id": "803738810785763328",
+    "edit_history_tweet_ids": ["803741153019334657"],
+    "lang": "nl",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "bbenjamins",
+          "id": "1956340083852005376"
+        }
+      ]
+    },
+    "author_id": "231772399",
+    "text": "@bbenjamins Helemaal wel juist. Jullie verkiezen vrijheid van openstelling enkelen ten koste van verplichting van open moeten anderen."
+  },
+  {
+    "id": "803739621641383937",
+    "created_at": "2016-11-29T23:17:13.000Z",
+    "conversation_id": "803738810785763328",
+    "edit_history_tweet_ids": ["803739621641383937"],
+    "lang": "nl",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "bbenjamins",
+          "id": "1956340083852005376"
+        }
+      ]
+    },
+    "author_id": "231772399",
+    "text": "@bbenjamins Wat een flauwekul. D66 staat boetes toe en kijkt hoe ondernemers in Paddepoel verplicht zondags open moeten. Duik niet zo joh!"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 113,
+          "end": 136,
+          "url": "https://t.co/u6zMzTaA9q",
+          "expanded_url": "https://x.com/bbenjamins/status/803735185149857796",
+          "display_url": "x.com/bbenjamins/sta…"
+        }
+      ]
+    },
+    "id": "803737441505054720",
+    "created_at": "2016-11-29T23:08:33.000Z",
+    "conversation_id": "803737441505054720",
+    "edit_history_tweet_ids": ["803737441505054720"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Uitspreken en vervolgens niet handelen. D66 zal het wel weer te druk met zichzelf en eigen college hebben gehad. https://t.co/u6zMzTaA9q"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 140,
+          "end": 163,
+          "url": "https://t.co/oDGB34sykn",
+          "expanded_url": "https://x.com/nieuwsuur/status/803346574961098762",
+          "display_url": "x.com/nieuwsuur/stat…"
+        }
+      ]
+    },
+    "id": "803371840001478657",
+    "created_at": "2016-11-28T22:55:47.000Z",
+    "conversation_id": "803371840001478657",
+    "edit_history_tweet_ids": ["803371840001478657"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Een econoom die zegt dat het \"in de mode is\" om marktwerking in kwaad daglicht te stellen. Is er een markt waar hij een argument kan kopen? https://t.co/oDGB34sykn"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 111,
+          "end": 134,
+          "url": "https://t.co/bzv7eli6sa",
+          "expanded_url": "http://nos.nl/nieuwsuur/artikel/2145503-te-makkelijk-om-zorgverzekeraar-als-boeman-weg-te-zetten.html",
+          "display_url": "nos.nl/nieuwsuur/arti…"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 103,
+          "end": 110,
+          "tag": "hetlef"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 9,
+          "end": 16,
+          "username": "Menzis",
+          "id": "15290649"
+        }
+      ]
+    },
+    "id": "803342310981464065",
+    "created_at": "2016-11-28T20:58:26.000Z",
+    "conversation_id": "803342310981464065",
+    "edit_history_tweet_ids": ["803342310981464065"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "\"Topman\" @Menzis Ruben Wenselaar strijkt zelf €334.000 p/j op en beticht critici van kortetermijnvisie #hetlef https://t.co/bzv7eli6sa"
+  },
+  {
+    "id": "801507308203376640",
+    "created_at": "2016-11-23T19:26:48.000Z",
+    "conversation_id": "801491538077503488",
+    "edit_history_tweet_ids": ["801507308203376640"],
+    "lang": "nl",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "sassefras88",
+          "id": "219700036"
+        },
+        {
+          "start": 13,
+          "end": 25,
+          "username": "spgroningen",
+          "id": "28145810"
+        }
+      ]
+    },
+    "author_id": "231772399",
+    "text": "@sassefras88 @spgroningen Wees realistisch, eis het onmogelijke 😉"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 100,
+          "end": 123,
+          "url": "https://t.co/6pQzy1u0mr",
+          "expanded_url": "https://x.com/jimmydijk/status/801503407114747905/photo/1",
+          "display_url": "pic.x.com/6pQzy1u0mr",
+          "media_key": "3_801503398436732933"
+        },
+        {
+          "start": 100,
+          "end": 123,
+          "url": "https://t.co/6pQzy1u0mr",
+          "expanded_url": "https://x.com/jimmydijk/status/801503407114747905/photo/1",
+          "display_url": "pic.x.com/6pQzy1u0mr",
+          "media_key": "3_801503398445154305"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "sassefras88",
+          "id": "219700036"
+        },
+        {
+          "start": 13,
+          "end": 25,
+          "username": "spgroningen",
+          "id": "28145810"
+        }
+      ]
+    },
+    "id": "801503407114747905",
+    "created_at": "2016-11-23T19:11:18.000Z",
+    "conversation_id": "801491538077503488",
+    "edit_history_tweet_ids": ["801503407114747905"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_801503398436732933", "3_801503398445154305"]
+    },
+    "author_id": "231772399",
+    "text": "@sassefras88 @spgroningen Leve de vooruitgang! Maar misschien in dit geval iets te hoog gegrepen... https://t.co/6pQzy1u0mr"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 117,
+          "end": 140,
+          "url": "https://t.co/qvonUj88zk",
+          "expanded_url": "http://www.rtvnoord.nl/nieuws/170606/Stadsbestuur-Eigen-bijdrages-gaan-we-alsnog-innen",
+          "display_url": "rtvnoord.nl/nieuws/170606/…"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 77,
+          "end": 89,
+          "tag": "veelzeggend"
+        },
+        {
+          "start": 90,
+          "end": 98,
+          "tag": "raad050"
+        },
+        {
+          "start": 99,
+          "end": 116,
+          "tag": "watnou2gezichten"
+        }
+      ]
+    },
+    "id": "801483633282482177",
+    "created_at": "2016-11-23T17:52:43.000Z",
+    "conversation_id": "801483633282482177",
+    "edit_history_tweet_ids": ["801483633282482177"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "\"De overige partijen namen niet de moeite iets over het onderwerp te zeggen\" #veelzeggend #raad050 #watnou2gezichten https://t.co/qvonUj88zk"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 125,
+          "end": 148,
+          "url": "https://t.co/NDLZK5dUpW",
+          "expanded_url": "https://groningen.sp.nl/nieuws/2016/11/sp-cu-zie-af-van-innen-eigen-bijdragen-2015",
+          "display_url": "groningen.sp.nl/nieuws/2016/11…"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 120,
+          "end": 124,
+          "tag": "WMO"
+        }
+      ]
+    },
+    "id": "799910143966277633",
+    "created_at": "2016-11-19T09:40:14.000Z",
+    "conversation_id": "799910143966277633",
+    "edit_history_tweet_ids": ["799910143966277633"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Voorkom onrust &amp; onzekerheid door af te zien van alsnog innen eigen bijdragen 2015 (begeleiding &amp; dagbesteding) #WMO https://t.co/NDLZK5dUpW"
+  },
+  {
+    "id": "799282739258146817",
+    "created_at": "2016-11-17T16:07:09.000Z",
+    "conversation_id": "799001545916325888",
+    "edit_history_tweet_ids": ["799282739258146817"],
+    "lang": "nl",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "Psychologiseren",
+          "id": "2312139504"
+        },
+        {
+          "start": 17,
+          "end": 33,
+          "username": "DaanBrandenbarg",
+          "id": "123883437"
+        }
+      ]
+    },
+    "author_id": "231772399",
+    "text": "@Psychologiseren @DaanBrandenbarg Dat klopt, maar je kunt wel de voorwaarden hiervoor scheppen en deze zo goed als mogelijke maken."
+  },
+  {
+    "id": "798980324520665088",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 132,
+          "end": 140,
+          "tag": "raad050"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 6,
+          "end": 22,
+          "username": "DaanBrandenbarg",
+          "id": "123883437"
+        }
+      ]
+    },
+    "created_at": "2016-11-16T20:05:28.000Z",
+    "conversation_id": "798980324520665088",
+    "edit_history_tweet_ids": ["798980324520665088"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "SP'er @DaanBrandenbarg stelt dat college cultuur meer ziet als middel voor citymarketing ipv verheffing en verrijking van het leven #raad050"
+  },
+  {
+    "id": "798924240200339458",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 135,
+          "end": 143,
+          "tag": "raad050"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 5,
+          "end": 19,
+          "username": "PvdDGroningen",
+          "id": "131148304"
+        }
+      ]
+    },
+    "created_at": "2016-11-16T16:22:36.000Z",
+    "conversation_id": "798924240200339458",
+    "edit_history_tweet_ids": ["798924240200339458"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Gek, @PvdDGroningen kiest niet voor inperken vercommercialisering ten behoeve van openbare ruimte, duurzaamheid &amp; historische stad #raad050"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 137,
+          "end": 160,
+          "url": "https://t.co/e9kTMOpEH7",
+          "expanded_url": "https://x.com/oogtv/status/798243198640472064",
+          "display_url": "x.com/oogtv/status/7…"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 93,
+          "end": 107,
+          "username": "ROODGroningen",
+          "id": "566197687"
+        }
+      ]
+    },
+    "id": "798640149642915840",
+    "created_at": "2016-11-15T21:33:44.000Z",
+    "conversation_id": "798640149642915840",
+    "edit_history_tweet_ids": ["798640149642915840"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "\"Mattias wat LED je?\" Jongeren uit Beijum voeren actie voor verlichting van hun voetbalveld. @ROODGroningen ondersteunt hen daarbij #050 https://t.co/e9kTMOpEH7"
+  },
+  {
+    "id": "797135376670408704",
+    "created_at": "2016-11-11T17:54:18.000Z",
+    "conversation_id": "797086806445608960",
+    "edit_history_tweet_ids": ["797135376670408704"],
+    "lang": "nl",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "frederikmeis",
+          "id": "1045920822341382144"
+        },
+        {
+          "start": 14,
+          "end": 22,
+          "username": "dvhn_nl",
+          "id": "18549902"
+        },
+        {
+          "start": 23,
+          "end": 35,
+          "username": "spgroningen",
+          "id": "28145810"
+        },
+        {
+          "start": 36,
+          "end": 47,
+          "username": "letsgro050",
+          "id": "1371819698"
+        }
+      ]
+    },
+    "author_id": "231772399",
+    "text": "@frederikmeis @dvhn_nl @spgroningen @letsgro050 Jij mag alles"
+  },
+  {
+    "id": "797135293673598977",
+    "created_at": "2016-11-11T17:53:58.000Z",
+    "conversation_id": "797133875256422400",
+    "edit_history_tweet_ids": ["797135293673598977"],
+    "lang": "nl",
+    "entities": {
+      "mentions": [
+        {
+          "start": 16,
+          "end": 24,
+          "username": "dvhn_nl",
+          "id": "18549902"
+        }
+      ]
+    },
+    "author_id": "231772399",
+    "text": "@SanderClaassen @dvhn_nl Deze goedbedoelde initiatieven vergroten de kloof eerder dan dat dit het verkleint"
+  },
+  {
+    "id": "797122987468144641",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 130,
+          "end": 138,
+          "tag": "raad050"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "bbenjamins",
+          "id": "1956340083852005376"
+        },
+        {
+          "start": 12,
+          "end": 20,
+          "username": "dvhn_nl",
+          "id": "18549902"
+        }
+      ]
+    },
+    "created_at": "2016-11-11T17:05:04.000Z",
+    "conversation_id": "797121474654048256",
+    "edit_history_tweet_ids": ["797122987468144641"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "@bbenjamins @dvhn_nl Klopt, inclusief Stadjers die NIET op Let's Gro of bij een \"open raad\" hun ideeën in 1 minuut moeten pitchen #raad050"
+  },
+  {
+    "id": "796379647701319681",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 128,
+          "end": 136,
+          "tag": "raad050"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 115,
+          "end": 127,
+          "username": "spgroningen",
+          "id": "28145810"
+        }
+      ]
+    },
+    "created_at": "2016-11-09T15:51:18.000Z",
+    "conversation_id": "796379647701319681",
+    "edit_history_tweet_ids": ["796379647701319681"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "\"Juist nu extra geld te besteden is, moet dit naar de mensen die afgelopen jaren de zwaarste klappen hebben gehad\" @spgroningen #raad050"
+  },
+  {
+    "id": "796121434879852544",
+    "created_at": "2016-11-08T22:45:15.000Z",
+    "conversation_id": "796117675021832192",
+    "edit_history_tweet_ids": ["796121434879852544"],
+    "lang": "nl",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "Capt1caveman",
+          "id": "1717634402522374144"
+        }
+      ]
+    },
+    "author_id": "231772399",
+    "text": "@Capt1caveman Aan de H.L.Wicherstraat wel (geen voorstander vab). Maar in Meerstad niet."
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 139,
+          "end": 162,
+          "url": "https://t.co/c1EAoz1X6A",
+          "expanded_url": "https://x.com/dvhn_nl/status/796021738144464896",
+          "display_url": "x.com/dvhn_nl/status…"
+        }
+      ]
+    },
+    "id": "796117675021832192",
+    "created_at": "2016-11-08T22:30:19.000Z",
+    "conversation_id": "796117675021832192",
+    "edit_history_tweet_ids": ["796117675021832192"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Er is in #050 een tekort aan sociale huurwoningen. Bovendien moet Meerstad een gemengde woonwijk worden. Daar pleiten de SP &amp; CU voor. https://t.co/c1EAoz1X6A"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 133,
+          "end": 156,
+          "url": "https://t.co/Vyxhq8oVgo",
+          "expanded_url": "https://x.com/jimmydijk/status/794645673006211072/photo/1",
+          "display_url": "pic.x.com/Vyxhq8oVgo",
+          "media_key": "3_794645658774990848"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 19,
+          "end": 31,
+          "username": "NLzorgfonds",
+          "id": "724502970411393024"
+        }
+      ]
+    },
+    "id": "794645673006211072",
+    "created_at": "2016-11-04T21:01:06.000Z",
+    "conversation_id": "794645673006211072",
+    "edit_history_tweet_ids": ["794645673006211072"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_794645658774990848"]
+    },
+    "author_id": "231772399",
+    "text": "Mooie opkomst voor @NLzorgfonds in buurthuis de Componist in Assen. Bezoekers willen beweging groter maken en verandering afdwingen. https://t.co/Vyxhq8oVgo"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 106,
+          "end": 129,
+          "url": "https://t.co/DFW6nRbSR9",
+          "expanded_url": "http://www.kijk.nl/video/n6NQPZENwXfO",
+          "display_url": "kijk.nl/video/n6NQPZEN…"
+        }
+      ]
+    },
+    "id": "793413495811366917",
+    "created_at": "2016-11-01T11:24:52.000Z",
+    "conversation_id": "793413495811366917",
+    "edit_history_tweet_ids": ["793413495811366917"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Ongelooflijk dat VVE, die winkeliers zondagsopenstelling oplegt, niet wil reageren omdat het zondag is... https://t.co/DFW6nRbSR9"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 139,
+          "end": 162,
+          "url": "https://t.co/RvZ5MF1CfQ",
+          "expanded_url": "https://x.com/jimmydijk/status/792860348042870784/photo/1",
+          "display_url": "pic.x.com/RvZ5MF1CfQ",
+          "media_key": "3_792860332939218944"
+        },
+        {
+          "start": 139,
+          "end": 162,
+          "url": "https://t.co/RvZ5MF1CfQ",
+          "expanded_url": "https://x.com/jimmydijk/status/792860348042870784/photo/1",
+          "display_url": "pic.x.com/RvZ5MF1CfQ",
+          "media_key": "3_792860332922380292"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "univgroningen",
+          "id": "33535466"
+        },
+        {
+          "start": 88,
+          "end": 104,
+          "username": "DaanBrandenbarg",
+          "id": "123883437"
+        }
+      ]
+    },
+    "id": "792860348042870784",
+    "created_at": "2016-10-30T22:46:52.000Z",
+    "conversation_id": "792860348042870784",
+    "edit_history_tweet_ids": ["792860348042870784"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_792860332939218944", "3_792860332922380292"]
+    },
+    "author_id": "231772399",
+    "text": "De @univgroningen wil bij exces ontgroening bijdrage studentenvereniging stoppen. SP'er @DaanBrandenbarg pleitte hier terecht ook al voor. https://t.co/RvZ5MF1CfQ"
+  },
+  {
+    "id": "792764388054798336",
+    "created_at": "2016-10-30T16:25:33.000Z",
+    "conversation_id": "792688308690247680",
+    "edit_history_tweet_ids": ["792764388054798336"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "@tvanzoelen Klopt en de CU ook hoor. En wat niet kan, dat kan niet..."
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 115,
+          "end": 138,
+          "url": "https://t.co/pYzDNIrTBL",
+          "expanded_url": "https://www.nrc.nl/nieuws/2016/10/28/vrije-markt-eindigt-in-de-ondergang-5032183-a1529012",
+          "display_url": "nrc.nl/nieuws/2016/10…"
+        }
+      ]
+    },
+    "id": "792758611554476033",
+    "created_at": "2016-10-30T16:02:36.000Z",
+    "conversation_id": "792758611554476033",
+    "edit_history_tweet_ids": ["792758611554476033"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "\"...al snel ontwikkelt zich een kleine elite die meer profiteert dan de rest en die ook politieke macht verwerft.\" https://t.co/pYzDNIrTBL"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 143,
+          "end": 166,
+          "url": "https://t.co/sMUCPVCTqL",
+          "expanded_url": "https://x.com/rtvnoord/status/792683500281458688",
+          "display_url": "x.com/rtvnoord/statu…"
+        }
+      ]
+    },
+    "id": "792688308690247680",
+    "created_at": "2016-10-30T11:23:14.000Z",
+    "conversation_id": "792688308690247680",
+    "edit_history_tweet_ids": ["792688308690247680"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "CDA,SP&amp;St.P nemen het wél op voor ondernemers die zondags niet verplicht open willen en kunnen. Stadsbestuur #050 duikt en grijpt niet in. https://t.co/sMUCPVCTqL"
+  },
+  {
+    "id": "792651571310067712",
+    "created_at": "2016-10-30T08:57:16.000Z",
+    "conversation_id": "792646428510355457",
+    "edit_history_tweet_ids": ["792651571310067712"],
+    "lang": "nl",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "frederikmeis",
+          "id": "1045920822341382144"
+        }
+      ]
+    },
+    "author_id": "231772399",
+    "text": "@frederikmeis Succes ermee..."
+  },
+  {
+    "id": "792650984933777408",
+    "created_at": "2016-10-30T08:54:56.000Z",
+    "conversation_id": "792646428510355457",
+    "edit_history_tweet_ids": ["792650984933777408"],
+    "lang": "nl",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "frederikmeis",
+          "id": "1045920822341382144"
+        }
+      ]
+    },
+    "author_id": "231772399",
+    "text": "@frederikmeis Ik merk het! Alleen denk ik door dit soort \"ideeën\" dat jij aan een andere revolutie zit te denken dan ik ;)"
+  },
+  {
+    "id": "792648724749094913",
+    "created_at": "2016-10-30T08:45:57.000Z",
+    "conversation_id": "792646428510355457",
+    "edit_history_tweet_ids": ["792648724749094913"],
+    "lang": "nl",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "frederikmeis",
+          "id": "1045920822341382144"
+        }
+      ]
+    },
+    "author_id": "231772399",
+    "text": "@frederikmeis sterk..."
+  },
+  {
+    "id": "791738856693436416",
+    "created_at": "2016-10-27T20:30:27.000Z",
+    "conversation_id": "791726135088406529",
+    "edit_history_tweet_ids": ["791738856693436416"],
+    "lang": "nl",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "cwbbakker",
+          "id": "391956146"
+        },
+        {
+          "start": 11,
+          "end": 24,
+          "username": "MertensFloor",
+          "id": "2912360007"
+        },
+        {
+          "start": 56,
+          "end": 72,
+          "username": "MechteldvanDuin",
+          "id": "1311180012"
+        }
+      ]
+    },
+    "author_id": "231772399",
+    "text": "@cwbbakker @MertensFloor en natuurlijk via ons raadslid @MechteldvanDuin"
+  },
+  {
+    "id": "791738547070009344",
+    "created_at": "2016-10-27T20:29:14.000Z",
+    "conversation_id": "791726135088406529",
+    "edit_history_tweet_ids": ["791738547070009344"],
+    "lang": "nl",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "cwbbakker",
+          "id": "391956146"
+        },
+        {
+          "start": 116,
+          "end": 129,
+          "username": "MertensFloor",
+          "id": "2912360007"
+        }
+      ]
+    },
+    "author_id": "231772399",
+    "text": "@cwbbakker Chris, je kunt ook altijd lokaal huisjesmelkers nomineren via roodgroningen@sp.nl of contact opnemen met @MertensFloor"
+  },
+  {
+    "id": "791399623374082048",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 22,
+          "end": 30,
+          "tag": "raad050"
+        }
+      ]
+    },
+    "created_at": "2016-10-26T22:02:28.000Z",
+    "conversation_id": "791399623374082048",
+    "edit_history_tweet_ids": ["791399623374082048"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "D66&amp;VVD hadden in #raad050 over verplichte zondagsopenstelling, zorgverzekering minima &amp; soc huursector de PvdA&amp;GL weer volledig in de tang"
+  },
+  {
+    "id": "791307720511066112",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 130,
+          "end": 138,
+          "tag": "raad050"
+        }
+      ]
+    },
+    "created_at": "2016-10-26T15:57:17.000Z",
+    "conversation_id": "791307720511066112",
+    "edit_history_tweet_ids": ["791307720511066112"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "PvdA wacht liever nog een jaartje met extra kortingen op collectieve zorgverzekering van Menzis en laat 10.000 minima in de steek #raad050"
+  },
+  {
+    "id": "791304627794894848",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 126,
+          "end": 134,
+          "tag": "raad050"
+        }
+      ]
+    },
+    "created_at": "2016-10-26T15:44:59.000Z",
+    "conversation_id": "791304627794894848",
+    "edit_history_tweet_ids": ["791304627794894848"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "In nov 2015 kaartte SP aan dat er betere regeling moet komen voor zorgverzekering voor minima. Nu is er nog niets geregeld... #raad050"
+  },
+  {
+    "id": "791299409308950528",
+    "created_at": "2016-10-26T15:24:15.000Z",
+    "conversation_id": "791297214329057280",
+    "edit_history_tweet_ids": ["791299409308950528"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "@SanderClaassen Die \"vrije\" ondernemers oplegt om zondags open te zijn. Zo niet =&gt; dan boete. Een democratie respecteert ook minderheden."
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 78,
+          "end": 101,
+          "url": "https://t.co/WZcViDdmhd",
+          "expanded_url": "https://x.com/jimmydijk/status/791297214329057280",
+          "display_url": "x.com/jimmydijk/stat…"
+        }
+      ]
+    },
+    "id": "791298050761297921",
+    "created_at": "2016-10-26T15:18:51.000Z",
+    "conversation_id": "791298050761297921",
+    "edit_history_tweet_ids": ["791298050761297921"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Sorry, GroenLinks #050 duikt ook onder het mom van: \"Hier gaan wij niet over\" https://t.co/WZcViDdmhd"
+  },
+  {
+    "id": "791297214329057280",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 136,
+          "end": 144,
+          "tag": "raad050"
+        }
+      ]
+    },
+    "created_at": "2016-10-26T15:15:32.000Z",
+    "conversation_id": "791297214329057280",
+    "edit_history_tweet_ids": ["791297214329057280"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "PvdA &amp; D66 nemen nul verantwoordelijkheid voor gevolgen van hun beleid en laten toe dat ondernemers op zondag verplicht open moeten #raad050"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 138,
+          "end": 161,
+          "url": "https://t.co/tHgGDNCUx9",
+          "expanded_url": "https://x.com/jimmydijk/status/790940054533332992/photo/1",
+          "display_url": "pic.x.com/tHgGDNCUx9",
+          "media_key": "3_790940029329825792"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 87,
+          "end": 95,
+          "tag": "raad050"
+        },
+        {
+          "start": 96,
+          "end": 110,
+          "tag": "begroting2017"
+        }
+      ]
+    },
+    "id": "790940054533332992",
+    "created_at": "2016-10-25T15:36:18.000Z",
+    "conversation_id": "790940054533332992",
+    "edit_history_tweet_ids": ["790940054533332992"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_790940029329825792"]
+    },
+    "author_id": "231772399",
+    "text": "\"Ook zien we dat burgers een steeds prominentere rol gaan spelen in de samenleving...\" #raad050 #begroting2017 (Burgers zijn samenleving) https://t.co/tHgGDNCUx9"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 139,
+          "end": 162,
+          "url": "https://t.co/snINdcJBeg",
+          "expanded_url": "https://x.com/jimmydijk/status/790680213197824000/photo/1",
+          "display_url": "pic.x.com/snINdcJBeg",
+          "media_key": "3_790680204033351680"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 79,
+          "end": 91,
+          "username": "NLzorgfonds",
+          "id": "724502970411393024"
+        }
+      ]
+    },
+    "id": "790680213197824000",
+    "created_at": "2016-10-24T22:23:47.000Z",
+    "conversation_id": "790680213197824000",
+    "edit_history_tweet_ids": ["790680213197824000"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_790680204033351680"]
+    },
+    "author_id": "231772399",
+    "text": "Goed dat naast 195.000 mensen ook steeds meer partijen de principes achter het @NLzorgfonds zonder eigen risico steunen. Sluit je ook aan! https://t.co/snINdcJBeg"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 139,
+          "end": 162,
+          "url": "https://t.co/hV5e5KfyM1",
+          "expanded_url": "https://x.com/jimmydijk/status/789741285292797952/photo/1",
+          "display_url": "pic.x.com/hV5e5KfyM1",
+          "media_key": "3_789741260194062336"
+        }
+      ]
+    },
+    "id": "789741285292797952",
+    "created_at": "2016-10-22T08:12:49.000Z",
+    "conversation_id": "789741285292797952",
+    "edit_history_tweet_ids": ["789741285292797952"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_789741260194062336"]
+    },
+    "author_id": "231772399",
+    "text": "\"Ik woon hier, omdat ik nergens anders een huis kon krijgen\" Situatie van Hanneke Moed toont tekort sociale huurwoningen haarfijn aan #050 https://t.co/hV5e5KfyM1"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 73,
+          "end": 96,
+          "url": "https://t.co/YUfNFCqT5L",
+          "expanded_url": "https://x.com/jimmydijk/status/788418364221841409/photo/1",
+          "display_url": "pic.x.com/YUfNFCqT5L",
+          "media_key": "3_788418355657117696"
+        }
+      ]
+    },
+    "id": "788418364221841409",
+    "created_at": "2016-10-18T16:36:00.000Z",
+    "conversation_id": "788418364221841409",
+    "edit_history_tweet_ids": ["788418364221841409"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_788418355657117696"]
+    },
+    "author_id": "231772399",
+    "text": "Goed nieuws! Hulde aan de omwonenden die deze strijd hebben gevoerd #050 https://t.co/YUfNFCqT5L"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 133,
+          "end": 156,
+          "url": "https://t.co/GPFdUaMIFF",
+          "expanded_url": "https://x.com/jimmydijk/status/787936862472179712/photo/1",
+          "display_url": "pic.x.com/GPFdUaMIFF",
+          "media_key": "3_787936841802604544"
+        },
+        {
+          "start": 133,
+          "end": 156,
+          "url": "https://t.co/GPFdUaMIFF",
+          "expanded_url": "https://x.com/jimmydijk/status/787936862472179712/photo/1",
+          "display_url": "pic.x.com/GPFdUaMIFF",
+          "media_key": "3_787936841806782464"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 121,
+          "end": 132,
+          "tag": "huurteduur"
+        }
+      ]
+    },
+    "id": "787936862472179712",
+    "created_at": "2016-10-17T08:42:41.000Z",
+    "conversation_id": "787936862472179712",
+    "edit_history_tweet_ids": ["787936862472179712"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_787936841802604544", "3_787936841806782464"]
+    },
+    "author_id": "231772399",
+    "text": "Mocht men in 050 scheefwonen een probleem vinden, dan is dit vooral een probleem voor huurders die teveel moeten betalen #huurteduur https://t.co/GPFdUaMIFF"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 31,
+          "end": 54,
+          "url": "https://t.co/QnthPYZlZ9",
+          "expanded_url": "https://x.com/jimmydijk/status/787921532119113728/photo/1",
+          "display_url": "pic.x.com/QnthPYZlZ9",
+          "media_key": "3_787921523491373056"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "frederikmeis",
+          "id": "1045920822341382144"
+        },
+        {
+          "start": 14,
+          "end": 30,
+          "username": "driekusvierkant",
+          "id": "1274364961"
+        }
+      ]
+    },
+    "id": "787921532119113728",
+    "created_at": "2016-10-17T07:41:46.000Z",
+    "conversation_id": "787896591428513792",
+    "edit_history_tweet_ids": ["787921532119113728"],
+    "lang": "qme",
+    "attachments": {
+      "media_keys": ["3_787921523491373056"]
+    },
+    "author_id": "231772399",
+    "text": "@frederikmeis @driekusvierkant https://t.co/QnthPYZlZ9"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 137,
+          "end": 160,
+          "url": "https://t.co/O4hDXljVz5",
+          "expanded_url": "https://x.com/jimmydijk/status/787043423215845376/photo/1",
+          "display_url": "pic.x.com/O4hDXljVz5",
+          "media_key": "3_787043395944472576"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 70,
+          "end": 81,
+          "username": "LVogelpoel",
+          "id": "719783124"
+        },
+        {
+          "start": 110,
+          "end": 122,
+          "username": "NLzorgfonds",
+          "id": "724502970411393024"
+        }
+      ]
+    },
+    "id": "787043423215845376",
+    "created_at": "2016-10-14T21:32:29.000Z",
+    "conversation_id": "787043423215845376",
+    "edit_history_tweet_ids": ["787043423215845376"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_787043395944472576"]
+    },
+    "author_id": "231772399",
+    "text": "\"Beter goede 1e hulp op tijd dan uitstekende zorg te laat\" aldus arts @LVogelpoel op drukbezochte bijeenkomst @NLzorgfonds in Enkhuizen. https://t.co/O4hDXljVz5"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 108,
+          "end": 131,
+          "url": "https://t.co/b2JoszTOwR",
+          "expanded_url": "https://x.com/jimmydijk/status/786996935609683968/photo/1",
+          "display_url": "pic.x.com/b2JoszTOwR",
+          "media_key": "3_786996917498683392"
+        },
+        {
+          "start": 108,
+          "end": 131,
+          "url": "https://t.co/b2JoszTOwR",
+          "expanded_url": "https://x.com/jimmydijk/status/786996935609683968/photo/1",
+          "display_url": "pic.x.com/b2JoszTOwR",
+          "media_key": "3_786996917498683393"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 95,
+          "end": 107,
+          "username": "NLzorgfonds",
+          "id": "724502970411393024"
+        }
+      ]
+    },
+    "id": "786996935609683968",
+    "created_at": "2016-10-14T18:27:45.000Z",
+    "conversation_id": "786996935609683968",
+    "edit_history_tweet_ids": ["786996935609683968"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_786996917498683392", "3_786996917498683393"]
+    },
+    "author_id": "231772399",
+    "text": "Goedenavond Enkhuizen! Meer dan 100 bezoekers vanavond op 22ste regionale bijeenkomst voor het @NLzorgfonds https://t.co/b2JoszTOwR"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 25,
+          "end": 48,
+          "url": "https://t.co/BeFlwjMZ0e",
+          "expanded_url": "https://www.nrc.nl/nieuws/2016/10/09/spers-trekken-hun-afdracht-volledig-af-4666206-a1525661",
+          "display_url": "nrc.nl/nieuws/2016/10…"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "jolanda1253",
+          "id": "3987873695"
+        }
+      ]
+    },
+    "id": "786674379472179200",
+    "created_at": "2016-10-13T21:06:02.000Z",
+    "conversation_id": "786669430180814848",
+    "edit_history_tweet_ids": ["786674379472179200"],
+    "lang": "en",
+    "author_id": "231772399",
+    "text": "@jolanda1253 Fact check: https://t.co/BeFlwjMZ0e"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 135,
+          "end": 158,
+          "url": "https://t.co/MAwnckFNCr",
+          "expanded_url": "https://x.com/jimmydijk/status/786666844518281217/photo/1",
+          "display_url": "pic.x.com/MAwnckFNCr",
+          "media_key": "3_786666833353072640"
+        },
+        {
+          "start": 135,
+          "end": 158,
+          "url": "https://t.co/MAwnckFNCr",
+          "expanded_url": "https://x.com/jimmydijk/status/786666844518281217/photo/1",
+          "display_url": "pic.x.com/MAwnckFNCr",
+          "media_key": "3_786666833348857856"
+        },
+        {
+          "start": 135,
+          "end": 158,
+          "url": "https://t.co/MAwnckFNCr",
+          "expanded_url": "https://x.com/jimmydijk/status/786666844518281217/photo/1",
+          "display_url": "pic.x.com/MAwnckFNCr",
+          "media_key": "3_786666833336274945"
+        },
+        {
+          "start": 135,
+          "end": 158,
+          "url": "https://t.co/MAwnckFNCr",
+          "expanded_url": "https://x.com/jimmydijk/status/786666844518281217/photo/1",
+          "display_url": "pic.x.com/MAwnckFNCr",
+          "media_key": "3_786666833357275137"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 123,
+          "end": 134,
+          "tag": "unstopable"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 69,
+          "end": 81,
+          "username": "NLzorgfonds",
+          "id": "724502970411393024"
+        }
+      ]
+    },
+    "id": "786666844518281217",
+    "created_at": "2016-10-13T20:36:05.000Z",
+    "conversation_id": "786666844518281217",
+    "edit_history_tweet_ids": ["786666844518281217"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": [
+        "3_786666833353072640",
+        "3_786666833348857856",
+        "3_786666833336274945",
+        "3_786666833357275137"
+      ]
+    },
+    "author_id": "231772399",
+    "text": "Als 21ste stad bezochten we vandaag Gouda met de regionale tour voor @NLzorgfonds Wederom bomvolle zaal vol sympathisanten #unstopable https://t.co/MAwnckFNCr"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 113,
+          "end": 136,
+          "url": "https://t.co/hYHZjl3r7C",
+          "expanded_url": "https://youtu.be/McDWxqHbwQY",
+          "display_url": "youtu.be/McDWxqHbwQY"
+        }
+      ]
+    },
+    "id": "786300626309378049",
+    "created_at": "2016-10-12T20:20:52.000Z",
+    "conversation_id": "786300626309378049",
+    "edit_history_tweet_ids": ["786300626309378049"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Goed nieuws! Flat van huisjesmelker in tuin bewoners moet worden afgebroken. Gefeliciteerd met deze overwinning! https://t.co/hYHZjl3r7C"
+  },
+  {
+    "id": "786291351960817664",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 66,
+          "end": 77,
+          "tag": "onvrijheid"
+        },
+        {
+          "start": 122,
+          "end": 130,
+          "tag": "raad050"
+        }
+      ]
+    },
+    "created_at": "2016-10-12T19:44:01.000Z",
+    "conversation_id": "786291351960817664",
+    "edit_history_tweet_ids": ["786291351960817664"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "College staat toe dat ondernemers verplicht op zondag open moeten #onvrijheid College danst naar pijpen van grote jongens #raad050"
+  },
+  {
+    "id": "786282106259443712",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 135,
+          "end": 143,
+          "tag": "raad050"
+        }
+      ]
+    },
+    "created_at": "2016-10-12T19:07:17.000Z",
+    "conversation_id": "786282106259443712",
+    "edit_history_tweet_ids": ["786282106259443712"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "College komt voor 2e jaar met slap verhaal zorgverzekering minima. Brief te laat, loze keuzevrijheid &amp; geen cent extra voor minima #raad050"
+  },
+  {
+    "id": "785964962263040004",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 128,
+          "end": 144,
+          "tag": "boeteopziekzijn"
+        }
+      ]
+    },
+    "created_at": "2016-10-11T22:07:04.000Z",
+    "conversation_id": "785964962263040004",
+    "edit_history_tweet_ids": ["785964962263040004"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Marktwerking creëert verspilling in zorg (winsten,bureaucratie&amp;reclame) en kosten zijn van samenleving naar individu gegaan #boeteopziekzijn"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 144,
+          "end": 167,
+          "url": "https://t.co/xRJNrCrOe3",
+          "expanded_url": "https://x.com/jimmydijk/status/785962711830102016/photo/1",
+          "display_url": "pic.x.com/xRJNrCrOe3",
+          "media_key": "3_785962703126945792"
+        },
+        {
+          "start": 144,
+          "end": 167,
+          "url": "https://t.co/xRJNrCrOe3",
+          "expanded_url": "https://x.com/jimmydijk/status/785962711830102016/photo/1",
+          "display_url": "pic.x.com/xRJNrCrOe3",
+          "media_key": "3_785962703114338304"
+        },
+        {
+          "start": 144,
+          "end": 167,
+          "url": "https://t.co/xRJNrCrOe3",
+          "expanded_url": "https://x.com/jimmydijk/status/785962711830102016/photo/1",
+          "display_url": "pic.x.com/xRJNrCrOe3",
+          "media_key": "3_785962703110234112"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 81,
+          "end": 88,
+          "tag": "kolder"
+        },
+        {
+          "start": 138,
+          "end": 143,
+          "tag": "Pauw"
+        }
+      ]
+    },
+    "id": "785962711830102016",
+    "created_at": "2016-10-11T21:58:07.000Z",
+    "conversation_id": "785962711830102016",
+    "edit_history_tweet_ids": ["785962711830102016"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": [
+        "3_785962703126945792",
+        "3_785962703114338304",
+        "3_785962703110234112"
+      ]
+    },
+    "author_id": "231772399",
+    "text": "Schippers: \"Verzekeraars maken geen winst, dat gaat terug naar premiekortingen.\" #kolder Winsten, premies &amp; reserves zijn gestegen... #Pauw https://t.co/xRJNrCrOe3"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 41,
+          "end": 64,
+          "url": "https://t.co/wiCqWSFEHI",
+          "expanded_url": "http://www.nationaalzorgfonds.nl",
+          "display_url": "nationaalzorgfonds.nl",
+          "status": 200,
+          "title": "Nationaal Zorgfonds",
+          "description": "In Nederland moet je kunnen rekenen op de zorg die je nodig hebt. Zo simpel is het. Maar er staat een boete van € 385,- op ziek zijn: het eigen risico. Het nieuwe kabinet van D66, CDA en VVD wil dit zelfs verhogen naar 520 euro. Dit vergroot de ongelijkheid. Steeds meer mensen kunnen niet meer de zorg betalen die nodig is. De zorg is veel te bureaucratisch. En aan de marketing van zorgverzekeraars en het jaarlijkse overstapcircus worden miljarden verspild. De kwaliteit gaat omlaag, de kosten omhoog. Dat",
+          "unwound_url": "https://www.nationaalzorgfonds.nl/"
+        },
+        {
+          "start": 65,
+          "end": 88,
+          "url": "https://t.co/EqNqisRPkb",
+          "expanded_url": "https://x.com/jimmydijk/status/785957802602795008/photo/1",
+          "display_url": "pic.x.com/EqNqisRPkb",
+          "media_key": "3_785957793115299840"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 35,
+          "end": 40,
+          "tag": "Pauw"
+        }
+      ]
+    },
+    "id": "785957802602795008",
+    "created_at": "2016-10-11T21:38:37.000Z",
+    "conversation_id": "785957802602795008",
+    "edit_history_tweet_ids": ["785957802602795008"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_785957793115299840"]
+    },
+    "author_id": "231772399",
+    "text": "Slecht verhaal van Edith Schippers #Pauw https://t.co/wiCqWSFEHI https://t.co/EqNqisRPkb"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 144,
+          "end": 167,
+          "url": "https://t.co/c5BiHGPKk7",
+          "expanded_url": "https://x.com/jimmydijk/status/785600716689772549/photo/1",
+          "display_url": "pic.x.com/c5BiHGPKk7",
+          "media_key": "3_785600707793653760"
+        },
+        {
+          "start": 144,
+          "end": 167,
+          "url": "https://t.co/c5BiHGPKk7",
+          "expanded_url": "https://x.com/jimmydijk/status/785600716689772549/photo/1",
+          "display_url": "pic.x.com/c5BiHGPKk7",
+          "media_key": "3_785600707789488128"
+        }
+      ]
+    },
+    "id": "785600716689772549",
+    "created_at": "2016-10-10T21:59:41.000Z",
+    "conversation_id": "785600716689772549",
+    "edit_history_tweet_ids": ["785600716689772549"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_785600707793653760", "3_785600707789488128"]
+    },
+    "author_id": "231772399",
+    "text": "McKinsey &amp; AIAS toonden aan dat (lage)inkomens afgelopen jaren flink zijn achtergebleven. De SP wil hogere lonen en een tot 10% hogere AOW. https://t.co/c5BiHGPKk7"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 141,
+          "end": 164,
+          "url": "https://t.co/Rca9yoOI6p",
+          "expanded_url": "https://x.com/jimmydijk/status/784158929962016768/photo/1",
+          "display_url": "pic.x.com/Rca9yoOI6p",
+          "media_key": "3_784158922831720448"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 7,
+          "end": 13,
+          "username": "trouw",
+          "id": "3103511"
+        },
+        {
+          "start": 25,
+          "end": 37,
+          "username": "NLzorgfonds",
+          "id": "724502970411393024"
+        }
+      ]
+    },
+    "id": "784158929962016768",
+    "created_at": "2016-10-06T22:30:32.000Z",
+    "conversation_id": "784158929962016768",
+    "edit_history_tweet_ids": ["784158929962016768"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_784158922831720448"]
+    },
+    "author_id": "231772399",
+    "text": "90% vd @trouw lezers wil @NLzorgfonds, 90% vd politici willen dat (nog) niet. We gaan hen overtuigen met een volksbeweging. Sluit je nu aan! https://t.co/Rca9yoOI6p"
+  },
+  {
+    "id": "783768481900658688",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 119,
+          "end": 129,
+          "tag": "hetzelfde"
+        },
+        {
+          "start": 130,
+          "end": 138,
+          "tag": "raad050"
+        }
+      ]
+    },
+    "created_at": "2016-10-05T20:39:02.000Z",
+    "conversation_id": "783768481900658688",
+    "edit_history_tweet_ids": ["783768481900658688"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Over bewoners betrekken bij bouwplannen: SP wil uitwerking, PvdA stappenplan, D66 wil programma maatschappelijke eisen #hetzelfde #raad050"
+  },
+  {
+    "id": "783731273898524672",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 132,
+          "end": 140,
+          "tag": "raad050"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 10,
+          "end": 26,
+          "username": "roelandvdschaaf",
+          "id": "317691601"
+        }
+      ]
+    },
+    "created_at": "2016-10-05T18:11:11.000Z",
+    "conversation_id": "783731273898524672",
+    "edit_history_tweet_ids": ["783731273898524672"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Wethouder @roelandvdschaaf over SP-initiatief Meldpunt Ongewenst Verhuurgedrag \"Het meldpunt werkt en levert nuttige informatie op\" #raad050"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 114,
+          "end": 137,
+          "url": "https://t.co/65CXTAnZ6y",
+          "expanded_url": "https://www.oogtv.nl/2016/10/odensehuis-viert-feest-na-toezegging-geld/",
+          "display_url": "oogtv.nl/2016/10/odense…"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 29,
+          "end": 44,
+          "username": "Odensehuisgron",
+          "id": "1886317340"
+        }
+      ]
+    },
+    "id": "782932525131988992",
+    "created_at": "2016-10-03T13:17:14.000Z",
+    "conversation_id": "782932525131988992",
+    "edit_history_tweet_ids": ["782932525131988992"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Gefeliciteerd, vrijwilligers @Odensehuisgron Jullie belangeloze inzet is inspirerend. Maak er een mooi feest van!\nhttps://t.co/65CXTAnZ6y"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 115,
+          "end": 138,
+          "url": "https://t.co/FEMUY01k59",
+          "expanded_url": "https://www.skipr.nl/actueel/id10689-pvda-neemt-afscheid-van-marktwerking.html",
+          "display_url": "skipr.nl/actueel/id1068…"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 105,
+          "end": 110,
+          "username": "PvdA",
+          "id": "7343682"
+        }
+      ]
+    },
+    "id": "781982993250385920",
+    "created_at": "2016-09-30T22:24:08.000Z",
+    "conversation_id": "781982993250385920",
+    "edit_history_tweet_ids": ["781982993250385920"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "In 2012 stelde PvdA: stop concurrentie in zorg en tussen verzekeraars want dat bespaart €3mld. Wat stelt @PvdA nu? https://t.co/FEMUY01k59"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 134,
+          "end": 157,
+          "url": "https://t.co/M7chqmeQMw",
+          "expanded_url": "https://x.com/jimmydijk/status/781922687568515072/photo/1",
+          "display_url": "pic.x.com/M7chqmeQMw",
+          "media_key": "3_781922674549358592"
+        },
+        {
+          "start": 134,
+          "end": 157,
+          "url": "https://t.co/M7chqmeQMw",
+          "expanded_url": "https://x.com/jimmydijk/status/781922687568515072/photo/1",
+          "display_url": "pic.x.com/M7chqmeQMw",
+          "media_key": "3_781922674570358785"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 71,
+          "end": 81,
+          "username": "AllanVafi",
+          "id": "2225296674"
+        },
+        {
+          "start": 110,
+          "end": 122,
+          "username": "NLzorgfonds",
+          "id": "724502970411393024"
+        }
+      ]
+    },
+    "id": "781922687568515072",
+    "created_at": "2016-09-30T18:24:30.000Z",
+    "conversation_id": "781922687568515072",
+    "edit_history_tweet_ids": ["781922687568515072"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_781922674549358592", "3_781922674570358785"]
+    },
+    "author_id": "231772399",
+    "text": "\"Zorg is sector voor het hart. Niet voor de rekenmachine\" zegt chirurg @AllanVafi op druk bezochte avond over @NLzorgfonds in Almelo. https://t.co/M7chqmeQMw"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 97,
+          "end": 120,
+          "url": "https://t.co/Ef5cTTeL9Y",
+          "expanded_url": "https://x.com/jimmydijk/status/781610475729645569/photo/1",
+          "display_url": "pic.x.com/Ef5cTTeL9Y",
+          "media_key": "3_781610468293107712"
+        },
+        {
+          "start": 97,
+          "end": 120,
+          "url": "https://t.co/Ef5cTTeL9Y",
+          "expanded_url": "https://x.com/jimmydijk/status/781610475729645569/photo/1",
+          "display_url": "pic.x.com/Ef5cTTeL9Y",
+          "media_key": "3_781610468297338880"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 21,
+          "end": 31,
+          "username": "telegraaf",
+          "id": "2902821"
+        }
+      ]
+    },
+    "id": "781610475729645569",
+    "created_at": "2016-09-29T21:43:53.000Z",
+    "conversation_id": "781610475729645569",
+    "edit_history_tweet_ids": ["781610475729645569"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_781610468293107712", "3_781610468297338880"]
+    },
+    "author_id": "231772399",
+    "text": "Taaadaaa! Ook lezers @telegraaf (87%) trappen niet meer in gegoochel van VVD-minister Schippers. https://t.co/Ef5cTTeL9Y"
+  },
+  {
+    "id": "781231213046435840",
+    "created_at": "2016-09-28T20:36:50.000Z",
+    "conversation_id": "781182378538663936",
+    "edit_history_tweet_ids": ["781231213046435840"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "@georgevangent Nee, daarom subsidieerde we organisatie die mensen met afstand tot arbeidsmarkt aan nuttig werk hielp."
+  },
+  {
+    "id": "781185457950523392",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 122,
+          "end": 130,
+          "tag": "raad050"
+        }
+      ]
+    },
+    "created_at": "2016-09-28T17:35:01.000Z",
+    "conversation_id": "781185457950523392",
+    "edit_history_tweet_ids": ["781185457950523392"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "CDA, SP, PvdA, CU &amp; VVD dwingen bij renovatie Stadhuis geen overbodige poespas af. Bescheiden omgaan met publiek geld #raad050"
+  },
+  {
+    "id": "781182378538663936",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 132,
+          "end": 140,
+          "tag": "raad050"
+        }
+      ]
+    },
+    "created_at": "2016-09-28T17:22:47.000Z",
+    "conversation_id": "781182378538663936",
+    "edit_history_tweet_ids": ["781182378538663936"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Weer iets in de uitverkoop! PvdA vermarkt onder leiding van D66 het beheer fietsenstallingen. Onzekerheid voor kwetsbare werknemers #raad050"
+  },
+  {
+    "id": "781181897149911040",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 132,
+          "end": 140,
+          "tag": "raad050"
+        }
+      ]
+    },
+    "created_at": "2016-09-28T17:20:52.000Z",
+    "conversation_id": "781181897149911040",
+    "edit_history_tweet_ids": ["781181897149911040"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Wat nou 'economisme'? GroenLinks vermarkt onder leiding van D66 het beheer fietsenstallingen. Onzekerheid voor kwetsbare werknemers #raad050"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 125,
+          "end": 148,
+          "url": "https://t.co/odXkm0139H",
+          "expanded_url": "https://x.com/roelandvdschaaf/status/780755664339632128",
+          "display_url": "x.com/roelandvdschaa…"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 116,
+          "end": 124,
+          "tag": "raad050"
+        }
+      ]
+    },
+    "id": "780842744889638912",
+    "created_at": "2016-09-27T18:53:12.000Z",
+    "conversation_id": "780842744889638912",
+    "edit_history_tweet_ids": ["780842744889638912"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Juist daarom zijn de bedenksels van deze raden, staten en kamers vaak vanuit dat perspectief ingegeven en ontworpen #raad050 https://t.co/odXkm0139H"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 143,
+          "end": 166,
+          "url": "https://t.co/LhlDJlvrgd",
+          "expanded_url": "https://x.com/bbnieuws/status/780353470092025858",
+          "display_url": "x.com/bbnieuws/statu…"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 134,
+          "end": 142,
+          "tag": "raad050"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 28,
+          "end": 39,
+          "username": "letsgro050",
+          "id": "1371819698"
+        },
+        {
+          "start": 46,
+          "end": 61,
+          "username": "G1000Groningen",
+          "id": "2795371864"
+        }
+      ]
+    },
+    "id": "780678445466521601",
+    "created_at": "2016-09-27T08:00:20.000Z",
+    "conversation_id": "780678445466521601",
+    "edit_history_tweet_ids": ["780678445466521601"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Lijkt ook geval te zijn bij @letsgro050 &amp; @G1000Groningen Maar ook bij vormen van \"burgerparticipatie\" waar stadsbestuur mee komt #raad050 https://t.co/LhlDJlvrgd"
+  },
+  {
+    "id": "780674899555807232",
+    "created_at": "2016-09-27T07:46:14.000Z",
+    "conversation_id": "780521010286194721",
+    "edit_history_tweet_ids": ["780674899555807232"],
+    "lang": "nl",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "timvanlieshout",
+          "id": "14220681"
+        }
+      ]
+    },
+    "author_id": "231772399",
+    "text": "@timvanlieshout Zorgkosten zijn van gezamenlijk (op basis van solidariteit) naar individueel verplaats. Dat is verplaatsing van zorgkosten."
+  },
+  {
+    "id": "780674313485713408",
+    "created_at": "2016-09-27T07:43:55.000Z",
+    "conversation_id": "780521010286194721",
+    "edit_history_tweet_ids": ["780674313485713408"],
+    "lang": "nl",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "timvanlieshout",
+          "id": "14220681"
+        }
+      ]
+    },
+    "author_id": "231772399",
+    "text": "@timvanlieshout Neem er nou maar een NZF zonder eigen risico in op. Jullie zijn welkom om bij de maatschappelijk coalitie aan te sluiten."
+  },
+  {
+    "id": "780673057761427457",
+    "created_at": "2016-09-27T07:38:55.000Z",
+    "conversation_id": "780521010286194721",
+    "edit_history_tweet_ids": ["780673057761427457"],
+    "lang": "nl",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "timvanlieshout",
+          "id": "14220681"
+        }
+      ]
+    },
+    "author_id": "231772399",
+    "text": "@timvanlieshout @hans_koevoe En Samsom moet zich schamen... Als soc.dem. zou hij dit moeten steunen (net als zijn leden)."
+  },
+  {
+    "id": "780671358091001856",
+    "created_at": "2016-09-27T07:32:10.000Z",
+    "conversation_id": "780521010286194721",
+    "edit_history_tweet_ids": ["780671358091001856"],
+    "lang": "nl",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "timvanlieshout",
+          "id": "14220681"
+        },
+        {
+          "start": 16,
+          "end": 29,
+          "username": "hans_koevoet",
+          "id": "281218106"
+        },
+        {
+          "start": 45,
+          "end": 57,
+          "username": "NLzorgfonds",
+          "id": "724502970411393024"
+        }
+      ]
+    },
+    "author_id": "231772399",
+    "text": "@timvanlieshout @hans_koevoet @C_Groenendijk @NLzorgfonds Reclame, marketing, klantenbinding e.d. Bij elkaar 0,5 miljard euro per jaar."
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 127,
+          "end": 150,
+          "url": "https://t.co/zcGE80korl",
+          "expanded_url": "https://x.com/nat_ombudsman/status/780625769173094401",
+          "display_url": "x.com/nat_ombudsman/…"
+        }
+      ]
+    },
+    "id": "780651982726070272",
+    "created_at": "2016-09-27T06:15:11.000Z",
+    "conversation_id": "780651982726070272",
+    "edit_history_tweet_ids": ["780651982726070272"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "Na de Belastingdienst komen betalingsachterstanden het meest voor bij de zorgpremie en andere zorgkosten (bij 300.000 mensen). https://t.co/zcGE80korl"
+  },
+  {
+    "id": "780543300222713856",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 127,
+          "end": 138,
+          "tag": "dikverhaal"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "hans_koevoet",
+          "id": "281218106"
+        },
+        {
+          "start": 29,
+          "end": 41,
+          "username": "NLzorgfonds",
+          "id": "724502970411393024"
+        }
+      ]
+    },
+    "created_at": "2016-09-26T23:03:19.000Z",
+    "conversation_id": "780521010286194721",
+    "edit_history_tweet_ids": ["780543300222713856"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "@hans_koevoet @C_Groenendijk @NLzorgfonds 1e balk: 1mrd winst p.j. + 0,5mrd reclames p.j. 2e balk: cijfers CPB. 3e balk: idem. #dikverhaal"
+  },
+  {
+    "id": "780530702832066561",
+    "created_at": "2016-09-26T22:13:15.000Z",
+    "conversation_id": "780521010286194721",
+    "edit_history_tweet_ids": ["780530702832066561"],
+    "lang": "nl",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "GerBaron",
+          "id": "17898705"
+        }
+      ]
+    },
+    "author_id": "231772399",
+    "text": "@GerBaron Het is bureaucratie door registratie- verantwoording- en administratiedruk van commerciële partijen. Anders dan schaalvergroting."
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 113,
+          "end": 136,
+          "url": "https://t.co/FImyGQIoqe",
+          "expanded_url": "https://x.com/jimmydijk/status/780528538793414657/photo/1",
+          "display_url": "pic.x.com/FImyGQIoqe",
+          "media_key": "3_780528525589811206"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "GerBaron",
+          "id": "17898705"
+        }
+      ]
+    },
+    "id": "780528538793414657",
+    "created_at": "2016-09-26T22:04:39.000Z",
+    "conversation_id": "780521010286194721",
+    "edit_history_tweet_ids": ["780528538793414657"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_780528525589811206"]
+    },
+    "author_id": "231772399",
+    "text": "@GerBaron Van 4 grote en 12 middelgrote verzekeraars naar één Nationaal ZorgFonds scheelt erg veel bureaucratie. https://t.co/FImyGQIoqe"
+  },
+  {
+    "id": "780524185760169984",
+    "created_at": "2016-09-26T21:47:21.000Z",
+    "conversation_id": "780521010286194721",
+    "edit_history_tweet_ids": ["780524185760169984"],
+    "lang": "nl",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "GerBaron",
+          "id": "17898705"
+        }
+      ]
+    },
+    "author_id": "231772399",
+    "text": "@GerBaron Check de 3 blauwe balken. Door het afschaffen van de verzekeraars bespaar je het geld waarmee je het eigen risico kan afschaffen."
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 141,
+          "end": 164,
+          "url": "https://t.co/RrQ1BsIZs9",
+          "expanded_url": "https://x.com/jimmydijk/status/780521010286194721/photo/1",
+          "display_url": "pic.x.com/RrQ1BsIZs9",
+          "media_key": "3_780521002379993088"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 135,
+          "end": 140,
+          "tag": "Pauw"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 76,
+          "end": 88,
+          "username": "NLzorgfonds",
+          "id": "724502970411393024"
+        }
+      ]
+    },
+    "id": "780521010286194721",
+    "created_at": "2016-09-26T21:34:44.000Z",
+    "conversation_id": "780521010286194721",
+    "edit_history_tweet_ids": ["780521010286194721"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_780521002379993088"]
+    },
+    "author_id": "231772399",
+    "text": "Zeg Samsom, er zijn meer opties dan premie- of belastingverhoging. Invoeren @NLzorgfonds en afschaffen eigen risico gaan perfect samen #Pauw https://t.co/RrQ1BsIZs9"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 140,
+          "end": 163,
+          "url": "https://t.co/wkq89srXBp",
+          "expanded_url": "https://x.com/jimmydijk/status/779435969900605440/photo/1",
+          "display_url": "pic.x.com/wkq89srXBp",
+          "media_key": "3_779435960257970176"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 38,
+          "end": 50,
+          "username": "NLzorgfonds",
+          "id": "724502970411393024"
+        }
+      ]
+    },
+    "id": "779435969900605440",
+    "created_at": "2016-09-23T21:43:11.000Z",
+    "conversation_id": "779435969900605440",
+    "edit_history_tweet_ids": ["779435969900605440"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_779435960257970176"]
+    },
+    "author_id": "231772399",
+    "text": "Vanavond volle zaal in Apeldoorn voor @NLzorgfonds Komende week in Veenendaal,Vlaardingen,Veghel,Dordrecht,Meppel,Schagen,Almere&amp;Almelo https://t.co/wkq89srXBp"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 117,
+          "end": 140,
+          "url": "https://t.co/iS3NE5dQ8i",
+          "expanded_url": "http://nos.nl/video/2133424-roemer-trots-het-kabinet-moet-zich-schamen.html",
+          "display_url": "nos.nl/video/2133424-…"
+        }
+      ]
+    },
+    "id": "778366666774306816",
+    "created_at": "2016-09-20T22:54:09.000Z",
+    "conversation_id": "778366666774306816",
+    "edit_history_tweet_ids": ["778366666774306816"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "\"Ze moeten zich schamen voor het harde bezuinigingsbeleid v/d afgelopen jaren en de schade die ze hebben aangericht\" https://t.co/iS3NE5dQ8i"
+  },
+  {
+    "id": "777828245634973696",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 58,
+          "end": 70,
+          "tag": "EigenRisico"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "GerardtenBrink",
+          "id": "630880019"
+        }
+      ]
+    },
+    "created_at": "2016-09-19T11:14:39.000Z",
+    "conversation_id": "777816788558028800",
+    "edit_history_tweet_ids": ["777828245634973696"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "@GerardtenBrink Maar ben erg benieuwd naar hoe jullie het #EigenRisico gaan afschaffen en zorgvermijding gaan voorkomen?"
+  },
+  {
+    "id": "777827925303459840",
+    "created_at": "2016-09-19T11:13:23.000Z",
+    "conversation_id": "777816788558028800",
+    "edit_history_tweet_ids": ["777827925303459840"],
+    "lang": "nl",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "GerardtenBrink",
+          "id": "630880019"
+        }
+      ]
+    },
+    "author_id": "231772399",
+    "text": "@GerardtenBrink Zijn de cijfers van het CPB"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 16,
+          "end": 39,
+          "url": "https://t.co/xZFxFyutHj",
+          "expanded_url": "https://nationaalzorgfonds.nl/sites/nationaalzorgfonds.nl/files/Rapport-NZF-web.pdf",
+          "display_url": "nationaalzorgfonds.nl/sites/nationaa…"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "GerardtenBrink",
+          "id": "630880019"
+        }
+      ]
+    },
+    "id": "777826438598787073",
+    "created_at": "2016-09-19T11:07:28.000Z",
+    "conversation_id": "777816788558028800",
+    "edit_history_tweet_ids": ["777826438598787073"],
+    "lang": "qme",
+    "author_id": "231772399",
+    "text": "@GerardtenBrink https://t.co/xZFxFyutHj"
+  },
+  {
+    "id": "777820230064214016",
+    "created_at": "2016-09-19T10:42:48.000Z",
+    "conversation_id": "777816788558028800",
+    "edit_history_tweet_ids": ["777820230064214016"],
+    "lang": "nl",
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "GerardtenBrink",
+          "id": "630880019"
+        }
+      ]
+    },
+    "author_id": "231772399",
+    "text": "@GerardtenBrink Dit hebben we door CPB laten doorrekenen."
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 119,
+          "end": 142,
+          "url": "https://t.co/EtgX4YN43u",
+          "expanded_url": "https://x.com/jimmydijk/status/777819131643097088/photo/1",
+          "display_url": "pic.x.com/EtgX4YN43u",
+          "media_key": "3_777819124210737152"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 33,
+          "end": 45,
+          "tag": "EigenRisico"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "GerardtenBrink",
+          "id": "630880019"
+        },
+        {
+          "start": 62,
+          "end": 74,
+          "username": "NLzorgfonds",
+          "id": "724502970411393024"
+        }
+      ]
+    },
+    "id": "777819131643097088",
+    "created_at": "2016-09-19T10:38:26.000Z",
+    "conversation_id": "777816788558028800",
+    "edit_history_tweet_ids": ["777819131643097088"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_777819124210737152"]
+    },
+    "author_id": "231772399",
+    "text": "@GerardtenBrink Kijk, afschaffen #EigenRisico &amp; invoering @NLzorgfonds gaan perfect samen. Is slechts één optie... https://t.co/EtgX4YN43u"
+  },
+  {
+    "id": "777815558465224704",
+    "entities": {
+      "hashtags": [
+        {
+          "start": 68,
+          "end": 72,
+          "tag": "VVD"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 15,
+          "username": "GerardtenBrink",
+          "id": "630880019"
+        }
+      ]
+    },
+    "created_at": "2016-09-19T10:24:14.000Z",
+    "conversation_id": "777814946709114880",
+    "edit_history_tweet_ids": ["777815558465224704"],
+    "lang": "nl",
+    "author_id": "231772399",
+    "text": "@GerardtenBrink Hoeft niet, is afhankelijk hoe je het wilt betalen. #VVD geeft premieverhoging als enige opties... Kan op andere manieren."
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 95,
+          "end": 118,
+          "url": "https://t.co/Voq24XJeAG",
+          "expanded_url": "https://x.com/jimmydijk/status/777812324480614400/photo/1",
+          "display_url": "pic.x.com/Voq24XJeAG",
+          "media_key": "3_777809783353139200"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 74,
+          "end": 81,
+          "tag": "Roemer"
+        },
+        {
+          "start": 82,
+          "end": 94,
+          "tag": "EigenRisico"
+        }
+      ]
+    },
+    "id": "777812324480614400",
+    "created_at": "2016-09-19T10:11:23.000Z",
+    "conversation_id": "777812324480614400",
+    "edit_history_tweet_ids": ["777812324480614400"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_777809783353139200"]
+    },
+    "author_id": "231772399",
+    "text": "Laten we alle mooie woorden waarmaken, zet nu de zaag in het eigen risico #Roemer #EigenRisico https://t.co/Voq24XJeAG"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 112,
+          "end": 135,
+          "url": "https://t.co/JE8USNrGM2",
+          "expanded_url": "https://x.com/jimmydijk/status/776536376397488132/photo/1",
+          "display_url": "pic.x.com/JE8USNrGM2",
+          "media_key": "3_776536364464701440"
+        },
+        {
+          "start": 112,
+          "end": 135,
+          "url": "https://t.co/JE8USNrGM2",
+          "expanded_url": "https://x.com/jimmydijk/status/776536376397488132/photo/1",
+          "display_url": "pic.x.com/JE8USNrGM2",
+          "media_key": "3_776536364477214721"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 19,
+          "end": 31,
+          "username": "NLzorgfonds",
+          "id": "724502970411393024"
+        }
+      ]
+    },
+    "id": "776536376397488132",
+    "created_at": "2016-09-15T21:41:14.000Z",
+    "conversation_id": "776536376397488132",
+    "edit_history_tweet_ids": ["776536376397488132"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_776536364464701440", "3_776536364477214721"]
+    },
+    "author_id": "231772399",
+    "text": "Zwollenaren willen @NLzorgfonds Beweging groeit met 138.000 sympathisanten en 55.000 campagnevoerders. Doe mee! https://t.co/JE8USNrGM2"
+  },
+  {
+    "entities": {
+      "urls": [
+        {
+          "start": 114,
+          "end": 137,
+          "url": "https://t.co/PzjkKMySv8",
+          "expanded_url": "https://x.com/jimmydijk/status/776419398328385536/photo/1",
+          "display_url": "pic.x.com/PzjkKMySv8",
+          "media_key": "3_776419388287254528"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "driekusvierkant",
+          "id": "1274364961"
+        }
+      ]
+    },
+    "id": "776419398328385536",
+    "created_at": "2016-09-15T13:56:24.000Z",
+    "conversation_id": "776304227543113730",
+    "edit_history_tweet_ids": ["776419398328385536"],
+    "lang": "nl",
+    "attachments": {
+      "media_keys": ["3_776419388287254528"]
+    },
+    "author_id": "231772399",
+    "text": "@driekusvierkant Wederom erg subjectief. Ook (semi-)publieke sector zorgt voor banen en stimuleert economie. Dus: https://t.co/PzjkKMySv8"
+  }
 ]
