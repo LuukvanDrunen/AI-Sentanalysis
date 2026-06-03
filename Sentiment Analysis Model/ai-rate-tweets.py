@@ -4,9 +4,9 @@ import csv
 import re
 
 # text_only_file = '../Results/Geert Wilders/Final-Wilders-Results.json'
-text_only_file = '/home/luukvandrunen/OneDrive/Universiteit Utrecht/AI-Sentanalysis/Results/Geert Wilders/Part1-Final-Wilders.json'
+text_only_file = '/home/luukvandrunen/OneDrive/Universiteit Utrecht/AI-Sentanalysis/Results/Jimmy Dijk/Dijk-Last-Decade-parsed-text-only.json'
 
-csv_filename = 'Wilders_part1_labeled.csv'
+csv_filename = 'Dijk_labeled.csv'
 with open(text_only_file) as f:
     data = json.load(f)
 data = list(data)
