@@ -19,12 +19,12 @@ fields_to_include = ["article",
                      "text"]
 # Search with automatic pagination
 count = len([name for name in os.listdir('.') if os.path.isfile(name)])
-save_file = 'jimmydijk-01-05.json'
+save_file = 'gidimarkuszower.json'
 all_posts = []
 def scrape(id, date):
     try:
         for page in client.posts.search_all(
-            query='from:jimmydijk -is:retweet',
+            query='from:GidiMarkuszower -is:retweet',
             max_results=100,  # Per page
             tweet_fields=fields_to_include,  # Optional expansions
             expansions=['attachments.media_keys'],
