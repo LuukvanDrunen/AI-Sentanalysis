@@ -19,7 +19,7 @@ fields_to_include = ["article",
                      "text"]
 # Search with automatic pagination
 count = len([name for name in os.listdir('.') if os.path.isfile(name)])
-save_file = 'gidimarkuszower.json'
+save_file = 'Markuszower-Part2.json'
 all_posts = []
 def scrape(id, date):
     try:
@@ -52,6 +52,6 @@ def scrape(id, date):
 
 
 if __name__ == "__main__":
-    scrape(1715728574643122658, '2026-06-01T00:00:00.000Z')
+    scrape(1715728574643122658, '2020-01-01T10:30:42.000Z')
 # with open("search_all_success.json", "w") as outfile:
 #     json.dump(all_posts, outfile, indent=4, ensure_ascii=False)
