@@ -19,12 +19,12 @@ fields_to_include = ["article",
                      "text"]
 # Search with automatic pagination
 count = len([name for name in os.listdir('.') if os.path.isfile(name)])
-save_file = 'Markuszower-Part2.json'
+save_file = '../Results/Jesse Klaver/Klaver-part1.json'
 all_posts = []
 def scrape(id, date):
     try:
         for page in client.posts.search_all(
-            query='from:GidiMarkuszower -is:retweet',
+            query='from:jesseklaver -is:retweet',
             max_results=100,  # Per page
             tweet_fields=fields_to_include,  # Optional expansions
             expansions=['attachments.media_keys'],
@@ -39,6 +39,8 @@ def scrape(id, date):
             if hasattr(page, 'meta') and page.meta:
                 if hasattr(page.meta, 'oldest_id'):
                     oldest_id = page.meta.oldest_id
+            with open("../Results/Jesse Klaver/search_all_success.json", "w") as outfile:
+                json.dump(all_posts, outfile, indent=4, ensure_ascii=False)
     except requests.exceptions.HTTPError as e:
         print(e)
         print(f"Failed to fetch all posts, still dumping scraped tweets, if any were scraped")
@@ -52,6 +54,5 @@ def scrape(id, date):
 
 
 if __name__ == "__main__":
-    scrape(1715728574643122658, '2020-01-01T10:30:42.000Z')
-# with open("search_all_success.json", "w") as outfile:
-#     json.dump(all_posts, outfile, indent=4, ensure_ascii=False)
+    scrape(1715728574643122658, '2026-06-01T00:00:00.000Z')
+
