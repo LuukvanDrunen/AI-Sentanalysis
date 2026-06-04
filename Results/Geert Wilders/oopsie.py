@@ -1,6 +1,6 @@
 import json
 
-with open('/home/luukvandrunen/OneDrive/Universiteit Utrecht/AI-Sentanalysis/Results/Geert Wilders/Wilders-Last-Decade-parsed-text-only.json') as f:
+with open('/mnt/c/Users/luukv/OneDrive - Universiteit Utrecht/Universiteit Utrecht/AI-Sentanalysis/Results/Henri Bontenbal/Bontenbal-Last-Decade-parsed-text-only.json') as f:
     input_data = json.load(f)
 
 for i in input_data:
@@ -24,6 +24,6 @@ def remove_empty_elements(d):
     
 input_data = remove_empty_elements(input_data)
 
-with open('Final-Wilders-Results.json', 'w') as f:
+with open('Final-Bontenbal-Results.json', 'w') as f:
     json.dump(input_data, f, ensure_ascii=False)
     
