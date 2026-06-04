@@ -19,12 +19,12 @@ fields_to_include = ["article",
                      "text"]
 # Search with automatic pagination
 count = len([name for name in os.listdir('.') if os.path.isfile(name)])
-save_file = '../Results/Henri Bontenbal/Bontenbal-part3.json'
+save_file = '../Results/Ruben Brekelmans/Brekelmans-4.json'
 all_posts = []
 def scrape(id, date):
     try:
         for page in client.posts.search_all(
-            query='from:HenriBontenbal -is:retweet -is:reply',
+            query='from:rubenbrekelmans -is:retweet -is:reply',
             max_results=100,  # Per page
             tweet_fields=fields_to_include,  # Optional expansions
             expansions=['attachments.media_keys'],
@@ -39,7 +39,7 @@ def scrape(id, date):
             if hasattr(page, 'meta') and page.meta:
                 if hasattr(page.meta, 'oldest_id'):
                     oldest_id = page.meta.oldest_id
-            with open("../Results/Henri Bontenbal/search_all_success_3.json", "w") as outfile:
+            with open("../Results/Ruben Brekelmans/search_all_success-4.json", "w") as outfile:
                 json.dump(all_posts, outfile, indent=4, ensure_ascii=False)
     except requests.exceptions.HTTPError as e:
         print(e)
@@ -54,5 +54,5 @@ def scrape(id, date):
 
 
 if __name__ == "__main__":
-    scrape(1715728574643122658, '2021-06-24T16:03:46.000Z')
+    scrape(1715728574643122658, '2018-04-28T08:03:37.000Z')
 
